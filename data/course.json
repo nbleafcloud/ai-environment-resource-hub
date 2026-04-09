@@ -1,0 +1,282 @@
+[
+  {
+    "title": "Environmental Justice, Science and Technology",
+    "url": "https://mitxonline.mit.edu/courses/course-v1:MITxT+11.068x/",
+    "description": "Learn about the environmental justice movement, its history, and how science and technology can be used to tackle environmental challenges and injustice.",
+    "domain": "AI & Environmental Justice",
+    "pricing": "FREE!",
+    "institution": "MITxOnline"
+  },
+  {
+    "title": "Carbon Aware Computing for GenAI Developers",
+    "url": "https://www.deeplearning.ai/short-courses/carbon-aware-computing-for-genai-developers/",
+    "description": "Learn how to perform model training and inference jobs with cleaner, low-carbon energy in the cloud!",
+    "domain": "AI & Energy",
+    "pricing": "FREE!",
+    "institution": "Deep Learning"
+  },
+  {
+    "title": "Sustainable AI: Managing Environmental Impacts Responsibly",
+    "url": "https://education.mila.quebec/course/sustainable-ai-managing-environmental-impacts-responsibly",
+    "description": "Understanding and reducing the environmental footprint of AI through sustainable decision-making.",
+    "domain": "Sustainable AI",
+    "pricing": "PAID",
+    "institution": "Mila"
+  },
+  {
+    "title": "Policy Impact for Emerging Climate Leaders",
+    "url": "https://aspenpolicyacademy.org/short-courses/#policyforclimate",
+    "description": "To support emerging climate leaders in their efforts to move climate policy, the Aspen Policy Academy is hosting a part-time, unpaid policy impact bootcamp for climate leaders between the ages of 21 and 30.",
+    "domain": "Climate Policy & Leadership",
+    "pricing": "FREE",
+    "institution": "Aspen Policy Academy"
+  },
+  {
+    "title": "How Tech is Driving Sustainability",
+    "url": "https://www.linkedin.com/learning/how-tech-drives-sustainability/technology-and-sustainability",
+    "description": "In this course, Talal Gedeon highlights the demand for individuals and organizations to design and implement effective sustainable and environmental technological solutions. Learn what the Internet of Things (IoT) is and how it can be used to promote a more sustainable future.",
+    "domain": "Sustainable AI",
+    "pricing": "FREE",
+    "institution": "LinkedIn"
+  },
+  {
+    "title": "Green Digital Certificate",
+    "url": "https://greendigitalcertificate.inco-group.co/",
+    "description": "INCO Academy’s free Green Digital Certificate online programs equip\nyou with the knowledge and skills to build sustainable digital solutions.",
+    "domain": "Green Digital Skills",
+    "pricing": "FREE",
+    "institution": "INCO Academy"
+  },
+  {
+    "title": "Sustainability Transformation for Leaders",
+    "url": "https://www.linkedin.com/learning/paths/sustainability-transformation-for-leaders",
+    "description": "The global business sector is being transformed around a common issue: environmental sustainability. Leaders should not only be prepared for the business transformations that lie ahead, but also be key architects of developing sustainability policies in the workplace.",
+    "domain": "Sustainability & Business Leadership",
+    "pricing": "FREE",
+    "institution": "LinkedIn"
+  },
+  {
+    "title": "AI & ML Applications in Oil and Gas Industry",
+    "url": "https://www.coursera.org/learn/aiml-applications-in-oil-and-gas-industry",
+    "description": "This course is part of Petroleum Engineering with AI Applications Specialization on Coursera.",
+    "domain": "AI & Energy in Fossil Fuels",
+    "pricing": "PAID",
+    "institution": "Coursera"
+  },
+  {
+    "title": "Sustainable AI",
+    "url": "https://www.terra.do/climate-change-courses/sustainable-ai/",
+    "description": "The four-week course equips you with tools, and strategies to mitigate AI’s climate impact, optimize AI products for sustainability, and implement responsible, energy-efficient AI technologies",
+    "domain": "Sustainable AI",
+    "pricing": "PAID",
+    "institution": "Terra.do"
+  },
+  {
+    "title": "Sustainable AI - Reducing Carbon Footprint and Optimizing Performance",
+    "url": "https://maven.com/it-climate-ed/sustainable-ai",
+    "description": "This course will enable you to understand the environmental impact of AI applications, how to measure their carbon footprint, evaluate the right approach, and optimize your AI workloads to minimize their energy consumption.",
+    "domain": "Sustainable AI",
+    "pricing": "PAID",
+    "institution": "Maven"
+  },
+  {
+    "title": "An Introduction to AI and Sustainability",
+    "url": "https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/the-promise-of-ai-for-sustainability",
+    "description": "Amy Luers explores how artificial intelligence can drive the rapid and large-scale transformation needed to combat climate change and biodiversity loss, highlighting AI's role in reducing emissions, expanding renewable energy, minimizing waste, and protecting nature while emphasizing the importance of responsible AI development.",
+    "domain": "Sustainable AI",
+    "pricing": "PAID",
+    "institution": "LinkedIn"
+  },
+  {
+    "title": "AI Skills Passport",
+    "url": "https://www.ey.com/en_gl/ai-skills-passport?linkId=733508001&utm_campaign=622fb8dcb608b500012ad2b3&utm_content=67a23f2de51dba0001db2de1&utm_medium=smarpshare&utm_source=linkedin",
+    "description": "Building on the success of the EY Microsoft Green Skills Passport program, the AI Skills Passport (AISP) has been created to assist students aged 16 and older in learning about AI technologies, working with them, and applying them to various industries and careers they choose to pursue.",
+    "domain": "AI & Workforce Development",
+    "pricing": "FREE",
+    "institution": "EY - Global"
+  },
+  {
+    "title": "INCO Academy",
+    "url": "https://greenpathways.inco-group.co/?utm_source=linkedin&utm_medium=gjb&utm_campaign=recruitment",
+    "description": "Passionate about sustainability? Our Green Pathways program equips you with the skills to start your career in the green sector, tailored to job seekers, women, and historically excluded groups.",
+    "domain": "AI & Workforce Development",
+    "pricing": "PAID",
+    "institution": "INCO"
+  },
+  {
+    "title": "Microsoft Sustainability Academy",
+    "url": "https://www.microsoft.com/MEA/industry/sustainabilityschool/?wt.mc_id=AID3057369_QSG_640662&wt.mc_id=AID3066006_EML_8496584#tab11",
+    "description": "Tune into Microsoft's Sustainability Academy to learn more about how the worlds of sustainability, ESG, and AI can come together.",
+    "domain": "Sustainability & Business Leadership",
+    "pricing": "FREE",
+    "institution": "Microsoft"
+  },
+  {
+    "title": "AI for Energy Solutions",
+    "url": "https://docs.google.com/document/d/1ZlU_J2-OL6rkfxSCaDsS3ghzSmJtmYkqVVVuynlaRjM/edit?tab=t.0#heading=h.95rqpodavclr",
+    "description": "You will explore the intersection of artificial intelligence and climate solutions, with a focus on tackling real-world energy challenges.",
+    "domain": "AI & Energy",
+    "pricing": "FREE",
+    "institution": "MIT"
+  },
+  {
+    "title": "CV4Ecology Workshop",
+    "url": "https://cv4ecology.caltech.edu/",
+    "description": "A three-week intensive program teaching Computer Vision Methods for Ecology, seeking to empower ecologists to accurately and efficiently analyze large image, audio, or video datasets using computer vision.",
+    "domain": "Green Digital Skills",
+    "pricing": "PAID",
+    "institution": "California Institute of Technology"
+  },
+  {
+    "title": "OpenAI Academy",
+    "url": "https://academy.openai.com/public/content",
+    "description": "Check out OpenAI's Academy to learn more about various AI applications.",
+    "domain": "AI & Workforce Development",
+    "pricing": "FREE",
+    "institution": "OpenAI"
+  },
+  {
+    "title": "WILDLABS Conservation Courses",
+    "url": "https://wildlabs.net/courses",
+    "description": "Browse our selection of self-led conservation technology learning resources. These include internal courses created and hosted on WILDLABS, as well as courses hosted externally.",
+    "domain": "Green Digital Skills",
+    "pricing": "FREE/PAID",
+    "institution": "WILDLABS"
+  },
+  {
+    "title": "Measuring AI's Environmental Impact: Technical Bootcamp",
+    "url": "https://maven.com/it-climate-ed/measuring-the-carbon-footprint-of-ai",
+    "description": "In this 2-week technical bootcamp, you'll master the practical skills needed to measure and track AI systems' environmental impact.",
+    "domain": "Sustainable AI",
+    "pricing": "PAID",
+    "institution": "Maven"
+  },
+  {
+    "title": "Introduction to Greenhouse Gas Accounting for IT",
+    "url": "https://www.netacad.com/courses/introduction-to-greenhouse-gas-accounting-for-it?courseLang=en-US",
+    "description": "Expand your IT sustainability skills and dig into the environmental impacts of technology.",
+    "domain": "IT Sustainability",
+    "pricing": "FREE",
+    "institution": "Cisco Training Academy"
+  },
+  {
+    "title": "UN SDG Academy",
+    "url": "https://sdgacademy.org/courses/",
+    "description": "Free educational resources from the world’s leading experts on sustainable development which includes some ML/AI aspects.",
+    "domain": "Green Digital Skills",
+    "pricing": "FREE",
+    "institution": "UN SDG"
+  },
+  {
+    "title": "The Open University OpenLearn Academy",
+    "url": "https://www.open.edu/openlearn/",
+    "description": "Free courses on sustainability, business, energy & AI.",
+    "domain": "AI & Workforce Development",
+    "pricing": "FREE",
+    "institution": "Open University"
+  },
+  {
+    "title": "MIT OpenCourseWare",
+    "url": "https://ocw.mit.edu/search/?s=department_course_numbers.sort_coursenum",
+    "description": "Elite-level courses on climate, energy systems & innovation.",
+    "domain": "Green Digital Skills",
+    "pricing": "FREE",
+    "institution": "MIT"
+  },
+  {
+    "title": "Harvard Online Learning",
+    "url": "https://pll.harvard.edu/",
+    "description": "Free sustainability, leadership & AI courses.",
+    "domain": "AI & Workforce Development",
+    "pricing": "FREE",
+    "institution": "Harvard"
+  },
+  {
+    "title": "FutureLearn",
+    "url": "https://www.futurelearn.com/",
+    "description": "Climate, clean tech & energy transition courses from top universities.",
+    "domain": "Green Digital Skills",
+    "pricing": "FREE/PAID",
+    "institution": "FutureLearn"
+  },
+  {
+    "title": "AI and Climate Change",
+    "url": "https://www.coursera.org/learn/ai-and-climate-change",
+    "description": "This course is a component of the AI for Good specialization, focusing on the ethical and impactful application of AI to address global challenges.",
+    "domain": "Green Digital Skills",
+    "pricing": "FREE/PAID",
+    "institution": "Coursera/Deep Learning"
+  },
+  {
+    "title": "AI-Powered Course: Raising Funds for Your Business",
+    "url": "https://www.unsdglearn.org/courses/ai-powered-course-raising-funds-for-your-business/",
+    "description": "With a target audience of SMEs and entrepreneurs, this course gives participants an overview of the processes involved in raising various kinds of funds for their activities. It begins by looking at a few techniques to evaluate financial need. Then, it explores the differences between equity, grants and debt (both long and short-term), and details the various capital providers from which SMEs might raise funds.",
+    "domain": "Sustainability & Business Leadership",
+    "pricing": "FREE",
+    "institution": "UN SDG"
+  },
+  {
+    "title": "Introduction to AI Fluency",
+    "url": "https://www.anthropic.com/ai-fluency",
+    "description": "Learn to collaborate with AI systems effectively, efficiently, ethically, and safely from Anthropic.",
+    "domain": "Sustainable AI",
+    "pricing": "FREE",
+    "institution": "Anthropic"
+  },
+  {
+    "title": "Sustainable AI for Developers: Strategies, Techniques, and Best Practices",
+    "url": "https://www.linkedin.com/learning/sustainable-ai-for-developers-strategies-techniques-and-best-practices/from-rivers-to-ai",
+    "description": "This comprehensive course explores design approaches to AI that balance environmental impact, innovation, and profitability. Instructor Fawad Qureshi delves into the concept of sustainable AI, exploring its significance and impact. Gain insights into the background and recent developments in this field, particularly with the rise of generative AI. The course provides a holistic understanding of AI's environmental footprint, emphasizing the importance of optimizing resource consumption and adopting sustainable practices. Following these best practices will not only save energy consumption but also reduce your AI expenses.",
+    "domain": "Sustainable AI",
+    "pricing": "PAID",
+    "institution": "LinkedIn Learning"
+  },
+  {
+    "title": "AI for Sustainable Future",
+    "url": "https://www.coachleonardo.university/programs/ai-sustainability",
+    "description": "A program that combines artificial intelligence with sustainable practices to create environmentally-conscious technological solutions.",
+    "domain": "Sustainable AI",
+    "pricing": "PAID",
+    "institution": "Coach Leonardo University"
+  },
+  {
+    "title": "Sustainable Cloud Engineering",
+    "url": "https://www.terra.do/climate-change-courses/sustainable-cloud-engineering/?__s=b7snjojw5184h8uxeg37&utm_source=drip&utm_medium=email&utm_campaign=Sprint+Newsletter+-+June+10",
+    "description": "This 4-week course covers sustainable cloud computing, focusing on eco-friendly architecture, energy-efficient deployments, and GreenOps strategies to reduce IT’s environmental impact.",
+    "domain": "IT Sustainability",
+    "pricing": "PAID",
+    "institution": "Terra.do"
+  },
+  {
+    "title": "Introduction to Machine Learning and Control for Building Energy Systems",
+    "url": "https://github.com/drgona/ML_and_control_buildings_energy",
+    "description": "The open-sourced EN.560.454.01.SP25 Introduction to Machine Learning and Control for Building Energy Systems Civil and Systems Engineering Department at Johns Hopkins University",
+    "domain": "AI & Energy",
+    "pricing": "FREE",
+    "institution": "Github"
+  },
+  {
+    "title": "AI Serving The Common Good",
+    "url": "https://www.sator.fr/cours/l-ia-au-service-du-bien-commun",
+    "description": "Artificial intelligence is disrupting our societies at breakneck speed. Presented as a promise of efficiency and innovation, it is profoundly transforming the way we work, communicate, produce, and even govern. But what are we really talking about? How do these systems work? Who designs, finances, and controls them? And under what conditions can they truly serve the public interest?",
+    "domain": "AI & Workforce Development",
+    "pricing": "PAID",
+    "institution": "Sator"
+  },
+  {
+    "title": "Essex Accounting and Global Development School – AI & Global Risk Track",
+    "url": "https://www.essex.ac.uk/short-courses/essex-accounting-and-global-development-school",
+    "description": "Includes modules on AI for sustainable development, ESG reporting, and environmental risk accounting, tailored for students and professionals in global development.",
+    "domain": "Green Digital Skills",
+    "pricing": "PAID",
+    "institution": "University of Essex"
+  },
+  {
+    "title": "AI in Agriculture: Practical Introductory Course",
+    "url": "https://www.udemy.com/course/ai-in-agriculture/?srsltid=AfmBOoqOIATOhjTYDL4ysg81jHeYz_1_ynMhmCWobS8cniVASj924Ok3",
+    "description": "This course, \"AI in Agriculture: Practical Introductory Course\", helps you understand how artificial intelligence (AI) is being used on farms. You do not need to be a tech expert to learn from this .\nIt is made for farmers, students, business owners, and anyone curious about smart farming. The course is free and beginner-friendly. We use simple words, real examples, and easy explanations.",
+    "domain": "AI & Agriculture",
+    "pricing": "FREE",
+    "institution": "Udemy"
+  }
+]

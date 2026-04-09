@@ -1,0 +1,1208 @@
+[
+  {
+    "title": "Can AI Help Save the Planet?",
+    "url": "AI & Energy",
+    "description": "Pierre Gentine, a Columbia University professor, joins Vis A Vis to discuss how AI enhances climate models and helps scientists tackle global warming.",
+    "date": "2024-11-21",
+    "domain": "AI & Climate Science",
+    "sub_domain": "Climate Modeling & AI",
+    "newsletter": ""
+  },
+  {
+    "title": "Dr Sasha Luccinoi: The Climate Crisis",
+    "url": "https://open.spotify.com/episode/1YeMc2iTvZ4Qz25VjQMI9l",
+    "description": "Dr. Sasha Luccioni joins Hannah and Rob to uncover the hidden carbon impact of generative AI, discussing its opaque development and potential role in addressing the climate crisis.",
+    "date": "2024-11-14",
+    "domain": "AI & Environment",
+    "sub_domain": "AI's Carbon Footprint",
+    "newsletter": ""
+  },
+  {
+    "title": "Industrial AI and the Sustainability Revolution - with Pina Schlombs from Siemens",
+    "url": "https://www.newscientist.com/podcasts/industrial-ai-and-the-sustainability-revolution-with-pina-schlombs-from-siemens/",
+    "description": "Siemens is leading AI-driven innovations in manufacturing, using it to tackle complex challenges, boost efficiency, and enhance sustainability by reducing energy use and waste.",
+    "date": "2024-05-29",
+    "domain": "AI & Energy",
+    "sub_domain": "AI in Industrial Sustainability",
+    "newsletter": ""
+  },
+  {
+    "title": "AI Unveils Hidden Climate Extremes",
+    "url": "https://creators.spotify.com/pod/show/aionair/episodes/AI-Unveils-Hidden-Climate-Extremes-e2rnhv5",
+    "description": "Researchers have developed an AI model called ClimateNet to analyze historical weather data.",
+    "date": "2024-12-02",
+    "domain": "AI & Climate Science",
+    "sub_domain": "Extreme Weather Prediction",
+    "newsletter": ""
+  },
+  {
+    "title": "Why AI Consumes So Much Energy and What Might Be Done About It",
+    "url": "https://kleinmanenergy.upenn.edu/commentary/podcast/why-ai-consumes-so-much-energy-and-what-might-be-done-about-it/",
+    "description": "Nvidia’s director of accelerated computing, and a Penn expert in AI and datacenters, explain why AI uses so much energy, and how its energy appetite might be curbed.",
+    "date": "2024-09-24",
+    "domain": "AI & Data Centers/Hardware",
+    "sub_domain": "AI Energy Consumption & Efficiency",
+    "newsletter": ""
+  },
+  {
+    "title": "Introducing \"This iz Why\" with Brian and Brighton",
+    "url": "https://open.spotify.com/show/6aW9DPcW5PTIhsr7jj5O9b",
+    "description": "Brighton Kaoma and Brian Clarke launch their podcast by exploring the clash between youthful idealism and seasoned wisdom, setting the stage for engaging conversations with visionary leaders on climate change, AI ethics, and the power of dialogue.",
+    "date": "2024-12-02",
+    "domain": "AI & Social/Economic Impacts",
+    "sub_domain": "AI & Social Impact",
+    "newsletter": ""
+  },
+  {
+    "title": "Transforming Supply Chains with AI: Insights from Schneider Electric's Madhu Hosadurga",
+    "url": "https://chainreaction.buzzsprout.com/1666120",
+    "description": "Madhu Hosadurga joins Chain Reaction Podcast to discuss how Schneider Electric is leveraging AI to revolutionize supply chain management, optimizing inventory, production, and customer experience across its 220 factories worldwide.",
+    "date": "2024-11-20",
+    "domain": "AI & Data Centers/Hardware",
+    "sub_domain": "AI in Supply Chain Optimization",
+    "newsletter": ""
+  },
+  {
+    "title": "The Dirty Energy Powering AI",
+    "url": "https://www.cfr.org/podcasts/wim/dirty-energy-powering-ai?utm_medium=social_owned&utm_source=li",
+    "description": "As AI drives a surge in global electricity demand, particularly from data centers, concerns grow over its reliance on fossil fuels and its potential to hinder the clean energy transition, despite its promise in climate modeling and prediction.",
+    "date": "2024-12-03",
+    "domain": "AI & Energy",
+    "sub_domain": "AI & Fossil Fuel Dependence",
+    "newsletter": ""
+  },
+  {
+    "title": "Batting on a Budget: Phil Atkin’s Game-Changing Bat Detector",
+    "url": "https://batchat.buzzsprout.com/680561",
+    "description": "In this episode of BatChat, Steve sits down with Phil Atkin, the creator of a groundbreaking bat detector that’s making waves in the bat conservation community. Using the Raspberry Pi Pico computer, Phil has designed a cost-effective way for people to build their own bat detectors—for just £15!",
+    "date": "2024-11-27",
+    "domain": "AI & Ecology/Biodiversity",
+    "sub_domain": "AI for Wildlife Conservation",
+    "newsletter": ""
+  },
+  {
+    "title": "NVIDIA's Josh Parker on AI and Energy Efficiency",
+    "url": "https://scsp222.substack.com/p/episode-64-nvidias-josh-parker-on?es_id=9341cda6af",
+    "description": "NVIDIA's Josh Parker joins Jeanne Meserve for a conversation on the energy efficiency of AI, the role of data centers, and the potential of renewable energy.",
+    "date": "2024-12-04",
+    "domain": "AI & Energy",
+    "sub_domain": "AI & Data Center Efficiency",
+    "newsletter": ""
+  },
+  {
+    "title": "How Government And Innovators Are Building Community Resilience In The Face Of Climate Change",
+    "url": "https://www2.deloitte.com/us/en/insights/multimedia/podcasts/climate-change-disaster-community-resilience-strategies.html?id=us:2em:3na:4diGLOB187822:5awa:6di:112124:mkid%3DK0200982&pkid=1012890&elqTrackId=42c7be4edb954d42a0785803446194b7&elq=97eaa2b824354c3eb9d6ce88ac98287e&elqaid=115750&elqat=1&elqCampaignId=23222&elqak=8AF500E0519D303B651C9410174993DCE76B9C7A367A66EAF7B730FB8C1AE6D78E30",
+    "description": "AI and sensors combine with building codes and spillways to help support communities impacted by extreme weather and head off disaster before it occurs.",
+    "date": "2024-11-20",
+    "domain": "AI & Climate Science",
+    "sub_domain": "AI for Disaster Preparedness",
+    "newsletter": ""
+  },
+  {
+    "title": "Using AI to Optimize Energy Demand",
+    "url": "https://www.hbs.edu/environment/podcast/Pages/podcast-details.aspx?episode=1386170784",
+    "description": "Pasi Miettinen, CEO of Sagewell, joins Mike Toffel to discuss how AI-driven technology helps utilities manage energy demand, reduce peak usage, lower costs, and minimize climate impact while offering insights into AI’s role in clean energy and career opportunities in the field.",
+    "date": "2024-11-20",
+    "domain": "AI & Energy",
+    "sub_domain": "AI & Energy Demand Management",
+    "newsletter": ""
+  },
+  {
+    "title": "Using AI to Fight Wildfires: How Dryad Networks is Scaling Climate Technology",
+    "url": "https://www.hbs.edu/environment/podcast/Pages/podcast-details.aspx?episode=1680860339",
+    "description": "Carsten Brinkschulte, CEO of Dryad, discusses how AI-powered solar sensors and mesh networks enable early wildfire detection, shares his transition from telecom to climate tech, and offers insights on balancing impact with profitability in the evolving wildfire prevention landscape.",
+    "date": "2024-12-04",
+    "domain": "AI & Ecology/Biodiversity",
+    "sub_domain": "AI for Wildfire Detection",
+    "newsletter": ""
+  },
+  {
+    "title": "How Can AI and the Community Drive Climate Action?",
+    "url": "https://player.captivate.fm/episode/4d009e1f-3d6f-4d24-a17f-83d717164734",
+    "description": "How can AI and the community drive climate action across the world?",
+    "date": "2024-12-13",
+    "domain": "AI & Environment",
+    "sub_domain": "Community-Driven Climate AI",
+    "newsletter": ""
+  },
+  {
+    "title": "AI and the Environment: Balancing Demands and More",
+    "url": "https://www.eli.org/podcasts",
+    "description": "Jed Anderson and Bob Sussman join People Places Planet to discuss how AI is reshaping environmental protection, from real-time regulatory improvements to supporting under-resourced communities, while also addressing the challenges of AI’s growing energy consumption and its impact on sustainability.",
+    "date": "2025-02-26",
+    "domain": "AI & Environment",
+    "sub_domain": "AI for Environmental Protection",
+    "newsletter": ""
+  },
+  {
+    "title": "AI and Energy: The New Power Couple?",
+    "url": "https://www.nationalgrid.com/podcasts/clean-energy-revolution",
+    "description": "The episode explores the tension between AI's growing energy demands, especially from generative models like ChatGPT, and its potential to enhance energy efficiency, as data center consumption is set to double by 2026.",
+    "date": "2024-12-15",
+    "domain": "AI & Energy",
+    "sub_domain": "AI’s Role in Energy Systems",
+    "newsletter": ""
+  },
+  {
+    "title": "AI is Riding on Digital Innovations",
+    "url": "https://www.regainparadise.org/podcast/ai-is-riding-on-digital-innovations/",
+    "description": "Daniele Tricarico discusses the GSMA AI for Africa report, highlighting how AI enhances digital agricultural solutions by improving weather predictions, food security tracking, and financial access, while partnerships and local talent drive innovation despite data challenges.",
+    "date": "2024-12-15",
+    "domain": "AI & Agriculture",
+    "sub_domain": "AI in Precision Agriculture",
+    "newsletter": ""
+  },
+  {
+    "title": "The Role of AI In Tackling Climate Change",
+    "url": "https://www.synechron.com/podcasts/episode-33",
+    "description": "Prabhakar Srinivasan, Seshadri Sundaram, and Mudit Nigam discuss AI’s role in accelerating the energy transition, enhancing user interactions, ensuring responsible AI use, and the significance of COP29 in shaping AI-driven sustainability efforts.",
+    "date": "2024-11-27",
+    "domain": "AI & Climate Science",
+    "sub_domain": "AI for Energy Transitions",
+    "newsletter": ""
+  },
+  {
+    "title": "Deloitte: Powering AI - A Study of AI'S Environmental Footprint, Today and Tomorrow",
+    "url": "https://open.spotify.com/episode/69YlAS8WxJikzB5neUma3b?go=1&sp_cid=2ee40c7680cebfbe68af294b8a01ed81&utm_source=embed_player_p&utm_medium=desktop&nd=1&dlsi=6a6a87f6ae4b439d",
+    "description": "Deloitte's report analyzes AI's growing environmental impact, projecting a near tripling of data center electricity use by 2030 and exploring potential future energy demand scenarios.",
+    "date": "2024-12-28",
+    "domain": "AI & Data Centers/Hardware",
+    "sub_domain": "AI's Environmental Impact Studies",
+    "newsletter": ""
+  },
+  {
+    "title": "Stellantis Tech & AI Podcast | Ep. 6: Driving Towards a Greener Future",
+    "url": "https://www.youtube.com/watch?v=B3krHUO_KlY",
+    "description": "Alison Jones, SVP Global Circular Economy, walks us through some of the factors to consider for more sustainable design, and how we can use AI to make more ecologically sound decisions to support a circular economy",
+    "date": "2024-02-01",
+    "domain": "AI & Environment",
+    "sub_domain": "AI in Circular Economy",
+    "newsletter": ""
+  },
+  {
+    "title": "How are Data and Algorithms Impacting Our Lives?",
+    "url": "https://podfollow.com/1597966909/episode/050b7480980eead6409a4161b5e5937fefa7df6a/view",
+    "description": "Richard Westcott hosts Gina Neff, Jeni Tennison, and Jean-François Bonnefon to discuss how data and algorithms influence work, public services, and decision-making, highlighting ethical, fairness, and governance challenges.",
+    "date": "2025-01-06",
+    "domain": "AI & Policy/ESG",
+    "sub_domain": "AI & Governance Challenges",
+    "newsletter": ""
+  },
+  {
+    "title": "How AI is Tackling Climate Change",
+    "url": "https://podfollow.com/resilience-the-global-adaptation-podcast/episode/dae1a3f21fcbd0182aa4f1b085247ba4028fa6bc/view",
+    "description": "Himanshu Gupta and Eleonore Fournier-Tombs discuss AI’s role in climate adaptation, from predicting floods to growing resilient crops, while addressing the ethical dilemma of its high carbon footprint and environmental impact.",
+    "date": "2024-12-19",
+    "domain": "AI & Climate Science",
+    "sub_domain": "AI for Climate Adaptation",
+    "newsletter": ""
+  },
+  {
+    "title": "Ep 257: GenAI – Turning Trash into Treasures?",
+    "url": "https://www.youreverydayai.com/genai-turning-trash-into-treasures/",
+    "description": "Generative AI is transforming bio and life sciences beyond routine tasks, enabling groundbreaking advancements in scientific research, biology, and even life itself.",
+    "date": "2024-04-24",
+    "domain": "AI & Social/Economic Impacts",
+    "sub_domain": "AI in Waste Management",
+    "newsletter": ""
+  },
+  {
+    "title": "Ep 341: Transforming Global Supply Chains with AI",
+    "url": "https://www.youreverydayai.com/transforming-global-supply-chains-with-ai/",
+    "description": "Global supply chains, built on just-in-time outsourcing, require deeper analysis to ensure efficiency, reduce carbon footprints, and address national security risks, especially given the dominance of certain nations over critical minerals.",
+    "date": "2024-08-21",
+    "domain": "AI & Data Centers/Hardware",
+    "sub_domain": "AI & National Security in Supply Chains",
+    "newsletter": ""
+  },
+  {
+    "title": "Ep 378: How AI is Transforming Climate Forecasting and Weather Prediction",
+    "url": "https://www.youreverydayai.com/how-ai-is-transforming-climate-forecasting-and-weather-prediction/",
+    "description": "AI is revolutionizing weather forecasting and climate modeling by integrating diverse data sources to improve accuracy, manage uncertainty, and enhance high-resolution atmospheric predictions.",
+    "date": "2024-10-11",
+    "domain": "AI & Climate Science",
+    "sub_domain": "AI for Weather Forecasting",
+    "newsletter": ""
+  },
+  {
+    "title": "Ep 381: AI’s Energy Crisis – Can Quantum Save the Day?",
+    "url": "https://www.youreverydayai.com/ai-energy-crisis-can-quantum-save-the-day/",
+    "description": "Quantum computing has the potential to surpass classical systems, with ongoing efforts exploring its role in advancing AI and offering alternatives to large language models.",
+    "date": "2024-10-16",
+    "domain": "AI & Energy",
+    "sub_domain": "Quantum Computing & AI Energy Use",
+    "newsletter": ""
+  },
+  {
+    "title": "Ep 147: The AI Revolution in Biology – How it’s Changing",
+    "url": "https://www.youreverydayai.com/the-ai-revolution-in-biology-how-its-changing/",
+    "description": "The Everyday AI Show explores AI’s growing impact on biology, highlighting its potential to revolutionize the field, expand human capabilities, and create new opportunities beyond traditional applications like finance and marketing.",
+    "date": "2023-11-17",
+    "domain": "AI & Ecology/Biodiversity",
+    "sub_domain": "AI in Biological Sciences",
+    "newsletter": ""
+  },
+  {
+    "title": "Responsible AI Use in Corporates with Jessica Cairns",
+    "url": "https://www.alphinity.com.au/podcast-responsible-ai-use-in-corporates-with-jessica-cairns/",
+    "description": "Jessica Cairns joins The Greener Way Podcast to discuss the RAI Framework, highlighting the importance of ethical, transparent, and ESG-aligned AI practices amid rapid AI adoption.",
+    "date": "2024-01-07",
+    "domain": "AI & Policy/ESG",
+    "sub_domain": "Responsible AI & ESG Compliance",
+    "newsletter": ""
+  },
+  {
+    "title": "AI's Water Usage with Professor Shoalei Ren",
+    "url": "https://clean-integration.simplecast.com/episodes/shoalei-ren",
+    "description": "In this episode, we’re taking a deep dive into the use of water in AI computing in traditional data center models, and some of the looming questions concerning AI’s sustainability.",
+    "date": "2024-01-23",
+    "domain": "AI & Water Resources",
+    "sub_domain": "AI’s Water Usage & Sustainability",
+    "newsletter": ""
+  },
+  {
+    "title": "Harnessing AI for Social Protection: Opportunities and Risks",
+    "url": "https://socialprotection.org/learn/podcasts/ep-46-harnessing-ai-social-protection-opportunities-and-risks",
+    "description": "AI is enhancing social protection systems by improving targeting, service delivery, and predictive interventions, but it also raises challenges such as data privacy, algorithmic bias, and the need for human oversight in decision-making.",
+    "date": "2025-01-10",
+    "domain": "AI & Social/Economic Impacts",
+    "sub_domain": "AI in Social Welfare Systems",
+    "newsletter": ""
+  },
+  {
+    "title": "Turning a Waste Problem Into a Marketing Solution: Bridging the Value-Action Gap with Intuitive AI",
+    "url": "https://shows.acast.com/sustainable-futures/episodes/lets-talk-trash-oscar-sort-bridges-the-recycling-value-actio",
+    "description": "Hassan Murad, CEO of Intuitive AI, joins Sustainable Futures to discuss Oscar Sort, an AI-driven visual tool that helps consumers recycle correctly, addressing the gap between sustainable intentions and actions.",
+    "date": "2025-01-14",
+    "domain": "AI & Environment",
+    "sub_domain": "AI for Recycling & Waste Reduction",
+    "newsletter": ""
+  },
+  {
+    "title": "How AI and Sustainability are Redefining Hybrid Work and Product Design: Insights from Prakash Arunkundrum, Logitech COO",
+    "url": "https://www.buzzsprout.com/520474/episodes/16408807?utm_campaign=PostBeyond&utm_source=LinkedIn&utm_medium=Social&utm_term=How+AI+and+Sustainability+are+Redefining+Hybrid+Work+and+Product+Design%3A+Insights+from+Prakash+Arunkundrum%2C+Logitech+COO+-+AI+and+the+Future+of+Work%3A+Artificial+Intelligence+in+the+Workplace%2C+Business%2C+Ethics%2C+HR%2C+and+IT+for+AI+Enthusiasts%2C+Leaders+and+Academics",
+    "description": "Prakash Arunkundrum, Logitech's COO, discusses his leadership in global operations, AI strategy, and sustainability initiatives, drawing from his extensive experience in management consulting and the future of computing.",
+    "date": "2025-01-13",
+    "domain": "AI & Policy/ESG",
+    "sub_domain": "AI & Corporate Sustainability",
+    "newsletter": ""
+  },
+  {
+    "title": "Navigating Climate Change with Sustainable Technology",
+    "url": "https://open.spotify.com/episode/0wTN8i6quK2zTjRMCeDKvG?si=wcJJFguYTEC7AVAJXhF7TA&nd=1&dlsi=602d0678e3d04c5c",
+    "description": "This podcast explores how technology, from AI to renewable energy and green innovations, is driving sustainability and tackling climate change, offering strategies for a greener future.",
+    "date": "2025-01-13",
+    "domain": "AI & Environment",
+    "sub_domain": "AI in Green Technologies",
+    "newsletter": ""
+  },
+  {
+    "title": "AI, Extreme Weather, and the LA Wildfires",
+    "url": "https://www.energypolicy.columbia.edu/ai-extreme-weather-and-the-la-wildfires/",
+    "description": "As 2024 ended as the hottest year on record, Southern California faces one of its worst disasters, with devastating wildfires destroying over 12,000 structures and displacing more than 100,000 people.",
+    "date": "2025-01-14",
+    "domain": "AI & Climate Science",
+    "sub_domain": "AI & Disaster Response",
+    "newsletter": ""
+  },
+  {
+    "title": "Executive Order on AI and Energy Infrastructure - Emergency Podcast 2.0",
+    "url": "https://www.csis.org/podcasts/ai-policy-podcast/executive-order-ai-and-energy-infrastructure-emergency-podcast-20",
+    "description": "Andrew, Greg, and Joseph Majkut analyze the Biden administration’s Executive Order on AI infrastructure, its industry reception, and how a potential Trump administration might handle AI and energy policy.",
+    "date": "2025-01-14",
+    "domain": "AI & Policy/ESG",
+    "sub_domain": "AI in Energy Policy",
+    "newsletter": ""
+  },
+  {
+    "title": "Creating Safer Communities with Diana Gerson",
+    "url": "https://walktalklisten.podbean.com/",
+    "description": "Walk Talk Listen fosters connection and awareness by sharing diverse perspectives, inspiring listeners to engage with the Global Goals (SDGs), and promoting action toward a better world, stemming from the 100 Mile Walk initiative.",
+    "date": "2025-01-29",
+    "domain": "AI & Social/Economic Impacts",
+    "sub_domain": "AI for Community Resilience",
+    "newsletter": ""
+  },
+  {
+    "title": "Technology from the Top: AI, Data and the Future of Business with Today’s CIOs – AI and Energy",
+    "url": "https://www.bakerlaw.com/insights/technology-from-the-top-ai-data-and-the-future-of-business-with-todays-cios-ai-and-energy/",
+    "description": "Janine Anthony Bowen hosts Technology from the Top, where she interviews CIOs about adapting to technological shifts, with this episode focusing on AI’s impact on energy consumption.",
+    "date": "2025-02-04",
+    "domain": "AI & Energy",
+    "sub_domain": "AI for Renewable Energy Transitions",
+    "newsletter": ""
+  },
+  {
+    "title": "AI & Energy Transitions in Asia",
+    "url": "https://www.codegreen.asia/",
+    "description": "John Cotton and Priya Donti discuss potentials for AI in the energy sector, such as in the integration of renewables, as well as limitations of AI’s efficiency gains and the need for fit-for-purpose models.",
+    "date": "2025-02-03",
+    "domain": "AI & Energy",
+    "sub_domain": "AI in Conservation Biology",
+    "newsletter": ""
+  },
+  {
+    "title": "AI & Biodiversity Conservation in Asia",
+    "url": "https://www.codegreen.asia/",
+    "description": "Eleanor Slade and VV Robin discuss AI’s potential for conservation practices and barriers such as data availability and financing.",
+    "date": "2025-01-07",
+    "domain": "AI & Ecology/Biodiversity",
+    "sub_domain": "AI in Climate Action Policy",
+    "newsletter": ""
+  },
+  {
+    "title": "Cutting Through the Hype of AI for Climate Action",
+    "url": "https://www.codegreen.asia/",
+    "description": "Cindy Lin and Sherif Elsayed-Ali discuss the implications of AI adoption for climate action, given issues of scalability, market narratives, and environmental costs",
+    "date": "2024-11-28",
+    "domain": "AI & Policy/ESG",
+    "sub_domain": "AI & Agritech Innovations",
+    "newsletter": ""
+  },
+  {
+    "title": "Agriculture 4.0 & the Future of Asia’s Farmers",
+    "url": "https://www.codegreen.asia/",
+    "description": "Elenita Daño and Anubha Singh share insights from their research on how the shifting landscape of agritech is impacting Asia’s farmers.",
+    "date": "2024-10-30",
+    "domain": "AI & Agriculture",
+    "sub_domain": "AI in Geospatial Climate Analysis",
+    "newsletter": ""
+  },
+  {
+    "title": "Geospatial AI and Emerging Opportunities for Climate Action",
+    "url": "https://www.codegreen.asia/",
+    "description": "Cathy Richards and Izni Zahidi on the democratisation of map-making, and the ethical risks arising from the use of GIS data.",
+    "date": "2024-10-01",
+    "domain": "AI & Climate Science",
+    "sub_domain": "AI’s Role in Global Climate Strategy",
+    "newsletter": ""
+  },
+  {
+    "title": "Navigating AI’s Role in Asia’s Climate Action Strategy",
+    "url": "https://www.codegreen.asia/",
+    "description": "Elina Noor, Alpan Raval, and Varad Pandey on AI’s role in climate action across Asia through the lens of policy, technology, and finance.",
+    "date": "2024-09-05",
+    "domain": "AI & Policy/ESG",
+    "sub_domain": "AI & Power Grid Management",
+    "newsletter": ""
+  },
+  {
+    "title": "Goodbye TikTok, Ni Hao RedNote? + A.I.'s Environmental Impact + Meta's Masculine Energy",
+    "url": "https://castbox.fm/episode/id3600302-id771333734?country=us",
+    "description": "This episode covers the looming TikTok ban, Supreme Court reactions, potential buyers like Elon Musk, and the rise of RedNote, followed by a discussion on AI’s environmental impact and a lighthearted take on Mark Zuckerberg’s “masculine energy” at Meta.",
+    "date": "2025-01-17",
+    "domain": "AI & Environment",
+    "sub_domain": "The Environmental Impact of AI",
+    "newsletter": ""
+  },
+  {
+    "title": "Prof. Tom Gosling, LSE, On Whether Investors Reset, Recalibrate, Or Retreat From Net Zero",
+    "url": "https://soundcloud.com/man-group/prof-tom-gosling-london-school-of-economics-on-whether-investors-reset-recalibrate-or-retreat-from-net-zero?utm_source=clipboard&utm_campaign=wtshare&utm_medium=widget&utm_content=https%253A%252F%252Fsoundcloud.com%252Fman-group%252Fprof-tom-gosling-london-school-of-economics-on-whether-investors-reset-recalibrate-or-retreat-from-net-zero",
+    "description": "Will investors reset, recalibrate, or retreat from net zero in 2025?",
+    "date": "2025-02-01",
+    "domain": "AI & Policy/ESG",
+    "sub_domain": "Investor Strategy with AI to Net Zero",
+    "newsletter": ""
+  },
+  {
+    "title": "Bridging The Gap: AI's Energy Demands and the Future of Power",
+    "url": "https://open.spotify.com/episode/6jfyNiHLFiF63FlfGTCz5B?si=zkIGrMAFRRy_uViDJFG03Q&nd=1&dlsi=bd7b4f828f374ffd",
+    "description": "A Penn Engineering professor and data center expert joins the discussion to examine AI’s energy demands, the role of natural gas, and how next-generation data centers could drive sustainable innovation in tech infrastructure.",
+    "date": "2025-01-30",
+    "domain": "AI & Energy",
+    "sub_domain": "AI for ESG Reporting",
+    "newsletter": ""
+  },
+  {
+    "title": "Talking ESG: Can AI Be Sustainable?",
+    "url": "https://viewpoint.pwc.com/dt/us/en/pwc/podcasts/podcasts_US/replaytalkingesgcanai.html?WT.mc_id=CT1-PL63-DM3-TR1-TS_NQO_-TAT_-Replay--Talking-ESG-Can-AI-be-sustainable&user_id=672a4e624b45cd63dfdc424f&sn_type=LINKEDIN&cpost_id=6798f480fd72d77de54dcf31&post_id=6373458740&asset_id=ADVOCACY_205_6792adc670a49e3742a13e12",
+    "description": "This podcast discusses the intersection of two trending topics: artificial intelligence (AI) and sustainability.",
+    "date": "2025-01-23",
+    "domain": "AI & Policy/ESG",
+    "sub_domain": "AI for Government Climate Initiatives",
+    "newsletter": ""
+  },
+  {
+    "title": "Jeff Willert:  Navigating Sustainability Data with GenAI Copilot",
+    "url": "https://blog.se.com/digital-transformation/artificial-intelligence/2025/02/10/podcast-navigating-sustainability-data-with-genai-copilot/?utm_source=linkedin&utm_medium=organic_social&utm_campaign=2024_may_ww_sd&campaign_objective=awareness",
+    "description": "Jeff Willert, Director of Data Science at Schneider Electric, joins AI at Scale to discuss best practices for integrating AI into data systems, his career journey from the U.S. Department of Defense to sustainability-focused AI leadership.",
+    "date": "2025-02-10",
+    "domain": "AI & Policy/ESG",
+    "sub_domain": "AI in Environmental Research",
+    "newsletter": ""
+  },
+  {
+    "title": "Using AI for Good on Government’s Future Frontiers",
+    "url": "https://www2.deloitte.com/us/en/insights/multimedia/podcasts/ai-for-good-summit-review-and-ramifications.html?id=gx:2sm:3li:L1SocialGC:awa:cons:020525:CP",
+    "description": "The AI for Good summit in Geneva focused on the challenges of AI regulation, as global delegates debated how to govern emerging technologies despite uncertainties about their full potential.",
+    "date": "2024-10-16",
+    "domain": "AI & Policy/ESG",
+    "sub_domain": "AI in Earth Observation Data",
+    "newsletter": ""
+  },
+  {
+    "title": "Season 3: Episode 6 - The Environmental Impact of AI",
+    "url": "https://aiedpro.com/podcast",
+    "description": "Maurie and Jim Beasley explore AI’s environmental impact on AI in Action, discussing data center energy consumption, sustainability challenges in Texas, and how AI can drive positive change if managed responsibly.",
+    "date": "2025-02-17",
+    "domain": "AI & Environment",
+    "sub_domain": "AI & Sustainable Supply Chains",
+    "newsletter": ""
+  },
+  {
+    "title": "Dr. Sarah Russell, CEO of Bellwether, MD at Alphabet's Moonshot Factory",
+    "url": "https://podcasts.apple.com/us/podcast/216-dr-sarah-russell-ceo-of-bellwether-md-at/id1561411048?i=1000694819077",
+    "description": "Bellwether, an AI-powered climate prediction tool, analyzes Earth observation data to aid disaster preparedness and recovery, with Dr. Sarah Russell leading its efforts at the intersection of business, planetary health, and machine learning.",
+    "date": "2025-02-20",
+    "domain": "AI & Climate Science",
+    "sub_domain": "AI & Responsible Computing",
+    "newsletter": ""
+  },
+  {
+    "title": "Terms of Service with Clare Duffy: Is Your Chatbot Causing Climate Change?",
+    "url": "https://www.cnn.com/audio/podcasts/terms-of-service-with-clare-duffy",
+    "description": "Sasha Luccioni, Climate and AI Lead at Hugging Face, discusses the environmental cost of AI chatbots, their electricity and water demands, and what individuals can do to minimize their impact.",
+    "date": "2025-02-25",
+    "domain": "AI & Environment",
+    "sub_domain": "AI's Environmental Impact and Data on Climate Change",
+    "newsletter": ""
+  },
+  {
+    "title": "AI and Sustainability: A Perfect Match for the Future with RELEX",
+    "url": "https://mill-all.com/digital-diary/millenniumlive-ai-and-sustainability-a-perfect-match-for-the-future-with-relex/?utm_source=sprout-advocacy&utm_medium=social-post&utm_campaign=global-sprout-advocacy&blaid=7151860",
+    "description": "Madhav Durbha joins Millennium Live to explore how specialized AI improves efficiency, minimizes environmental impact, optimizes supply chains, and differs from generative AI in managing energy use and operational trade-offs.",
+    "date": "2025-02-14",
+    "domain": "AI & Policy/ESG",
+    "sub_domain": "AI’s Impact on Future Energy Systems",
+    "newsletter": ""
+  },
+  {
+    "title": "Can AI Help Us Talk to Animals?",
+    "url": "https://www.youtube.com/watch?v=qqbWJwdV75o",
+    "description": "In this Life with Machines episode, Baratunde Thurston talks with Aza Raskin about something straight out of science fiction: teaching AI to communicate with animals.",
+    "date": "2025-03-04",
+    "domain": "AI & Ecology/Biodiversity",
+    "sub_domain": "AI-Driven Animal Language Decoding and Implications for Animal Ethics",
+    "newsletter": ""
+  },
+  {
+    "title": "What is Green AI, and How Do You Develop It?",
+    "url": "https://www.capgemini.com/insights/research-library/new-era-of-engineering/",
+    "description": "Join Antoine Gaget from Capgemini Engineering as he discusses AI and its environmental impact, exploring the concept of Green AI and how to develop it through collaborative efforts and innovative solutions.",
+    "date": "2025-02-28",
+    "domain": "AI & Environment",
+    "sub_domain": "Sustainable AI Factors: Quantification, Reduction, Awareness and Standardization",
+    "newsletter": ""
+  },
+  {
+    "title": "Climate+ | Episode 27 | Mark Chung from Verdigris",
+    "url": "https://open.spotify.com/episode/3GHABuSFUYHtJhT1Ozj1M6",
+    "description": "​In this episode of the Climate+ podcast, Mark Chung, co-founder and CEO of Verdigris, discusses how his company leverages artificial intelligence and IoT technology to enhance energy efficiency in buildings, aiming to reduce energy waste and promote sustainability.​",
+    "date": "2025-03-06",
+    "domain": "AI & Energy",
+    "sub_domain": "Data Center Energy Management and Parasitic AI",
+    "newsletter": ""
+  },
+  {
+    "title": "Material AI & The Mineral Supply Chain",
+    "url": "https://www.iheart.com/podcast/269-code-green-214252417/episode/06-material-ai-the-mineral-269599755/",
+    "description": "This episode explores the hidden environmental and geopolitical costs of AI, from rare earth mining to water-intensive data centers, highlighting the need to rethink AI sustainability beyond just carbon footprints.",
+    "date": "2025-03-05",
+    "domain": "AI & Social/Economic Impacts",
+    "sub_domain": "AI’s Environmental and Resource Impact Within A Geopolitical Impact",
+    "newsletter": ""
+  },
+  {
+    "title": "How AI is Transforming Climate Solutions with Anna Lerner Nesbitt",
+    "url": "https://open.spotify.com/episode/0toJNY4SBA3De3Jf0DtibY",
+    "description": "This episode of the AI Sustainability Podcast explores how AI drives climate solutions, the role of data, challenges in non-tech adoption, and the Climate AI Accelerator's support for sustainability-focused startups.",
+    "date": "2025-01-30",
+    "domain": "AI & Environment",
+    "sub_domain": "AI Driving Climate Solutions and The Climate Collective",
+    "newsletter": ""
+  },
+  {
+    "title": "AI, Energy, and Climate: Harnessing AI to Fight Climate Change",
+    "url": "https://open.spotify.com/episode/52w57vXrT8EsY09z8hiusV",
+    "description": "Welcome to the AI, Energy and Climate Podcast! On the inaugural episode of this new series, host David Sandalow is joined by Colin McCormick and Michal Nachmany. We explore the many ways that AI can help in the fight against climate change.",
+    "date": "2025-02-24",
+    "domain": "AI & Environment",
+    "sub_domain": "AI for Climate and Energy Policy",
+    "newsletter": ""
+  },
+  {
+    "title": "The New Conservationists: AI is Making Meaning from the Sounds of Animals",
+    "url": "https://www.scientificamerican.com/podcast/episode/ai-and-other-emerging-technologies-are-expanding-conservation-studies/",
+    "description": "Conservationists have access to massive amounts of data on wildlife and machine learning is helping them make meaning out of them.",
+    "date": "2024-12-16",
+    "domain": "AI & Ecology/Biodiversity",
+    "sub_domain": "AI for Conservation Science and Wildlife with Machine Learning",
+    "newsletter": ""
+  },
+  {
+    "title": "Using AI to Make the Mining Industry More Sustainable With Anastasia Kuzkova",
+    "url": "https://open.spotify.com/episode/6E6ESHekJynJdjFezMebB7?",
+    "description": "In this episode of the AI Sustainability Podcast, host Nina Benoit speaks with Anastasia Kuzkova, CEO of Sirius, about the intersection of artificial intelligence and sustainability in the mining sector.",
+    "date": "2025-03-17",
+    "domain": "AI & Social/Economic Impacts",
+    "sub_domain": "AI for Mining Operations and Data Quality",
+    "newsletter": ""
+  },
+  {
+    "title": "Telenor's Kaaren Hilsen on Launching Norway’s First AI Factory",
+    "url": "https://open.spotify.com/episode/7wlk12E5XFUTwfobJR6Rf9",
+    "description": "Telenor’s Chief Innovation Officer and Head of the AI Factory, Kaaren Hilsen, discusses Norway’s first AI factory. Opened in November, the facility processes sensitive data securely within Norway, ensuring data sovereignty and environmental sustainability. Learn how Telenor’s green computing initiatives, including a renewable energy-powered data center in Oslo, are advancing responsible and sustainable AI.",
+    "date": "2025-02-27",
+    "domain": "AI & Data Centers/Hardware",
+    "sub_domain": "AI Factories in Norway and Sustainability",
+    "newsletter": ""
+  },
+  {
+    "title": "The AI Revolution: Industry Disruption, Investment Shifts, and Future Challenges",
+    "url": "https://open.spotify.com/episode/5SfrfZWpJqHMNYFqbHhXhe?",
+    "description": "In this episode we speak to Anders Indset, a philosopher, deep tech investor, and best-selling author. We discuss AI’s real-world impact, emphasizing Large Quantitative Models (LQMs) that optimize industry-specific data in fields like healthcare, finance, and logistics. Anders critiques Europe’s cautious investment culture, advocating for a bolder approach in AI-driven sectors. Inset stresses the need for balanced AI regulation to foster innovation while addressing global challenges like climate change.",
+    "date": "2025-03-18",
+    "domain": "AI & Environment",
+    "sub_domain": "AI's Real-Life Impact with Climate Change",
+    "newsletter": ""
+  },
+  {
+    "title": "AI-Powered Supply Chains: Smarter Trade, Sustainability & Market Intelligence",
+    "url": "https://www.podbean.com/media/share/pb-bgxke-1840665?utm_campaign=au_share_ep&utm_medium=dlink&utm_source=au_share",
+    "description": "AI is revolutionizing supply chains, optimizing logistics, enhancing sustainability, and transforming global trade operations. But how can businesses harness AI to create resilient, efficient, and sustainable supply networks?",
+    "date": "2025-03-17",
+    "domain": "AI & Social/Economic Impacts",
+    "sub_domain": "AI and Supply Chain Optimization",
+    "newsletter": ""
+  },
+  {
+    "title": "Sustainability in the Age of AI",
+    "url": "https://open.spotify.com/episode/6v0ax35oqli8UC5dZ58vxD",
+    "description": "Chelsea Davis from Atrius, a subsidiary of Acuity Brand, joins us today on ERENEWABLE and The Green Insider Podcast to discuss her role as Senior Sustainability Project Manager. The main topic for the episode was to be the proliferation of data centers and AI, sustainability as a selling point in office spaces, and the impact of regulations on companies.",
+    "date": "2025-03-18",
+    "domain": "AI & Environment",
+    "sub_domain": "Data Centers, AI, and Sustainability",
+    "newsletter": ""
+  },
+  {
+    "title": "Government and Community Resilience in the Face of Climate Change",
+    "url": "https://www2.deloitte.com/ca/en/pages/strategy/articles/podcast-government-building-community-resilience-climate-change.html?icid=climate-change-en",
+    "description": "In this episode of Deloitte’s Global Future Frontiers podcast, Deloitte panelists, in conversation with the CEO of Earth Force Technologies, Justin Dawe, shed light on the urgent challenge of climate change and resulting extreme weather events, the significant impact on communities including the economic costs, and the potential solutions to help mitigate the risks and build resilience into the future.",
+    "date": "2025-03-22",
+    "domain": "AI & Social/Economic Impacts",
+    "sub_domain": "Extreme Weather Events and Economic Impacts",
+    "newsletter": ""
+  },
+  {
+    "title": "Bill Brown: Are Data Centers the Killer App for Clean Tech?",
+    "url": "https://thedsrnetwork.com/bill-brown-are-data-centers-the-killer-app-for-clean-tech",
+    "description": "Bill Brown started two clean tech unicorns — private companies worth more than $1 billion. Today he thinks data centers could be the “killer app” for cleantech, driving demand for clean energy. He also believes that managing data centers like power plants can introduce big new efficiencies. Join host David Sandalow as he and Brown discuss these and other ideas at the intersection of data centers and clean tech.",
+    "date": "2025-03-17",
+    "domain": "AI & Data Centers/Hardware",
+    "sub_domain": "Data Centers and Energy Demands",
+    "newsletter": ""
+  },
+  {
+    "title": "Dan Loehr: Can LLM’s Help in the Fight Against Climate Change?",
+    "url": "https://thedsrnetwork.com/dan-loehr-can-llms-help-in-the-fight-against-climate-change",
+    "description": "Large language models are some of the most rapidly-adopted products in human history and are transforming workflows, education and much more. Can LLMs help in the fight against climate change? What risks do they create for the climate change challenge?  Georgetown Professor Dan Loehr joins David Sandalow to discuss the role that LLMs can play in reducing emissions and helping adapt to climate change.",
+    "date": "2025-03-20",
+    "domain": "AI & Environment",
+    "sub_domain": "LLMs and the Future of Climate Change",
+    "newsletter": ""
+  },
+  {
+    "title": "Energy Innovations Driving Sustainability: Unpacking Our Sustainable Future",
+    "url": "https://open.spotify.com/episode/1xnglRJo4uuKS6uF5ucHHy?",
+    "description": "This episode highlights the evolving role of natural gas in powering AI-driven data centers and the innovative use of biogas in Brazil’s citrus industry by Louis Dreyfus Company. We also discuss advancements in sustainable aviation fuel, including the SkyNRG project at the Port of Walla Walla, and the broader shifts towards cleaner energy in agriculture, tech, and transportation.",
+    "date": "2025-03-25",
+    "domain": "AI & Environment",
+    "sub_domain": "Energy Innovations and Sustainability Solutions",
+    "newsletter": ""
+  },
+  {
+    "title": "The Potential for Flexible Data Centers",
+    "url": "https://open.spotify.com/episode/0p32tkOwFZ2xydBMKCBdhm?",
+    "description": "What’s the potential for data center flexibility? And what benefits could it have system-wide?",
+    "date": "2025-03-27",
+    "domain": "AI & Data Centers/Hardware",
+    "sub_domain": "Data Centers and Flexible Power Loads",
+    "newsletter": ""
+  },
+  {
+    "title": "iMasons CEO Santiago Suinaga on the Future of Sustainable AI Data Centers",
+    "url": "https://www.datacenterfrontier.com/podcast/article/55276586/podcast-imasons-ceo-santiago-suinaga-on-the-future-of-sustainable-ai-data-centers",
+    "description": "Can AI-driven data centers scale without sacrificing sustainability? Infrastructure Masons CEO Santiago Suinaga shares his insights on balancing rapid industry growth with responsible innovation.",
+    "date": "2025-03-25",
+    "domain": "AI & Data Centers/Hardware",
+    "sub_domain": "Sustainable Data Centers and Sustainability",
+    "newsletter": ""
+  },
+  {
+    "title": "AI and the Environment",
+    "url": "https://www.npr.org/2025/03/30/1241844391/ai-and-the-environment",
+    "description": "The AI boom has caused a huge surge in energy consumption, so how is the tech industry thinking about its environmental footprint as it invests in new AI models?",
+    "date": "2025-03-30",
+    "domain": "AI & Environment",
+    "sub_domain": "Environmental Footprint of AI Models",
+    "newsletter": ""
+  },
+  {
+    "title": "Routing Futures for AI in Urban Mobility",
+    "url": "https://open.spotify.com/episode/4ZTxQBSvFWC2KHWFA2lbmw?",
+    "description": "As population growth, motorisation, and climate change strain urban mobility in the Asian region, the design and delivery of transport services are becoming increasingly complex. Experts Huê-Tâm Jamme and Kris Villanueva-Libunao explore why cities need equitable, people-centred planning that accounts for existing mobility patterns and what barriers exist to implementing AI for mobility.",
+    "date": "2025-04-01",
+    "domain": "AI & Social/Economic Impacts",
+    "sub_domain": "Mobility Patterns in Urban Systems and AI Implementation",
+    "newsletter": ""
+  },
+  {
+    "title": "The Week in Green Software: Data Centers, AI and the Nuclear Question",
+    "url": "https://podcasts.castplus.fm/e/x8vqx43n-the-week-in-green-software-data-centers-ai-and-the-nuclear-question",
+    "description": "Host Anne Currie is joined by the seasoned Chris Liljenstolpe to talk about the latest trends shaping sustainable technology. They dive into the energy demands of AI-driven data centers and ask the big question around nuclear power in green computing. Discussing the trajectory of AI and data center technology, they take a look into the past of another great networking technology, the internet, to gain insights into the future of energy-efficient innovation in the tech industry.",
+    "date": "2025-04-03",
+    "domain": "AI & Energy",
+    "sub_domain": "AI-Driven Energy Data Centers and the Nuclear Question",
+    "newsletter": ""
+  },
+  {
+    "title": "AI’s Power Demands: Do We Really Have the Energy for This?",
+    "url": "https://www.climateone.org/audio/ais-power-demands-do-we-really-have-energy",
+    "description": "AI’s rapid growth is driving an unprecedented surge in energy and water demand, raising serious environmental justice concerns, especially in marginalized communities, while sparking debate over whether climate benefits can outweigh the harms without stronger accountability and sustainable innovation.",
+    "date": "2025-04-04",
+    "domain": "AI & Energy",
+    "sub_domain": "AI and Energy Infrastructure & Environmental Justice",
+    "newsletter": ""
+  },
+  {
+    "title": "Artificial Intelligence, Real Climate Impacts",
+    "url": "https://www.climateone.org/audio/artificial-intelligence-real-climate-impacts",
+    "description": "AI is being deployed across both generative and predictive applications, but while generative AI demands enormous energy and data center infrastructure, predictive AI offers more efficient, targeted tools for climate solutions, such as emissions tracking, renewable grid forecasting, and extreme weather nowcasting, highlighting a crucial trade-off between innovation and sustainability.",
+    "date": "2024-04-19",
+    "domain": "AI & Energy",
+    "sub_domain": "AI for Climate Monitoring & Energy Efficiency",
+    "newsletter": ""
+  },
+  {
+    "title": "Geothermal: So Hot Right Now",
+    "url": "https://www.climateone.org/audio/geothermal-so-hot-right-now",
+    "description": "Geothermal energy, a long-standing but underutilized clean power source, is being revitalized by oil and gas drilling technologies to enable scalable, low-impact energy production that also offers workforce transition opportunities though regulatory hurdles remain a major barrier to wider adoption.",
+    "date": "2024-02-23",
+    "domain": "AI & Energy",
+    "sub_domain": "AI and Renewable Energy for Geothermal Transition & Infrastructure",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "How AI and Satellite Data Revolutionize Forest Conservation with Diego Saez Gil",
+    "url": "https://podcasts.fame.so/e/xn14z568-diego-saez-gil",
+    "description": "Diego Saez Gil, the Founder and CEO of Pachama, joins us to explore how AI and satellite technology are revolutionizing forest conservation and carbon credit verification. Diego shares insights on partnering with tech giants, working with indigenous communities, and leveraging AI to protect nature.",
+    "date": "2025-04-03",
+    "domain": "AI & Ecology/Biodiversity",
+    "sub_domain": "AI and Satellite Imagery Through Forest Conservation and Carbon Credit Vertification",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "AI's Thirst for Intelligence",
+    "url": "https://www.npr.org/2024/07/10/nx-s1-5028558/artificial-intelligences-thirst-for-electricity",
+    "description": "Artificial intelligence is an electricity hog. Google says its total greenhouse gas emissions climbed nearly 50% over five years, mostly due to electricity that powers AI data centers.",
+    "date": "2024-07-10",
+    "domain": "AI & Energy",
+    "sub_domain": "Big Tech and Energy Demands for AI",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "How Can You Balance AI With Sustainability?",
+    "url": "https://hpe.lnk.to/AIandSustainabilitygu",
+    "description": "How intertwined are AI and sustainability? This week, Technology now explores how we can do more than just use AI in a more sustainable and ethical way, we can harness it as a powerful tool to contribute to sustainability in other industries too.",
+    "date": "2025-04-17",
+    "domain": "AI & Policy/ESG",
+    "sub_domain": "AI and Sustainable Infrastructure",
+    "newsletter": ""
+  },
+  {
+    "title": "How is the Tech Industry Thinking about AI's Environmental Impact?",
+    "url": "https://www.npr.org/2025/03/30/nx-s1-5341467/how-is-the-tech-industry-thinking-about-ais-environmental-impact",
+    "description": "We investigate how the tech industry is thinking about its environmental footprint as it invests in energy-consuming new AI models.",
+    "date": "2025-03-30",
+    "domain": "AI & Energy",
+    "sub_domain": "Big Tech and Energy Demands for AI",
+    "newsletter": ""
+  },
+  {
+    "title": "The Azure Dilemma with Holly Alpine & Will Alpine",
+    "url": "https://greenio.tech/blog/41/episode-47-the-azure-dilemma-with-holly-alpine-will-alpine-sustainability",
+    "description": "In this 2-part Green IO podcast, Holly Alpine and Will Alpine shared with Gaël DUEZ their experience at Azure and the sustainability initiatives developed. Hear their story about going solo after struggling to accept that Microsoft's outspoken stance on the ethics of technology and sustainability was at odds with providing advanced technologies and high-performance computing for purposes of increasing fossil fuel production.",
+    "date": "2024-11-04",
+    "domain": "AI & Environment",
+    "sub_domain": "Sustainability, Big Tech, and Energy Issues",
+    "newsletter": ""
+  },
+  {
+    "title": "Building a Data-Centric Digital Grid",
+    "url": "https://with-great-power.simplecast.com/episodes/building-a-data-centric-digital-grid",
+    "description": "Alexina Jackson brings system thinking and a willingness to test assumptions to the task of grid modernization and data center developments.",
+    "date": "2025-04-01",
+    "domain": "AI & Data Centers/Hardware",
+    "sub_domain": "Grid Modernization and Data Centers",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "AI's Growing Appetite: Can Data Centers Keep Up?",
+    "url": "https://open.spotify.com/episode/4dnMjFnVtYeDvlpMSL2Xmp?blaid=7399117",
+    "description": "In this episode of The AI Forecast, Scott Jarnagin, CEO of Caddis Cloud Solutions, joins the podcast to discuss the evolving landscape of data centers in the age of AI. He touches on the significant increase in energy consumption associated with AI workloads, the historical shifts in data center strategies, and the challenges faced in designing and planning for future data center needs.",
+    "date": "2025-04-30",
+    "domain": "AI & Data Centers/Hardware",
+    "sub_domain": "Data Centers, Cloud Computing, and Energy",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Why You Need Hardware Standards for Green Software",
+    "url": "https://podcasts.castplus.fm/e/vn55m92n-hardware-standards-working-group?utm_source=Green+Software+Foundation&utm_campaign=0eabe3348c-GSF+Newsletter+%28May+17%29+%28%23137%29&utm_medium=email&utm_term=0_c5376a805c-0eabe3348c-619782063",
+    "description": "Chris Adams is joined by Zachary Smith and My Truong both members of the Hardware Standards Working Group at the GSF. They dive into the challenges of improving hardware efficiency in data centers, the importance of standardization, and how emerging technologies like two-phase liquid cooling systems can reduce emissions, improve energy reuse, and even support power grid stability. They also discuss grid operation and the potential of software-hardware coordination to drastically cut infrastructure impact.",
+    "date": "2025-05-15",
+    "domain": "AI & Data Centers/Hardware",
+    "sub_domain": "Green Software Principles with Data Centers and Software",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "How Energy Will Shape The Future of AI (And Vice Versa)",
+    "url": "https://open.spotify.com/episode/7aP8aEv4BBBcHmA48dFNBx?utm_content=bufferdb870&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer",
+    "description": "In this episode, host Dan Hewitt speaks with Thomas Spencer and Siddharth Singh, lead authors of the IEA’s groundbreaking new report, . They unpack why the huge expectations for AI hinge on meeting fast-growing demand for electricity from data centres, and how the IEA developed authoritative global projections for AI’s energy demand over the next decade. They also describe the ways AI is already transforming the energy sector, as well as AI’s implications for energy security and global emissions.",
+    "date": "2025-05-15",
+    "domain": "AI & Energy",
+    "sub_domain": "AI's Energy Demand Over Time",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Avoided Emissions Thanks to Tech: the Vinted Use Case with Laetitia Bornes",
+    "url": "https://podcast.greenio.tech/e/v855mk28-58-avoided-emissions-thanks-to-tech-the-vinted-use-case-with-laetitia-bornes?ct=t(EMAIL_CAMPAIGN_2025-MAY-23-138)",
+    "description": "Can a digital company be “carbon negative”? What should we think of these claims of “tons of carbon avoided” coming from 2nd hand platforms such as Vinted or Back Market? Dr Laetita Bornes conducted research on Vinted claims, investigating its data sources and the methodology used with her colleague David Ekchazer",
+    "date": "2025-05-20",
+    "domain": "AI & Environment",
+    "sub_domain": "\"Carbon Negative\" Claims and Big Tech Companies",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "The Real Costs of Climate Action",
+    "url": "https://www.man.com/insights/ri-podcast-dieter-helm",
+    "description": "How economically grounded is the UK’s net zero commitment? Listen to Jason Mitchell discuss with Professor Sir Dieter Helm, University of Oxford, about what new forces and factors are reshaping net zero ambitions; how the UK should think about optimal climate policy; and why a realist approach is critical for navigating the political economy factors of climate action. There is also discussion around the environmental costs of being an AI superpower.",
+    "date": "2025-05-08",
+    "domain": "AI & Policy/ESG",
+    "sub_domain": "Environmental Cost of Being An AI Superpower",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Artificial Intelligence (AI) and It's Implications for Electricity Systems",
+    "url": "https://www.oxfordenergy.org/wpcms/wp-content/uploads/2025/05/Podcast-349-OEF-AI.mp3",
+    "description": "In this latest OIES podcast from the Electricity Programme, Dimitra Apostolopoulou talks to Senior Research Fellow David Robinson and Independent Researcher Plutarco Naranjo about the  OxfordEnergyForum (OEF) issue titled “Artificial Intelligence (AI) and Its Implications for Electricity Systems”.",
+    "date": "2025-05-01",
+    "domain": "AI & Energy",
+    "sub_domain": "AI and Electricity Costs",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Nuclear Won’t Meet Tech’s Energy Demands",
+    "url": "https://techwontsave.us/episode/252_nuclear_wont_meet_techs_energy_demands_w_mv_ramana.html",
+    "description": "Paris Marx is joined by MV Ramana to discuss the tech industry’s push to have nuclear energy power its data centers and why the reality of nuclear power isn’t as great as its promoters often make it seem.",
+    "date": "2028-11-24",
+    "domain": "AI & Energy",
+    "sub_domain": "Tech's Growing Appetite for Nuclear Energy",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "The Hidden Environmental Costs of a Single AI Prompt",
+    "url": "https://open.spotify.com/episode/68SzAGilCRYNDdS3M3t8Oz",
+    "description": "You may have heard that AI is a bit of a resource hog. It requires so much electricity that scaling it could have a tremendous impact on the planet through the increase of emissions. So, what is the exact footprint you’ll leave the next time you type a prompt into your AI model of your choice? Dr. Sasha Luccioni, Climate Lead at the global AI firm Hugging Face, joins Pioneers of AI to break down each step in fascinating detail – all the manufacturing, compute power, and cost involved, starting before you even type in your prompt and hit “return.” Spoiler alert: it’s more than you think.",
+    "date": "2025-06-04",
+    "domain": "AI & Environment",
+    "sub_domain": "Dr. Sasha Luccioni's Butterfly Effect on AI and Sustainability",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "How Tech Companies Could Shrink AI's Climate Footprint",
+    "url": "https://www.npr.org/2025/05/09/1250191980/-ai-google-amazon-meta-microsoft-environment#:~:text=Two%20additional%20ways%20tech%20companies,and%20more%20efficient%20data%20centers",
+    "description": "AI is rapidly transforming how we live, work, and communicate. But can we undergo that transformation without destroying the environment?",
+    "date": "2025-05-09",
+    "domain": "AI & Environment",
+    "sub_domain": "Tech Companies Offsetting Environmental Impacts of AI",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "The Future of Insurance Podcast: Head of Insurance, Capgemini Research Institute for Financial Services",
+    "url": "https://future-of-insurance.com/podcast/lucarussignan/",
+    "description": "The interview discusses the future of the insurance industry, focusing on demographic changes and the role of technology, particularly AI, in shaping this future. Overall, the interview provides a forward-looking analysis of the insurance industry, urging stakeholders to consider demographic trends and technological advancements in their strategic planning.",
+    "date": "2025-06-11",
+    "domain": "AI & Social/Economic Impacts",
+    "sub_domain": "Insurance Companies, Climate Risk, and AI",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Putting the AI in SustAInability",
+    "url": "https://www.drinksassociation.com.au/events?Event=PuttingtheAIinSustAInability#",
+    "description": "The recent Sustainability Council webinar was an insightful and thought-provoking session led by Emma Herd, Partner at Ernst & Young’s Climate Change and Sustainability team and co-leader of EY’s Net-Zero Centre. The session tackled a highly relevant and timely topic: how emerging technologies like AI can be both a powerful tool and a complex challenge in the sustainability journey. Emma covered a wide range of topics, from the exponential growth of AI and its energy demands to its potential to transform ESG outcomes across sectors like manufacturing, logistics, finance and health.",
+    "date": "2025-06-13",
+    "domain": "AI & Environment",
+    "sub_domain": "Variety of AI and Environment Topics",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Awaiting Approval Podcast",
+    "url": "https://www.youtube.com/watch?v=7Fk1WdNo5SI",
+    "description": "From launching mobile banking for 1.5 million customers at Commerzbank to building sustainable innovation with pioneers like Zalando, Microsoft, and Tomorrow Bank, Stan Reimgen’s journey is a masterclass in purpose-driven design leadership. In this conversation, we explore his shift from business school to hands-on design, the power of experimentation, and what it really means to create work that helps the planet - not just the product roadmap. Stan opens up about parenthood, purpose, and why designers need to reclaim their creative fire before the industry burns them out.",
+    "date": "2025-06-26",
+    "domain": "AI & Policy/ESG",
+    "sub_domain": "Sustainable Innovation and Business",
+    "newsletter": ""
+  },
+  {
+    "title": "Aviation Safety & Agri-Tech: Smarter Black Boxes and Frost Protection",
+    "url": "https://www.youtube.com/watch?v=sNXrGcPxuSU&t=302s",
+    "description": "Frost devastates crops, but Chilean startup Frost Away fights back. Its AI-powered mesh networks predict frosts hours in advance, alerting farmers to protect fields. Similar challenges exist in India, where apps, often paid for, offer partial solutions. Frost Away’s innovation highlights the need for affordable, scalable agritech in vulnerable regions.",
+    "date": "2025-06-25",
+    "domain": "AI & Agriculture",
+    "sub_domain": "Frost Protection with Agritech Applications",
+    "newsletter": ""
+  },
+  {
+    "title": "Talking Supply Chain: Schneider Electric’s Approach to the Modern Supply Chain",
+    "url": "https://www.scmr.com/podcast/talking-supply-chain-schneider-electrics-approach-to-the-modern-supply-chain",
+    "description": "Resilience. Flexibility. AI. Workforce. We talk about these themes constantly, but few companies are as intentional in connecting the dots as Schneider Electric. Agustin Lopez Diaz, North American supply chain officer at Schneider Electric joined the Talking Supply Chain podcast to discuss Schneider Electric’s approach to its North American supply chain.",
+    "date": "2025-06-19",
+    "domain": "AI & Social/Economic Impacts",
+    "sub_domain": "Supply Chains Management with AI Applications",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Eliminating Food Waste with Nathan Fenner from Afresh",
+    "url": "https://pixelscientia.com/podcast/eliminating-food-waste-with-nathan-fenner-form-afresh/",
+    "description": "In today’s episode, we learn about Afresh, a company that is leading the way in providing food waste solutions to grocers across America by creating optimized food orders through pioneering AI and machine learning solutions. You’ll hear from Afresh Co-Founder, Nathan Fenner, as we discuss the founding mission behind the company and how they are leveraging AI in a way that is fundamentally different from other established legacy companies in their field.",
+    "date": "2023-04-01",
+    "domain": "AI & Agriculture",
+    "sub_domain": "Reducing Food Waste with AI",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "The Role of AI in Sustainable Transport",
+    "url": "https://podcasts.apple.com/ca/podcast/52-the-role-of-ai-in-sustainable-transport/id1658122572?i=1000713540536",
+    "description": "In this episode, Stephanie McLarty speaks with Rich Savoie, CEO of Adiona Tech, about the importance of sustainable logistics and the role of AI in optimizing transport emissions. They discuss a circular pilot project in Australia focused on recycling champagne corks and the challenges faced in the logistics of recycling. Rich shares insights on the significance of commercial transport emissions, the lessons learned from the pilot, and how AI can help improve supply chain efficiency. The conversation emphasizes the need for businesses to engage CFOs in sustainability initiatives and the urgency of taking action towards greener logistics.",
+    "date": "2025-06-19",
+    "domain": "AI & Social/Economic Impacts",
+    "sub_domain": "Sustainable Transport of Materials with AI",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "The AI Moratorium Goes Down In Flames",
+    "url": "https://www.lawfaremedia.org/article/scaling-laws--the-ai-moratorium-goes-down-in-flames",
+    "description": "This conversation explores the moratorium's journey from its inclusion in a House bill to its ultimate failure, examining the procedural hurdles, the confusing legislative language, and the political maneuvering that led to its demise by a 99-to-1 vote. The group discuss the future of U.S. AI governance, covering the Republican party's fragmentation on tech policy and whether Congress's failure to act is a sign of it being broken or a deliberate policy choice.",
+    "date": "2025-07-03",
+    "domain": "AI & Policy/ESG",
+    "sub_domain": "AI Moratorium Failing in the Big Beautiful Bill",
+    "newsletter": ""
+  },
+  {
+    "title": "Duncan Griffin On Integrated Sustainable Design",
+    "url": "https://plotpoints.asce.org/e/episode-176-duncan-griffin-on-integrated-sustainable-design/",
+    "description": "With the AI revolution upon us, it’s easy to see technology and human beings on opposite sides of a spectrum. But for Duncan Griffin, director of sustainability for HDR’s Health Design Practice, technological developments only enhance the possibilities for human healing and comfort. In episode 176 of ASCE Plot Points, Griffin talks integrated sustainable design and why a holistic approach to potential outcomes is essential to infrastructure.",
+    "date": "2025-03-10",
+    "domain": "AI & Social/Economic Impacts",
+    "sub_domain": "Integrated Sustainable Design with Materials Using AI",
+    "newsletter": ""
+  },
+  {
+    "title": "Why Your AI Questions are a Power and Water Drain",
+    "url": "https://www.abc.net.au/listen/programs/abc-news-daily/why-your-ai-questions-are-a-power-and-water-drain/105440778",
+    "description": "How often do you use AI chatbots? They’re becoming part of our everyday lives. But when you pump in a question into something like ChatGPT or Microsoft Copilot, do you ever think about the energy it uses?  Today, Gordon Noble from the Institute of Sustainable Futures at UTS on the power hungry data centres driving AI, the water used to keep them cool and the cost for the environment.",
+    "date": "2025-06-29",
+    "domain": "AI & Environment",
+    "sub_domain": "AI and Environmental Impacts with Chatbots",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Backstage: Software Standards Working Group SCI",
+    "url": "https://podcasts.castplus.fm/e/08j0kyj8-backstage-software-standards-working-group?ct=t(EMAIL_CAMPAIGN_2025-JULY-04-144)",
+    "description": "In this Backstage episode of Environment Variables, podcast producer Chris Skipper highlights the Green Software Foundation’s Software Standards Working Group—chaired by Henry Richardson (WattTime) and Navveen Balani (Accenture). This group is central to shaping global benchmarks for sustainable software. Key initiatives discussed include the Software Carbon Intensity (SCI) Specification, its extensions for AI and the web, the Real-Time Energy and Carbon Standard for cloud providers, the SCI Guide, and the TOSS framework. Together, these tools aim to drive emissions reduction through interoperable, transparent, and globally applicable standards.",
+    "date": "2025-07-03",
+    "domain": "AI & Data Centers/Hardware",
+    "sub_domain": "The New Software Carbon Intensity (SCI) Metric",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Environment Variables Year Three Roundup",
+    "url": "https://podcasts.castplus.fm/e/xn14j458-environment-variables-year-three-roundup?utm_source=Green+Software+Foundation&utm_campaign=c8973a925a-GSF+Newsletter+%28JUNE+27%29+%28%23143%29&utm_medium=email&utm_term=0_c5376a805c-c8973a925a-619782063",
+    "description": "It’s been three years of Environment Variables! What a landmark year for the Green Software Foundation. From launching behind-the-scenes Backstage episodes, to covering the explosive impact of AI on software emissions, to broadening our audience through beginner-friendly conversations; this retrospective showcases our mission to create a trusted ecosystem for sustainable software. Here’s to many more years of EV!",
+    "date": "2025-06-26",
+    "domain": "AI & Data Centers/Hardware",
+    "sub_domain": "Sustainable Software and Analyses",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "How AI Can Supercharge Our Climate Response",
+    "url": "https://open.spotify.com/episode/1KktQUxavsDqnZheJaDcAz?si=tbrW0sz1QDSkApW3WfsNkw&nd=1&dlsi=ade6eaaff2fc4ae0",
+    "description": "Climate Now interviews energy and AI experts on how artificial intelligence is transforming utilities, city planning, and emissions management to accelerate the climate transition.",
+    "date": "2025-06-19",
+    "domain": "AI & Energy",
+    "sub_domain": "AI for Energy Transitions and Climate",
+    "newsletter": ""
+  },
+  {
+    "title": "Episode 8: The Elephants on the Horizon",
+    "url": "https://legalsustainabilityalliance.com/2025/07/10/episode-8-the-elephants-on-the-horizon/",
+    "description": "This Legal Sustainability Alliance episode explores the growing sustainability risks on the legal sector’s horizon, including AI-driven environmental impacts and regulatory shifts. Features insights from sector leaders on adapting legal services for environmental responsibility.",
+    "date": "2025-07-10",
+    "domain": "AI & Policy/ESG",
+    "sub_domain": "AI & Governance Challenges",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Decoding the Planet: From Whales to Whistleblowers",
+    "url": "https://irlpodcast.org/season8/episode4/",
+    "description": "Mozilla’s IRL podcast dives into the digital carbon footprint of online content, examining how deleted data impacts climate goals. Guests incuding Dr. Sasha Luccinoi discuss AI’s role in optimizing data storage, energy use, and shaping sustainable digital behaviors.",
+    "date": "2025-07-08",
+    "domain": "AI & Environment",
+    "sub_domain": "Various Applications of AI for Good Impacts",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "AI for Impact: Scaling Circular Economy and Sustainable Supply Chains",
+    "url": "https://www.csyimpact.com/podcast/ai-for-impact-scaling-circular-economy-and-sustainable-supply-chains-with-sushma-kittali-weidner",
+    "description": "Sushma Kittali Weidner shares how AI technologies are transforming circular economy strategies and improving supply chain sustainability. The episode highlights innovations, metrics, and real-world case studies where AI supports ESG-aligned goals.",
+    "date": "2025-07-01",
+    "domain": "AI & Social/Economic Impacts",
+    "sub_domain": "AI in Circular Economy and Supply Chains",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Real Time Cloud with Adrian Cockcroft",
+    "url": "https://podcasts.castplus.fm/e/4892yy0n-real-time-cloud-with-adrian-cockcroft",
+    "description": "Chris Adams interviews Adrian Cockcroft on real-time carbon tracking in cloud, GPU energy transparency, Real Time Cloud dataset, and agent-swarm home automation.",
+    "date": "2025-07-12",
+    "domain": "AI & Data Centers/Hardware",
+    "sub_domain": "Cloud Sustainability and Emissions Tracking",
+    "newsletter": ""
+  },
+  {
+    "title": "Water with Rebecca Kilberg, Mary-Clare Bosco & Jonathan Gilmour",
+    "url": "https://shows.acast.com/the-data-fix/episodes/water-with-rebecca-kilberg-mary-clare-bosco-jonathan-gilmour",
+    "description": "Explores data-led solutions for water resources, including AI in monitoring, drought forecasting, and water quality management.",
+    "date": "2025-06-16",
+    "domain": "AI & Water Resources",
+    "sub_domain": "Water-Data Analytics with AI",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Control with Paul Schutze",
+    "url": "https://shows.acast.com/the-data-fix/episodes/control-with-paul-schutze",
+    "description": "Focus on AI-based control systems and environmental or infrastructure decision-making frameworks.",
+    "date": "2025-06-14",
+    "domain": "AI & Environment",
+    "sub_domain": "Contradictions for Sustainable AI",
+    "newsletter": ""
+  },
+  {
+    "title": "Why Tech Companies Should Not Deprioritize Future Readiness",
+    "url": "https://podcast.greenio.tech/e/x8vqxz9n-60-why-tech-companies-should-not-deprioritize-future-readiness-with-rainer-karcher",
+    "description": "Rainer Karcher discusses why future-readiness and sustainability resilience should be core to tech strategy.",
+    "date": "2025-06-24",
+    "domain": "AI & Policy/ESG",
+    "sub_domain": "Corporate Sustainability Strategy and Companies",
+    "newsletter": ""
+  },
+  {
+    "title": "Debriefing QCon Sustainability Track with Erica Pisani",
+    "url": "https://podcast.greenio.tech/e/r8km95l8-59-debriefing-qcon-sustainability-track-with-erica-pisani",
+    "description": "Recap of QCon sustainability sessions, including green architecture, energy efficiency, and open standards.",
+    "date": "2025-06-10",
+    "domain": "AI & Policy/ESG",
+    "sub_domain": "Sustainability Standards for AI",
+    "newsletter": ""
+  },
+  {
+    "title": "Green AI Strategy with Adrian Cockcroft",
+    "url": "https://podcasts.castplus.fm/e/28x01kj8-green-ai-strategy-with-adrian-cockcroft",
+    "description": "Discusses integrating sustainability into AI architecture with emphasis on green software and hardware decisions.",
+    "date": "2025-06-19",
+    "domain": "AI & Policy/ESG",
+    "sub_domain": "AI Strategies for Green Architecture",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Open-Source Carbon Footprints",
+    "url": "https://podcasts.castplus.fm/e/pnm526kn-open-source-carbon-footprints",
+    "description": "Thibaud Colas and Chris Adams explore open-source tools for calculating software carbon emissions.",
+    "date": "2025-06-12",
+    "domain": "AI & Data Centers/Hardware",
+    "sub_domain": "Open-Source Carbon Tools",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Cloud Native Attitude",
+    "url": "https://podcasts.castplus.fm/e/mn4x035n-cloud-native-attitude",
+    "description": "Anne Currie and Jamie Dobson explore cloud-native practices for optimizing infrastructure energy use and renewables.",
+    "date": "2025-06-05",
+    "domain": "AI & Data Centers/Hardware",
+    "sub_domain": "Cloud-Native Infrastructure Development",
+    "newsletter": ""
+  },
+  {
+    "title": "Does a Single AI Query Use a Bottle of Water?",
+    "url": "https://podcasts.apple.com/us/podcast/does-a-single-ai-query-use-a-bottle-of-water/id267300884?i=1000718992914",
+    "description": "This Freakonomics Radio episode explores the hidden water consumption behind AI model training and querying, with AI researcher Kate Crawford highlighting how energy and water usage are intertwined in the development of modern AI systems.",
+    "date": "2025-07-26",
+    "domain": "AI & Water Resources",
+    "sub_domain": "Water Resources Usage of AI",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Open Circuit: How will the Clean Energy Industry Recalibrate in the Wake of the One Big Beautiful Bill (OBBB)",
+    "url": "https://www.latitudemedia.com/news/open-circuit-how-will-the-clean-energy-industry-recalibrate-in-the-wake-of-obbb/",
+    "description": "This Latitude Media episode discusses the effects of the Biden Administration's pause on new data center-related transmission projects (Order Blocking Big Builds or 'OBBB') and its ripple effect on the clean energy sector later on in the Trump Administration.",
+    "date": "2025-07-25",
+    "domain": "AI & Energy",
+    "sub_domain": "Clean Energy Recalibration After the OBBB",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Real Efficiency at Scale with Sean Varley",
+    "url": "https://podcasts.castplus.fm/e/68rrqxr8-real-efficiency-at-scale-with-sean-varley",
+    "description": "This Hardware to Save a Planet episode features Sean Varley discussing how SiMa.ai builds efficient edge AI solutions that reduce energy consumption and improve hardware sustainability at scale.",
+    "date": "2025-07-24",
+    "domain": "AI & Energy",
+    "sub_domain": "Energy Efficiency of AI Systems and Climate Trajectory",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Inside the ‘Crazy Grid’: Why the Future of Energy Needs Everything, Everywhere, All at Once",
+    "url": "https://podcasts.apple.com/us/podcast/inside-the-crazy-grid-why-the-future-of/id663379413?i=1000716310584",
+    "description": "PG&E’s Quinn Nakayama breaks down the chaos and opportunity in today's grid, where renewables, EVs, and AI-powered data centers are pushing infrastructure to its limits.",
+    "date": "2025-07-08",
+    "domain": "AI & Energy",
+    "sub_domain": "AI Impacts on Electricity Grid Planning",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Using AI to Dissect Sustainability Regulations",
+    "url": "https://www.bloomberg.com/news/audio/2025-06-25/using-ai-to-dissect-sustainability-regulations-esg-currents",
+    "description": "Bloomberg analysts explore how AI can help decipher global ESG regulations and compare its effectiveness to traditional keyword-based methods.",
+    "date": "2025-06-25",
+    "domain": "AI & Policy/ESG",
+    "sub_domain": "AI For ESG Regulation Analysis And Compliance",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "The AI Governance Risk Keeping Executives Up at Night",
+    "url": "https://www.alphinity.com.au/the-ai-governance-risk-keeping-executives-up-at-night-a-conversation-with-elfreda-jonker/",
+    "description": "Elfreda Jonker discusses the rising executive concern over AI governance and how firms can build robust strategies to address ethical and operational risks.",
+    "date": "2025-07-15",
+    "domain": "AI & Policy/ESG",
+    "sub_domain": "Corporate AI Governance Risks For Leadership",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Water Quality Modeling with The Ripple Effect",
+    "url": "https://rippleeffect.buzzsprout.com/2464230/17487016-204-water-quality-modeling",
+    "description": "Water modeling expert John Kemper explains how AI improves watershed management and future planning by simulating real-world conditions with greater precision.",
+    "date": "2025-07-10",
+    "domain": "AI & Water Resources",
+    "sub_domain": "AI In Water Quality Modeling And Watershed Planning",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Climate TBD: Earth, Extraction, and the Cost of Innovation with AI",
+    "url": "https://theusers-climatetbd.fireside.fm/3",
+    "description": "This episode centers on environmental justice and community-led storytelling, exploring how AI influences climate resilience planning in frontline communities.",
+    "date": "2025-06-05",
+    "domain": "AI & Social/Economic Impacts",
+    "sub_domain": "AI, Community Storytelling And Environmental Justice",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "The Insiders: Rizwan et Al.",
+    "url": "https://open.spotify.com/episode/2bCJcIXBatpS9Hy0385QPL",
+    "description": "In this special edition of The Impact Equation, we hear from three insiders turned truth-tellers: Rizwan Naveed, former McKinsey energy strategist, who helped advise the world's biggest companies, and challenged McKinsey’s climate position. Holly Alpine, former sustainability lead at Microsoft, who built global green programmes while grappling with how tech services were being used in the fossil fuel sector. Jo Alexander, former BP executive, who believed in the energy transition, but witnessed the company adjust its boldest climate commitments. These three leaders have left the corporate world behind but not quietly. Now they’re shaping a different kind of change, from the outside in.",
+    "date": "2025-07-06",
+    "domain": "AI & Environment",
+    "sub_domain": "Shaping Change and Leaving Behind Corporate AI",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Laura Hoffman: Microsoft AI for Good",
+    "url": "https://seattlemag.com/podcast/seattle-podcast/laura-hoffman-microsoft-ai-for-good",
+    "description": "Want to understand AI? When we think about the future of technology, it’s easy to picture flashy gadgets or complex code. But today’s guest reminds us that behind every innovation, there are people,  thoughtful, passionate people, who are shaping the way we move forward. Laura Hoffman is one of those people along with her own podcast episode.",
+    "date": "2025-04-29",
+    "domain": "AI & Environment",
+    "sub_domain": "AI for Good with Microsoft",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Accelerating AI in Renewable Tech",
+    "url": "https://www.bakerbotts.com/thought-leadership/publications/2025/july/accelerating-ai-in-renewable-tech",
+    "description": "Maggie Welsh and Michael Silliman discuss the synergistic relationship between AI and clean tech. Michael covers how AI drives both energy demand and solutions for climate change, and why AI innovation is slower in clean tech compared to other sectors. They also delve into challenges such as data interoperability, regulatory complexity, and venture funding.",
+    "date": "2025-07-29",
+    "domain": "AI & Energy",
+    "sub_domain": "Renewable Energy Tech with AI",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Controlling Nature's Data",
+    "url": "https://www.bbc.co.uk/programmes/w3ct80h1",
+    "description": "Could AI cure cancer using nature's DNA? A London tech firm, Basecamp Research, harvests genetic information from organisms and microbes around the world. Its genome database - the world's biggest - will help supercomputers to create new products, from detergents to medicines. It's a bewildering new frontier, and it comes with big questions - who should own this valuable information? Who should benefit? And what could it unleash?",
+    "date": "2025-08-01",
+    "domain": "AI & Environment",
+    "sub_domain": "Nature and AI Development Solutions",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Scaling Green Software with Anita Schüttler",
+    "url": "https://podcast.greenio.tech/e/xnymy73n-61-scaling-green-software-with-anita-schuttler",
+    "description": "What does it take to go beyond raising awareness in green software? To avoid checking just boxes? What is required to scale green software practices in a company? To discuss these issues, Gaël Duez welcomes Anita Schüttler on this episode “from the trenches”. Anita is a seasoned software engineer and expert on digital sustainability",
+    "date": "2025-07-08",
+    "domain": "AI & Data Centers/Hardware",
+    "sub_domain": "Digital Sustainability and Scaling Green Software",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Healthcare Sustainability: Aligning Health and Environmental Ethics",
+    "url": "https://www.spreaker.com/episode/healthcare-sustainability-aligning-health-and-environmental-ethics--67320709",
+    "description": "In this episode, Dr. Bryan Pilkington speaks with Kyle Tafuri, a healthcare sustainability expert, about the importance of aligning environmental sustainability with the mission of healthcare systems. Tafuri emphasizes that clean air, water, and healthy soil are fundamental to health and that healthcare institutions, as major employers and resource users, have both an ethical obligation and strategic opportunity to lead in sustainability.",
+    "date": "2025-08-10",
+    "domain": "AI & Social/Economic Impacts",
+    "sub_domain": "Environmental Ethics and Healthcare with AI",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Sustainable Intelligence: How Green AI, Renewable Power, and Ethical Governance Can Curb Tech’s Carbon Footprint",
+    "url": "https://frenus-tech.podigee.io/27-best-of-linkedin-sustainability-green-ict-cw-30-31",
+    "description": "This edition discusses the multifaceted issue of artificial intelligence's environmental impact and the emerging field of Green AI. They highlight concerns regarding the significant energy and water consumption of data centres, especially with the proliferation of large language models (LLMs) and AI workloads. Proposed solutions include more efficient AI models like Small Language Models (SLMs), optimising coding practices, and developing sustainable data centre infrastructure such as underwater and liquid-cooled facilities powered by renewable energy sources.",
+    "date": "2025-08-08",
+    "domain": "AI & Data Centers/Hardware",
+    "sub_domain": "Big Tech's Environmental Footprint and Intelligence",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Does AI Make Us Lazy Thinkers?",
+    "url": "https://open.spotify.com/episode/6psQPGmuDFoCHGWtivAWnJ",
+    "description": "This special International Youth Day episode features the voices of youth. Three students, Hope Otieno (MSc student, UNU-IAS), Ahmad Ali Karim (RCE Regional Youth Coordinator; student, IIUM) and Michael Winter (Co-President, Oikos International), share their perspectives on how AI is reshaping their learning experiences.",
+    "date": "2025-08-12",
+    "domain": "AI & Workforce Development",
+    "sub_domain": "Degradation of Critical Thinking Skills with AI",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Why the Ocean is the Billion-Dollar Market No One’s Watching",
+    "url": "https://www.youtube.com/watch?v=agNICU_lle0&ab_channel=OpenPeopleNetwork",
+    "description": "In this episode, we dive into Serena's journey from traditional industries to championing the $3 trillion+ blue economy. Learn how regenerative thinking is reshaping the investment landscape, why ocean sustainability is still the least-funded SDG, and how tech, AI, and a new generation of founders are flipping the model.",
+    "date": "2025-08-11",
+    "domain": "AI & Water Resources",
+    "sub_domain": "The Blue Economy's Potential and AI",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "AI, Policy & Power: How Nasreddine Guerfala Is Engineering the Future of Clean Energy",
+    "url": "https://leegroupsearch.com/podcast/green-giants-episode-63-nasreddine-guerfala-edgecom-energy/",
+    "description": "In this episode of Green Giants: Titans of Renewable Energy, host Wes Ashworth sits down with Nasreddine Guerfala, Executive Vice President of Growth & DERs at Edgecom Energy and one of Canada’s 2025 Clean50 Emerging Leaders. With a career that spans continents and disciplines from engineering and legal strategy to policy influence and AI-driven energy management, Nasreddine brings a uniquely global and cross-functional lens to the clean energy transition.",
+    "date": "2025-08-01",
+    "domain": "AI & Energy",
+    "sub_domain": "The Future of Clean Energy and AI",
+    "newsletter": "Yes"
+  }
+]

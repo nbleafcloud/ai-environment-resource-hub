@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Industrial AI and the Sustainability Revolution - with Pina Schlombs from Siemens",
+    "organization": "https://www.newscientist.com/podcasts/industrial-ai-and-the-sustainability-revolution-with-pina-schlombs-from-siemens/",
+    "bio": "Siemens is leading AI-driven innovations in manufacturing, using it to tackle complex challenges, boost efficiency, and enhance sustainability by reducing energy use and waste.",
+    "domain": "AI & Energy",
+    "linkedin_profile": "AI in Industrial Sustainability"
+  },
+  {
+    "name": "The Dirty Energy Powering AI",
+    "organization": "https://www.cfr.org/podcasts/wim/dirty-energy-powering-ai?utm_medium=social_owned&utm_source=li",
+    "bio": "As AI drives a surge in global electricity demand, particularly from data centers, concerns grow over its reliance on fossil fuels and its potential to hinder the clean energy transition, despite its promise in climate modeling and prediction.",
+    "domain": "AI & Energy",
+    "linkedin_profile": "AI & Fossil Fuel Dependence"
+  },
+  {
+    "name": "NVIDIA's Josh Parker on AI and Energy Efficiency",
+    "organization": "https://scsp222.substack.com/p/episode-64-nvidias-josh-parker-on?es_id=9341cda6af",
+    "bio": "NVIDIA's Josh Parker joins Jeanne Meserve for a conversation on the energy efficiency of AI, the role of data centers, and the potential of renewable energy.",
+    "domain": "AI & Energy",
+    "linkedin_profile": "AI & Data Center Efficiency"
+  },
+  {
+    "name": "Using AI to Optimize Energy Demand",
+    "organization": "https://www.hbs.edu/environment/podcast/Pages/podcast-details.aspx?episode=1386170784",
+    "bio": "Pasi Miettinen, CEO of Sagewell, joins Mike Toffel to discuss how AI-driven technology helps utilities manage energy demand, reduce peak usage, lower costs, and minimize climate impact while offering insights into AI’s role in clean energy and career opportunities in the field.",
+    "domain": "AI & Energy",
+    "linkedin_profile": "AI & Energy Demand Management"
+  },
+  {
+    "name": "AI and Energy: The New Power Couple?",
+    "organization": "https://www.nationalgrid.com/podcasts/clean-energy-revolution",
+    "bio": "The episode explores the tension between AI's growing energy demands, especially from generative models like ChatGPT, and its potential to enhance energy efficiency, as data center consumption is set to double by 2026.",
+    "domain": "AI & Energy",
+    "linkedin_profile": "AI’s Role in Energy Systems"
+  },
+  {
+    "name": "Technology from the Top: AI, Data and the Future of Business with Today’s CIOs – AI and Energy",
+    "organization": "https://www.bakerlaw.com/insights/technology-from-the-top-ai-data-and-the-future-of-business-with-todays-cios-ai-and-energy/",
+    "bio": "Janine Anthony Bowen hosts Technology from the Top, where she interviews CIOs about adapting to technological shifts, with this episode focusing on AI’s impact on energy consumption.",
+    "domain": "AI & Energy",
+    "linkedin_profile": "AI for Renewable Energy Transitions"
+  },
+  {
+    "name": "AI & Energy Transitions in Asia",
+    "organization": "https://www.codegreen.asia/",
+    "bio": "John Cotton and Priya Donti discuss potentials for AI in the energy sector, such as in the integration of renewables, as well as limitations of AI’s efficiency gains and the need for fit-for-purpose models.",
+    "domain": "AI & Energy",
+    "linkedin_profile": "AI in Conservation Biology"
+  },
+  {
+    "name": "Bridging The Gap: AI's Energy Demands and the Future of Power",
+    "organization": "https://open.spotify.com/episode/6jfyNiHLFiF63FlfGTCz5B?si=zkIGrMAFRRy_uViDJFG03Q&nd=1&dlsi=bd7b4f828f374ffd",
+    "bio": "A Penn Engineering professor and data center expert joins the discussion to examine AI’s energy demands, the role of natural gas, and how next-generation data centers could drive sustainable innovation in tech infrastructure.",
+    "domain": "AI & Energy",
+    "linkedin_profile": "AI for ESG Reporting"
+  },
+  {
+    "name": "Climate+ | Episode 27 | Mark Chung from Verdigris",
+    "organization": "https://open.spotify.com/episode/3GHABuSFUYHtJhT1Ozj1M6",
+    "bio": "​In this episode of the Climate+ podcast, Mark Chung, co-founder and CEO of Verdigris, discusses how his company leverages artificial intelligence and IoT technology to enhance energy efficiency in buildings, aiming to reduce energy waste and promote sustainability.​",
+    "domain": "AI & Energy",
+    "linkedin_profile": "Data Center Energy Management and Parasitic AI"
+  }
+]

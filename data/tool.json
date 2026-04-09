@@ -1,0 +1,1362 @@
+[
+  {
+    "title": "CodeCarbon",
+    "url": "https://codecarbon.io/#about",
+    "description": "CodeCarbon is a lightweight software package that seamlessly integrates into your Python codebase. It estimates the amount of carbon dioxide (CO2) produced by the cloud or personal computing resources used to execute the code.",
+    "pricing": "FREE",
+    "domain": "AI & Sustainability",
+    "newsletter": ""
+  },
+  {
+    "title": "GenCast",
+    "url": "https://github.com/google-deepmind/graphcast",
+    "description": "New AI model advances the prediction of weather uncertainties and risks, delivering faster, more accurate forecasts up to 15 days ahead",
+    "pricing": "FREE",
+    "domain": "AI & Climate & Extreme Weather",
+    "newsletter": ""
+  },
+  {
+    "title": "Green500",
+    "url": "https://top500.org/lists/green500/",
+    "description": "Industry’s premier, independent ranking of the most energy-efficient supercomputers globally.",
+    "pricing": "FREE",
+    "domain": "AI & Energy",
+    "newsletter": ""
+  },
+  {
+    "title": "Stream Ocean",
+    "url": "https://www.streamocean.io/",
+    "description": "Stream Ocean is revolutionising ocean biodiversity monitoring with AI-powered data analytics.",
+    "pricing": "PAID",
+    "domain": "AI & Water Resources",
+    "newsletter": ""
+  },
+  {
+    "title": "Coastal Risk Screening Tool",
+    "url": "https://coastal.climatecentral.org/",
+    "description": "An interactive map showing areas threatened by sea level rise and coastal flooding. Combining the most advanced global model of coastal elevations with the latest projections for future flood levels.",
+    "pricing": "FREE",
+    "domain": "AI & Water Resources",
+    "newsletter": ""
+  },
+  {
+    "title": "CoastalDEM",
+    "url": "https://go.climatecentral.org/coastaldem",
+    "description": "CoastalDEM® v3.0 is Climate Central’s newest, most precise, and best-trained digital elevation model ever.",
+    "pricing": "PAID",
+    "domain": "AI & Climate & Extreme Weather",
+    "newsletter": ""
+  },
+  {
+    "title": "Sea Level Rise Viewer",
+    "url": "https://coast.noaa.gov/digitalcoast/tools/slr.html",
+    "description": "The Sea Level Rise Viewer is a web mapping tool that visualizes community-level impacts of coastal flooding and sea level rise, providing photo simulations, water depth data, flood frequency, socio-economic vulnerability, and wetland migration insights.",
+    "pricing": "FREE",
+    "domain": "AI & Water Resources",
+    "newsletter": ""
+  },
+  {
+    "title": "AI for Oceans",
+    "url": "https://www.aiforoceans.org/",
+    "description": "AI tools to support physical and digital technologies, enhancing monitoring, understanding, modeling, and forecasting of climate change, extreme events, and marine species management.",
+    "pricing": "FREE",
+    "domain": "AI & Water Resources",
+    "newsletter": ""
+  },
+  {
+    "title": "WaterNet",
+    "url": "https://github.com/Better-Planet-Laboratory/WaterNet",
+    "description": "WaterNet is a computer vision model that maps previously unmapped waterways using high-resolution satellite imagery and digital elevation models, initially trained in the U.S. and deployed in low- and middle-income countries.",
+    "pricing": "FREE",
+    "domain": "AI & Water Resources",
+    "newsletter": ""
+  },
+  {
+    "title": "EcoLigits Calculator",
+    "url": "https://huggingface.co/spaces/genai-impact/ecologits-calculator",
+    "description": "EcoLogits is a python library that tracks the energy consumption and environmental footprint of using generative AI models through APIs.",
+    "pricing": "FREE",
+    "domain": "AI & Energy",
+    "newsletter": ""
+  },
+  {
+    "title": "IBM's Granite-Geospatial-Land-Surface-Temperature Model",
+    "url": "https://huggingface.co/ibm-granite/granite-geospatial-land-surface-temperature",
+    "description": "The granite-geospatial-land-surface-temperature model is a fine-tuned geospatial foundation model for predicting the land surface temperature (LST) using satellite imagery along with climate statistics.",
+    "pricing": "FREE",
+    "domain": "AI & Climate & Extreme Weather",
+    "newsletter": ""
+  },
+  {
+    "title": "IBM's Granite-Geospatial-Flood-Detection Model",
+    "url": "https://huggingface.co/ibm-granite/granite-geospatial-uki-flooddetection",
+    "description": "This is a fine-tuned geospatial foundation model for detecting flood and surface water in the United Kingdom and Ireland using multispectral and synthetic aperture radar (SAR) satellite imagery.",
+    "pricing": "FREE",
+    "domain": "AI & Water Resources",
+    "newsletter": ""
+  },
+  {
+    "title": "IBM's Granite-Geospatial-Canopy-Height Model",
+    "url": "https://huggingface.co/ibm-granite/granite-geospatial-canopyheight",
+    "description": "The granite-geospatial-canopy-height model is a fine-tuned geospatial foundation model for predicting the canopy height (i.e., height of trees and vegetationon the Earth's surface) using optical satellite imagery.",
+    "pricing": "FREE",
+    "domain": "AI & Geospatial Analysis",
+    "newsletter": ""
+  },
+  {
+    "title": "Green Algorithims Calculator",
+    "url": "https://calculator.green-algorithms.org/",
+    "description": "How green are your computations?",
+    "pricing": "FREE",
+    "domain": "AI & Sustainability",
+    "newsletter": ""
+  },
+  {
+    "title": "M²LInES",
+    "url": "https://m2lines.github.io/",
+    "description": "M²LInES (pronounced M-square-lines) is an international collaborative project with the goal of improving climate projections, using scientific and interpretable Machine Learning to capture unaccounted physical processes at the air-sea-ice interface.",
+    "pricing": "FREE",
+    "domain": "AI & Climate & Extreme Weather",
+    "newsletter": ""
+  },
+  {
+    "title": "Climate TRACE",
+    "url": "https://www.climatetrace.org/",
+    "description": "We use satellites, other remote sensing techniques, and artificial intelligence to deliver a detailed look at global emissions that gets even better over time.",
+    "pricing": "FREE",
+    "domain": "AI & Geospatial Analysis",
+    "newsletter": ""
+  },
+  {
+    "title": "ClimateGPT",
+    "url": "https://climategpt.ai/",
+    "description": "Enhance decision making with robust climate information for researchers, policymakers, and business leaders using a GPT built for climate change research and AI.",
+    "pricing": "FREE",
+    "domain": "AI & Policy",
+    "newsletter": ""
+  },
+  {
+    "title": "Marine Sand Watch",
+    "url": "https://unepgrid.ch/en/marinesandwatch",
+    "description": "Marine Sand Watch is a global monitoring platform that tracks dredging vessels in real time using AIS data, providing insights for stakeholders to improve dredging standards and environmental policies.",
+    "pricing": "FREE",
+    "domain": "AI & Water Resources",
+    "newsletter": ""
+  },
+  {
+    "title": "AI Driven Climate Risk Prediction and Mitigation Framework Tool",
+    "url": "https://github.com/nishantmulane/AI-Driven-Climate-Risk-Prediction-and-Mitigation-Framework",
+    "description": "The AI-Driven Climate Risk Prediction and Mitigation Framework uses AI-powered LSTM models to predict weather conditions and classify climate risks, featuring a Streamlit web application for real-time predictions and visualizations.",
+    "pricing": "FREE",
+    "domain": "AI & Climate & Extreme Weather",
+    "newsletter": ""
+  },
+  {
+    "title": "CRWN.ai",
+    "url": "http://crwn.ai/",
+    "description": "CRWN.ai provides real-time insights into transmission systems, helping utilities reduce costs and emissions by detecting failures early and optimizing grid reliability and resilience.",
+    "pricing": "PAID",
+    "domain": "AI & Energy",
+    "newsletter": ""
+  },
+  {
+    "title": "GeoAI",
+    "url": "https://www.esri.com/en-us/capabilities/geoai/overview",
+    "description": "GeoAI accelerates the analysis of complex geospatial data, enabling organizations to uncover patterns, adapt to evolving datasets, and address critical environmental challenges through AI-driven insights.",
+    "pricing": "PAID",
+    "domain": "AI & Geospatial Analysis",
+    "newsletter": ""
+  },
+  {
+    "title": "Protomaps",
+    "url": "https://protomaps.com/",
+    "description": "Protomaps is an open source map of the world, deployable as a single static file on cloud storage",
+    "pricing": "FREE",
+    "domain": "AI & Geospatial Analysis",
+    "newsletter": ""
+  },
+  {
+    "title": "Climatik Project",
+    "url": "https://github.com/Climatik-Project/Climatik-Project",
+    "description": "The Climatik Project develops a scalable, power-efficient LLM inference service using Kubernetes, integrating power capping, event-driven autoscaling, and real-time CPU/GPU energy monitoring to optimize AI sustainability.",
+    "pricing": "FREE",
+    "domain": "AI & Energy",
+    "newsletter": ""
+  },
+  {
+    "title": "Carbon Explorer",
+    "url": "https://github.com/facebookresearch/CarbonExplorer",
+    "description": "Carbon Explorer evaluates solutions make datacenters operate on renewable energy holistically by including embodied and operational footprints.",
+    "pricing": "FREE",
+    "domain": "AI & Energy",
+    "newsletter": ""
+  },
+  {
+    "title": "AI Energy Score",
+    "url": "https://huggingface.github.io/AIEnergyScore/",
+    "description": "Welcome to AI Energy Score! This is an initiative to establish comparable energy efficiency ratings for AI models, helping the industry make informed decisions about sustainability in AI development.",
+    "pricing": "FREE",
+    "domain": "AI & Energy",
+    "newsletter": ""
+  },
+  {
+    "title": "ClimaX",
+    "url": "https://microsoft.github.io/ClimaX/",
+    "description": "A foundation model for weather and climate (the world's first one on Github!)",
+    "pricing": "FREE",
+    "domain": "AI & Climate & Extreme Weather",
+    "newsletter": ""
+  },
+  {
+    "title": "Bumble Bee Watch",
+    "url": "https://www.bumblebeewatch.org/",
+    "description": "Our mapping tools allow you to explore bumblebee sightings filtered by species, location, date, and more.",
+    "pricing": "FREE",
+    "domain": "AI & Biodiversity/Ecology",
+    "newsletter": ""
+  },
+  {
+    "title": "IBM Environmental Intelligence Suite",
+    "url": "https://www.ibm.com/products/environmental-intelligence",
+    "description": "Easily access, process and analyze environmental data and use it strategically with a wide-ranging set of APIs offered the IBM® Environmental Intelligence.",
+    "pricing": "PAID",
+    "domain": "AI & Climate & Extreme Weather",
+    "newsletter": ""
+  },
+  {
+    "title": "Google Environmental Insights Explorer",
+    "url": "https://insights.sustainability.google/",
+    "description": "The Google Environmental Insights Explorer (EIE) is a free data and analytics tool that helps cities and regions measure emissions, run analyses, and develop strategies for reducing their environmental impact.",
+    "pricing": "",
+    "domain": "AI & Policy",
+    "newsletter": ""
+  },
+  {
+    "title": "OpenForest",
+    "url": "https://github.com/RolnickLab/OpenForest",
+    "description": "OpenForest is an initiative to centralize open access forest monitoring datasets. This repository is open to contributions. It has been motivated by our work OpenForest: A data catalogue for machine learning in forest monitoring, ArXiv 2023.",
+    "pricing": "FREE",
+    "domain": "AI & Biodiversity/Ecology",
+    "newsletter": ""
+  },
+  {
+    "title": "SpeciesNet",
+    "url": "https://github.com/google/cameratrapai",
+    "description": "This repository hosts code for running an ensemble of two AI models: (1) an object detector that finds objects of interest in wildlife camera images, and (2) an image classifier that classifies those objects to the species level. This ensemble is used for species recognition in the Wildlife Insights platform.",
+    "pricing": "FREE",
+    "domain": "AI & Biodiversity/Ecology",
+    "newsletter": ""
+  },
+  {
+    "title": "GreenPT",
+    "url": "https://greenpt.ai/about",
+    "description": "At Brthrs we believe in the power of technology to drive positive change. Our team of Brthrs and Sstrs consists of digital experts focused on developing customized AI solutions that are not only innovative but also ethically responsible and privacy-oriented.",
+    "pricing": "Freemium",
+    "domain": "AI & Sustainability",
+    "newsletter": ""
+  },
+  {
+    "title": "The Living Encyclopedia",
+    "url": "https://dataland.art/about/living-encyclopedia",
+    "description": "The world's first AI system dedicated to nature.",
+    "pricing": "Freemium",
+    "domain": "AI & Biodiversity/Ecology",
+    "newsletter": ""
+  },
+  {
+    "title": "Climate Project Explorer",
+    "url": "https://climateprojectexplorer.org/",
+    "description": "An AI-powered database that puts thousands of climate-positive projects at your fingertips.",
+    "pricing": "FREE",
+    "domain": "AI & Sustainability",
+    "newsletter": ""
+  },
+  {
+    "title": "carbontracker",
+    "url": "https://github.com/lfwa/carbontracker",
+    "description": "Tracks and predicts the energy consumption and carbon footprint of training deep learning models.",
+    "pricing": "FREE",
+    "domain": "AI & Sustainability",
+    "newsletter": ""
+  },
+  {
+    "title": "Eco2AI",
+    "url": "https://github.com/sb-ai-lab/Eco2AI",
+    "description": "A python library which accumulates statistics about power consumption and CO2 emission during running code.",
+    "pricing": "FREE",
+    "domain": "AI & Sustainability",
+    "newsletter": ""
+  },
+  {
+    "title": "Zeus",
+    "url": "https://github.com/ml-energy/zeus",
+    "description": "A framework for deep learning energy measurement and optimization.",
+    "pricing": "FREE",
+    "domain": "AI & Energy",
+    "newsletter": ""
+  },
+  {
+    "title": "Tracarbon",
+    "url": "https://github.com/fvaleye/tracarbon",
+    "description": "Tracks your device's energy consumption and calculates your carbon emissions using your location.",
+    "pricing": "FREE",
+    "domain": "AI & Sustainability",
+    "newsletter": ""
+  },
+  {
+    "title": "AIPowerMeter",
+    "url": "https://github.com/GreenAI-Uppa/AIPowerMeter",
+    "description": "Easily monitor energy usage of machine learning programs.",
+    "pricing": "FREE",
+    "domain": "AI & Energy",
+    "newsletter": ""
+  },
+  {
+    "title": "Scaphandre",
+    "url": "https://github.com/hubblo-org/scaphandre",
+    "description": "A metrology agent dedicated to electrical power consumption metrics.",
+    "pricing": "FREE",
+    "domain": "AI & Energy",
+    "newsletter": ""
+  },
+  {
+    "title": "PowerJoular",
+    "url": "https://github.com/joular/powerjoular",
+    "description": "Monitor power consumption of multiple platforms and processes.",
+    "pricing": "FREE",
+    "domain": "AI & Energy",
+    "newsletter": ""
+  },
+  {
+    "title": "ALUMET",
+    "url": "https://github.com/alumet-dev/alumet",
+    "description": "A modular and efficient software measurement tool.",
+    "pricing": "FREE",
+    "domain": "AI & Energy",
+    "newsletter": ""
+  },
+  {
+    "title": "Boagent",
+    "url": "https://github.com/Boavizta/boagent",
+    "description": "Local API and monitoring agent focussed on environmental impacts of the host.",
+    "pricing": "FREE",
+    "domain": "AI & Sustainability",
+    "newsletter": ""
+  },
+  {
+    "title": "Powerletrics",
+    "url": "https://github.com/green-kernel/powerletrics",
+    "description": "PowerLetrics is a framework designed to monitor and analyze power consumption metrics at the process level on Linux.",
+    "pricing": "FREE",
+    "domain": "AI & Energy",
+    "newsletter": ""
+  },
+  {
+    "title": "GEOPM",
+    "url": "https://github.com/geopm/geopm",
+    "description": "A framework to enable efficient power management and performance optimizations.",
+    "pricing": "FREE",
+    "domain": "AI & Energy",
+    "newsletter": ""
+  },
+  {
+    "title": "Interconnection.fyi",
+    "url": "https://www.interconnection.fyi/",
+    "description": "This dataset has been built using publicly-available data from ISOs/RTOS and non-ISO utilities. The tool visualize the number of interconnection request to the U.S. national power grid.",
+    "pricing": "Freemium",
+    "domain": "AI & Energy",
+    "newsletter": ""
+  },
+  {
+    "title": "DataCenter Map",
+    "url": "https://www.datacentermap.com/datacenters/",
+    "description": "Launched in 2007, Data Center Map was the first of its kind and has become an industry \"go-to\" resource for researching data centers.",
+    "pricing": "Freemium",
+    "domain": "AI & Infrastructure",
+    "newsletter": ""
+  },
+  {
+    "title": "TinyML",
+    "url": "https://tinyml.seas.harvard.edu/",
+    "description": "We are an international group of academics and industry professionals working to improve global access to educational materials for the cutting-edge field of TinyML.",
+    "pricing": "FREE",
+    "domain": "AI & Infrastructure",
+    "newsletter": ""
+  },
+  {
+    "title": "AI Waste Manager",
+    "url": "https://github.com/Mayankyadav76/AI-Waste-Manager",
+    "description": "This solution integrates smart waste classification, real-time analytics, and seamless user experience.",
+    "pricing": "FREE",
+    "domain": "AI & Sustainability",
+    "newsletter": ""
+  },
+  {
+    "title": "SMART Partnership",
+    "url": "https://smartconservationtools.org/en-us/",
+    "description": "Collect, measure and evaluate data to improve the effectiveness of your wildlife conservation efforts",
+    "pricing": "FREE",
+    "domain": "AI & Biodiversity/Ecology",
+    "newsletter": ""
+  },
+  {
+    "title": "iNaturalist",
+    "url": "https://www.inaturalist.org/",
+    "description": "Connecting people to nature through advancing science and conservation.",
+    "pricing": "FREE",
+    "domain": "AI & Biodiversity/Ecology",
+    "newsletter": ""
+  },
+  {
+    "title": "NatureMetrics",
+    "url": "https://www.naturemetrics.com/",
+    "description": "Uses environmental DNA (eDNA) monitoring to track biodiversity.",
+    "pricing": "PAID",
+    "domain": "AI & Biodiversity/Ecology",
+    "newsletter": ""
+  },
+  {
+    "title": "Nala Earth",
+    "url": "https://www.nala.earth/",
+    "description": "A nature and biodiversity management platform.",
+    "pricing": "PAID",
+    "domain": "AI & Biodiversity/Ecology",
+    "newsletter": ""
+  },
+  {
+    "title": "VIbrant Planet",
+    "url": "https://www.vibrantplanet.net/",
+    "description": "A prioritization system for land management and restoration.",
+    "pricing": "PAID",
+    "domain": "AI & Biodiversity/Ecology",
+    "newsletter": ""
+  },
+  {
+    "title": "Earth-2 Platform",
+    "url": "https://www.nvidia.com/en-us/high-performance-computing/earth-2/",
+    "description": "NVIDIA Earth-2 combines the power of AI, GPU acceleration, physical simulations, and computer graphics to develop applications that can simulate and visualize weather and climate predictions at a global scale with unprecedented accuracy and speed.",
+    "pricing": "PAID",
+    "domain": "AI & Geospatial Analysis",
+    "newsletter": ""
+  },
+  {
+    "title": "ChatClimate",
+    "url": "https://www.chatclimate.ai/",
+    "description": "We make Climate Risk understandable and climate information more accessible to the broader communities.",
+    "pricing": "FREE",
+    "domain": "AI & Policy",
+    "newsletter": ""
+  },
+  {
+    "title": "Electricity Maps API",
+    "url": "https://portal.electricitymaps.com/auth/login?plan=free",
+    "description": "Welcome to the most comprehensive platform for electricity data. A modern API, an interactive app, and extensive datasets.",
+    "pricing": "FREE",
+    "domain": "AI & Energy",
+    "newsletter": ""
+  },
+  {
+    "title": "Electricity Maps Datasets",
+    "url": "https://portal.electricitymaps.com/datasets",
+    "description": "Download historical location-based electricity data with hourly granularity for free. Data includes consumption-based carbon intensity from both direct operations and life cycle analysis (LCA) for the years 2021-2024.",
+    "pricing": "FREE",
+    "domain": "AI & Energy",
+    "newsletter": ""
+  },
+  {
+    "title": "ChatESG.au",
+    "url": "https://esgandi.com.au/genai",
+    "description": "ChatESG aims to revolutionise the ESG advisory space by offering a cloud-based AI-driven platform tailored specifically for business seeking to integrate or enhance ESG strategies, practices, and compliance within their operations.",
+    "pricing": "Freemium",
+    "domain": "AI & Sustainability",
+    "newsletter": ""
+  },
+  {
+    "title": "ECMWF Open-Source Weather Tools",
+    "url": "https://www.ecmwf.int/en/about/media-centre/aifs-blog/2024/run-ai-models-yourself-ecmwf-open-data",
+    "description": "In an exciting development for the meteorological community, we are proud to announce that users can now run AI models using ECMWF's open data themselves. This breakthrough democratizes access to cutting-edge weather forecasting technology and opens new possibilities for research, education, and application development.",
+    "pricing": "FREE",
+    "domain": "AI & Geospatial Analysis",
+    "newsletter": ""
+  },
+  {
+    "title": "AI Carbon",
+    "url": "https://huggingface.co/spaces/sasha/AI_Carbon/tree/main",
+    "description": "Estimate your AI model's carbon footprint.",
+    "pricing": "FREE",
+    "domain": "AI & Sustainability",
+    "newsletter": ""
+  },
+  {
+    "title": "MLCarbon",
+    "url": "https://github.com/SotaroKaneda/MLCarbon",
+    "description": "End-to-end carbon footprint modeling tool.",
+    "pricing": "FREE",
+    "domain": "AI & Sustainability",
+    "newsletter": ""
+  },
+  {
+    "title": "GenAI Carbon Footprint",
+    "url": "https://github.com/greenscale-ai/genai-carbon-footprint",
+    "description": "A tool to estimate energy use (kWh) and carbon emissions (gCO2eq) from LLM usage.",
+    "pricing": "FREE",
+    "domain": "AI & Sustainability",
+    "newsletter": ""
+  },
+  {
+    "title": "Carbon Footprint Modeling Tool",
+    "url": "https://borisruf.github.io/carbon-footprint-modeling-tool/ai-scenarios.html",
+    "description": "A data model and a viewer for carbon footprint scenarios.",
+    "pricing": "FREE",
+    "domain": "AI & Sustainability",
+    "newsletter": ""
+  },
+  {
+    "title": "Boaviztapi",
+    "url": "https://github.com/Boavizta/boaviztapi/",
+    "description": "Multi-criteria impacts of compute resources taking into account manufacturing and usage.",
+    "pricing": "FREE",
+    "domain": "AI & Sustainability",
+    "newsletter": ""
+  },
+  {
+    "title": "Datavizta",
+    "url": "https://datavizta.boavizta.org/serversimpact",
+    "description": "Compute resources data explorer not limited to AI.",
+    "pricing": "FREE",
+    "domain": "AI & Sustainability",
+    "newsletter": ""
+  },
+  {
+    "title": "EcoDiag",
+    "url": "https://ecoinfo.cnrs.fr/ecodiag-calcul/",
+    "description": "Compute carbon footprint of IT resources taking into account manufactuing and usage (🇫🇷 only).",
+    "pricing": "FREE",
+    "domain": "AI & Sustainability",
+    "newsletter": ""
+  },
+  {
+    "title": "LLM Perf Leaderboad",
+    "url": "https://huggingface.co/spaces/optimum/llm-perf-leaderboard",
+    "description": "Benchmarking LLMs on performance and energy.",
+    "pricing": "FREE",
+    "domain": "AI & Energy",
+    "newsletter": ""
+  },
+  {
+    "title": "ML.Energy Leaderboard",
+    "url": "https://ml.energy/leaderboard/?__theme=light",
+    "description": "Energy consumption of GenAI models at inference.",
+    "pricing": "FREE",
+    "domain": "AI & Energy",
+    "newsletter": ""
+  },
+  {
+    "title": "AI Energy Score Leaderboard",
+    "url": "https://huggingface.co/spaces/AIEnergyScore/Leaderboard",
+    "description": "Energy efficiency ratings for AI models.",
+    "pricing": "FREE",
+    "domain": "AI & Energy",
+    "newsletter": ""
+  },
+  {
+    "title": "Green Skills Map",
+    "url": "https://www.greenskills.org/",
+    "description": "Green Skills Map is an open-source framework initiated by HolonIQ for the purpose of cataloging, evaluating, and contextualizing the different components of the rapidly expanding field of green jobs.",
+    "pricing": "FREE",
+    "domain": "AI & Workforce Development",
+    "newsletter": ""
+  },
+  {
+    "title": "The Sustainability Atlas",
+    "url": "https://impact.economist.com/sustainability-atlas/",
+    "description": "Leveraging insights from 18 Economist Impact indices, over 1700 indicators, 70 reports and 400 articles from The Sustainability Project to address your sustainability questions.",
+    "pricing": "FREE",
+    "domain": "AI & Sustainability",
+    "newsletter": ""
+  },
+  {
+    "title": "Green Light",
+    "url": "https://sites.research.google/greenlight/",
+    "description": "Green Light optimizes traffic lights to reduce vehicle emissions in cities, helping mitigate climate change and improving urban mobility.",
+    "pricing": "FREE",
+    "domain": "AI & Pollution Response",
+    "newsletter": ""
+  },
+  {
+    "title": "Project Contrails",
+    "url": "https://sites.research.google/contrails/",
+    "description": "A cost-effective and scalable way AI is helping to mitigate aviation’s climate impact.",
+    "pricing": "FREE",
+    "domain": "AI & Climate & Extreme Weather",
+    "newsletter": ""
+  },
+  {
+    "title": "Project Sunroof",
+    "url": "https://sunroof.withgoogle.com/",
+    "description": "Your own personalized solar savings estimator, powered by Google Earth imagery.",
+    "pricing": "FREE",
+    "domain": "AI & Energy",
+    "newsletter": ""
+  },
+  {
+    "title": "Flood Hub",
+    "url": "https://sites.research.google/floods/l/0/0/3",
+    "description": "Go through Google's tool allowing you to see which levels of river guage and inundation probability will happen in the world.",
+    "pricing": "FREE",
+    "domain": "AI & Water Resources",
+    "newsletter": ""
+  },
+  {
+    "title": "GreenFrame",
+    "url": "https://greenframe.io/",
+    "description": "GreenFrame helps developers build low-carbon, energy-efficient web applications and reduce their environmental footprint, using a state-of-the-art platform based on real science.",
+    "pricing": "FREE",
+    "domain": "AI & Sustainability",
+    "newsletter": ""
+  },
+  {
+    "title": "Data Center Water Consumption Calculator",
+    "url": "https://www.tapsrundry.com/data-center-water-consumption-calculator",
+    "description": "Check out this water consumption calculator for data centers, courtesy of Masheika Allgood!",
+    "pricing": "FREE",
+    "domain": "AI & Water Resources",
+    "newsletter": ""
+  },
+  {
+    "title": "NDVI Map Analysis with Urban Insights",
+    "url": "https://huggingface.co/spaces/samarth1864/Beavers_Gradio",
+    "description": "Enter a natural language prompt describing your curiosity about changes in vegetation due to urbanization through this Hugging Face platform.",
+    "pricing": "FREE",
+    "domain": "AI & Geospatial Analysis",
+    "newsletter": ""
+  },
+  {
+    "title": "UK Flood Impact Map",
+    "url": "https://www.climatenode.org/maps/UK_flood_map.html",
+    "description": "Explore the UK flooding map from 2007-2021.",
+    "pricing": "FREE",
+    "domain": "AI & Climate & Extreme Weather",
+    "newsletter": ""
+  },
+  {
+    "title": "Urban Flash Flooding in England Project",
+    "url": "https://www.climatenode.org/maps/about_UFF_maps.html",
+    "description": "This page contains the outputs of a project funded by Subak to compile historic data on the impacts of recent urban flash flood events in England using information contained in newspaper reports. It aims to map these events in as much detail as possible, looking for information at street and building level.",
+    "pricing": "FREE",
+    "domain": "AI & Climate & Extreme Weather",
+    "newsletter": ""
+  },
+  {
+    "title": "Geospatial Reasoning",
+    "url": "https://sites.research.google/gr/geospatial-reasoning/",
+    "description": "Unlocking insights with generative AI and multiple foundation models from Google.",
+    "pricing": "FREE",
+    "domain": "AI & Geospatial Analysis",
+    "newsletter": ""
+  },
+  {
+    "title": "Bellwether",
+    "url": "https://x.company/projects/bellwether/",
+    "description": "The first prediction engine for the Earth and everything on it. The team is harnessing AI and Earth information data to understand the probability of severe weather and predict their impact on communities, landscapes, and the built environment.",
+    "pricing": "PAID",
+    "domain": "AI & Climate & Extreme Weather",
+    "newsletter": ""
+  },
+  {
+    "title": "Chorus",
+    "url": "https://x.company/projects/chorus/",
+    "description": "Chorus is developing a suite of orchestration tools that track how goods are moved and used in real-time to improve efficiency and reduce waste.",
+    "pricing": "PAID",
+    "domain": "AI & Infrastructure",
+    "newsletter": ""
+  },
+  {
+    "title": "Tapestry",
+    "url": "https://x.company/projects/tapestry/",
+    "description": "Tapestry is X’s moonshot for the electric grid. The team is building an AI-powered, unified platform for every job across the grid. They are working with partners around the world to weave together the technology and information needed to manage the grid today, and plan for tomorrow.",
+    "pricing": "PAID",
+    "domain": "AI & Energy",
+    "newsletter": ""
+  },
+  {
+    "title": "Mineral",
+    "url": "https://x.company/projects/mineral/",
+    "description": "The Mineral team developed a range of breakthroughs in artificial intelligence and perception technology for the agriculture sector to build a more sustainable, resilient, and productive food system",
+    "pricing": "PAID",
+    "domain": "AI & Agriculture",
+    "newsletter": ""
+  },
+  {
+    "title": "Open Product Recovery",
+    "url": "https://github.com/CaravanStudios/open-product-recovery",
+    "description": "Open Product Recovery is a specification for describing and communicating about excess food (and other donatable products).",
+    "pricing": "FREE",
+    "domain": "AI & Agriculture",
+    "newsletter": ""
+  },
+  {
+    "title": "Ekimetric's Climate Q&A",
+    "url": "https://huggingface.co/spaces/Ekimetrics/climate-question-answering/tree/main",
+    "description": "ClimateQ&A is a a conversational assistant designed to help you understand climate change and biodiversity loss by answering questions by sifting through the IPCC and IPBES scientific reports.",
+    "pricing": "FREE",
+    "domain": "AI & Policy",
+    "newsletter": ""
+  },
+  {
+    "title": "MatterPD",
+    "url": "https://earthshiftglobal.com/matter-pd/",
+    "description": "Matter PD (product development) is designed to support design for sustainability and earlier identification of impacts and hot spots in the design process.",
+    "pricing": "Freemium",
+    "domain": "AI & Sustainability",
+    "newsletter": ""
+  },
+  {
+    "title": "Open Energy Data Initiative (OEDI)",
+    "url": "https://data.openei.org/",
+    "description": "Enabling research, collaboration, and transparency by providing open access to energy data and information.",
+    "pricing": "FREE",
+    "domain": "AI & Energy",
+    "newsletter": ""
+  },
+  {
+    "title": "Our World in Data",
+    "url": "https://ourworldindata.org/",
+    "description": "To make progress against the pressing problems the world faces, we need to be informed by the best research and data. Our World in Data makes this knowledge accessible and understandable, to empower those working to build a better world.",
+    "pricing": "Freemium",
+    "domain": "AI & Workforce Development",
+    "newsletter": ""
+  },
+  {
+    "title": "LEAF",
+    "url": "https://github.com/2105789/LEAF_WEB_JS",
+    "description": "LEAF is an advanced AI assistant specialized in climate change and environmental sustainability. Built with Nuxt.js and powered by Google's Gemini AI models, LEAF provides comprehensive, evidence-based responses to climate-related queries while maintaining a conversational experience.",
+    "pricing": "FREE",
+    "domain": "AI & Biodiversity/Ecology",
+    "newsletter": ""
+  },
+  {
+    "title": "Climate AI Market",
+    "url": "https://www.climactic.vc/climate-ai-market",
+    "description": "Explore Climatic's interactive Climate AI market. Find solutions and companies to the AI and Climate niche.",
+    "pricing": "FREE",
+    "domain": "AI & Workforce Development",
+    "newsletter": ""
+  },
+  {
+    "title": "TerraTorch",
+    "url": "https://github.com/IBM/terratorch?linkId=13974276",
+    "description": "A Python toolkit for fine-tuning Geospatial Foundation Models (GFMs).",
+    "pricing": "FREE",
+    "domain": "AI & Geospatial Analysis",
+    "newsletter": ""
+  },
+  {
+    "title": "Pycontrails",
+    "url": "https://py.contrails.org/",
+    "description": "Python library for modeling contrails and other aviation climate impacts.",
+    "pricing": "FREE",
+    "domain": "AI & Geospatial Analysis",
+    "newsletter": ""
+  },
+  {
+    "title": "IBM ESA Geospatial: TerraMind",
+    "url": "https://huggingface.co/ibm-esa-geospatial?linkId=14094112",
+    "description": "IBM and the European Space Agency (ESA) introduce TerraMind, the first multimodal, any-to-any generative foundation model for Earth Observation. TerraMind reaches new SOTA results on downstream tasks and introduces the \"Thinking-in-Modalities\" approach to handle missing modalities. The model was pre-trained in partnership with Jülich Supercomputing Centre (Forschungszentrum Jülich) and supported by the FAST-EO project.",
+    "pricing": "FREE",
+    "domain": "AI & Geospatial Analysis",
+    "newsletter": ""
+  },
+  {
+    "title": "NCDP U.S. Natural Hazards Climate Change Projections Tool",
+    "url": "https://ncdp.columbia.edu/us-natural-hazards-and-climate-change/",
+    "description": "The NCDP U.S. Natural Hazards Climate Change Projections project provides an interactive map-based tool, with a downloadable dataset, to explore county-level future natural hazard projections for Wildfires, Tropical Cyclones (Hurricanes), Tornadoes, and Sea Level Rise under one or more climate change scenarios in the United States. This tool provides a new dimension of hazard data to supplement NCDPs Natural Hazards Index v2.0.",
+    "pricing": "FREE",
+    "domain": "AI & Climate & Extreme Weather",
+    "newsletter": ""
+  },
+  {
+    "title": "Chat UI Energy Score Tool",
+    "url": "https://huggingface.co/spaces/jdelavande/chat-ui-energy",
+    "description": "How much energy do your chatbot conversations consume? The first AI chat interface with real-time energy estimates! This tool from Hugging Face helps users compare models, tasks, and strategies (like reasoning), empowering informed decisions. Even small energy savings can scale up across millions of queries,  model choice or output length can lead to major environmental impact.",
+    "pricing": "FREE",
+    "domain": "AI & Energy",
+    "newsletter": ""
+  },
+  {
+    "title": "Climate Change's AI Directory",
+    "url": "https://www.climatechange.ai/subject_areas",
+    "description": "Explore Climate Change AI's subject directory with different areas and solutions along with it.",
+    "pricing": "FREE",
+    "domain": "AI & Sustainability",
+    "newsletter": ""
+  },
+  {
+    "title": "Speed & Scale Global Climate Tracker",
+    "url": "https://speedandscale.com/tracker/",
+    "description": "The Speed & Scale plan lays out 10 objectives to cut emissions to net zero by 2050. So how are we doing? Watch, read, or dig into the data below to track the world’s progress.",
+    "pricing": "FREE",
+    "domain": "AI & Sustainability",
+    "newsletter": ""
+  },
+  {
+    "title": "Open Sustainable Technology",
+    "url": "https://opensustain.tech/",
+    "description": "A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources.",
+    "pricing": "FREE",
+    "domain": "AI & Sustainability",
+    "newsletter": ""
+  },
+  {
+    "title": "ClimateTriage",
+    "url": "https://climatetriage.com/",
+    "description": "Launch your open source journey in climate and sustainability. Explore current Good First Issues from open source initiatives focused on protecting natural resources.",
+    "pricing": "FREE",
+    "domain": "AI & Climate & Extreme Weather",
+    "newsletter": ""
+  },
+  {
+    "title": "Github's Green Software Directory",
+    "url": "https://github.com/github/GreenSoftwareDirectory",
+    "description": "GitHub's Green Software Directory is a simple and easy-to-use resource that all developers can use to adopt green software tools. This list aims to help any developer find green software projects available on GitHub.",
+    "pricing": "FREE",
+    "domain": "AI & Sustainability",
+    "newsletter": ""
+  },
+  {
+    "title": "SmolLM",
+    "url": "https://huggingface.co/blog/smollm",
+    "description": "This blog post introduces SmolLM, a family of state-of-the-art small models with 135M, 360M, and 1.7B parameters, trained on a new high-quality dataset. It covers data curation, model evaluation, and usage.",
+    "pricing": "FREE",
+    "domain": "AI & Sustainability",
+    "newsletter": ""
+  },
+  {
+    "title": "Notable AI Models - EpochAI",
+    "url": "https://epoch.ai/data/notable-ai-models",
+    "description": "Our flagship dataset, containing over 900 models that were state of the art, highly cited, or otherwise historically notable. It tracks key factors driving machine learning progress and includes over 400 training compute estimates in EpochAI.",
+    "pricing": "FREE",
+    "domain": "AI & Infrastructure",
+    "newsletter": ""
+  },
+  {
+    "title": "World Wide Wood",
+    "url": "https://artsandculture.google.com/project/trees",
+    "description": "From Japan's cherry blossoms to California's redwoods, discover the amazing world of trees. With the help of AI, we’ve collected and digitized 450,000 plant specimens from 30,000 species, for you to explore.",
+    "pricing": "FREE",
+    "domain": "AI & Biodiversity/Ecology",
+    "newsletter": ""
+  },
+  {
+    "title": "Zamba Cloud",
+    "url": "https://www.zambacloud.com/",
+    "description": "Zamba Cloud makes it easier to handle large amounts of camera trap data for research and conservation. Zamba Cloud uses machine learning to automatically detect and classify animals in camera trap videos or images.",
+    "pricing": "FREE",
+    "domain": "AI & Biodiversity/Ecology",
+    "newsletter": ""
+  },
+  {
+    "title": "CyFi: Cyanobacteria Finder",
+    "url": "https://cyfi.drivendata.org/",
+    "description": "CyFi is a command line tool that uses satellite imagery and machine learning to estimate cyanobacteria levels in small, inland water bodies. Cyanobacteria is a type of harmful algal bloom (HAB), which can produce toxins that are poisonous to humans and their pets, and can threaten marine ecosystems.",
+    "pricing": "FREE",
+    "domain": "AI & Biodiversity/Ecology",
+    "newsletter": ""
+  },
+  {
+    "title": "Driven Data Competition Search Toolfinder",
+    "url": "https://www.drivendata.org/competitions/search/?category=climate",
+    "description": "We run data science competitions that create AI solutions for social good.",
+    "pricing": "FREE",
+    "domain": "AI & Biodiversity/Ecology",
+    "newsletter": ""
+  },
+  {
+    "title": "AI Nature Tech Solutions Finder",
+    "url": "https://wildsight.co/ai/",
+    "description": "I return information from a combination of online search, and the nature tech directory database which is built and maintained by Nature4Climate and NatureTechMemos to help you find AI and nature tech solutions.",
+    "pricing": "FREE",
+    "domain": "AI & Sustainability",
+    "newsletter": ""
+  },
+  {
+    "title": "OceanSAR-1",
+    "url": "https://huggingface.co/galeio-research/OceanSAR-1",
+    "description": "OceanSAR-1 is the first foundation model in the OceanSAR family, specifically designed for Synthetic Aperture Radar (SAR) imagery analysis, with a focus on ocean observation. The model is trained using a novel dynamic dataset pruning strategy that enhances training efficiency and feature quality.",
+    "pricing": "FREE",
+    "domain": "AI & Ocean Conservation",
+    "newsletter": ""
+  },
+  {
+    "title": "Atlantes",
+    "url": "https://github.com/allenai/atlantes",
+    "description": "This repository stores the ATLAS model alongside training, inference, and deployment libraries for real-time global-scale GPS trajectory modeling. The models were developed at Ai2 and are currently deployed in the skylight maritime intelligence platform.",
+    "pricing": "FREE",
+    "domain": "AI & Ocean Conservation",
+    "newsletter": ""
+  },
+  {
+    "title": "ML Energy Leaderboard",
+    "url": "https://ml.energy/leaderboard/?__theme=light",
+    "description": "Large language models (LLMs), especially the instruction-tuned ones, can generate human-like responses to chat prompts. Using Zeus for energy measurement, we created a leaderboard for LLM chat energy consumption.",
+    "pricing": "FREE",
+    "domain": "AI & Energy",
+    "newsletter": ""
+  },
+  {
+    "title": "AI Impact Tracker",
+    "url": "https://chromewebstore.google.com/detail/ai-impact-tracker/lbeceglchgnhaaidddcdgapnacdjofpf?authuser=1&hl=fr&pli=1",
+    "description": "Estimate the energy and water footprint of your AI usage. The extension uses the length of your messages and ChatGPT's replies to estimate energy usage based on GPT-4o's characteristics. The results are estimates—not guarantees—but give you a sense of your AI footprint. It runs securely in your browser and never sends your data anywhere. 🌱",
+    "pricing": "FREE",
+    "domain": "AI & Sustainability",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Carbon-Aware SDK Tool",
+    "url": "https://github.com/Green-Software-Foundation/carbon-aware-sdk/releases/tag/v1.8.0?utm_source=Green+Software+Foundation&utm_campaign=0eabe3348c-GSF+Newsletter+%28May+17%29+%28%23137%29&utm_medium=email&utm_term=0_c5376a805c-0eabe3348c-619782063",
+    "description": "This release consolidates the ElectricityMaps sources, introduces new CO₂-intensity signal support in WattTime, and rounds out the release with documentation improvements and critical bug fixes.",
+    "pricing": "FREE",
+    "domain": "AI & Energy",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "GSF's Policy Radar Tool",
+    "url": "https://policy-radar.greensoftware.foundation/",
+    "description": "The Policy Radar's primary goal is to proactively engage with policymakers and shape future legislation, fostering a deeper understanding of the policy landscape and enabling members to participate effectively in policy development.",
+    "pricing": "FREE",
+    "domain": "AI & Policy",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Green Software Landscape",
+    "url": "https://landscape.bundesverband-green-software.de/",
+    "description": "The landscape database contains measurement and optimization tools for achieving green software goals.",
+    "pricing": "FREE",
+    "domain": "AI & Policy",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "CarbonAware",
+    "url": "https://docs.carbonaware.dev/?ct=t(EMAIL_CAMPAIGN_2025-MAY-23-138)",
+    "description": "CarbonAware is a suite of open-source tools and libraries designed to help developers build applications that can reduce their carbon footprint by making intelligent decisions based on real-time and forecasted carbon intensity data.",
+    "pricing": "FREE",
+    "domain": "AI & Infrastructure",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "SkyTruth Cerulean",
+    "url": "https://cerulean.skytruth.org/?area=5_100&classes=2_3_4_5_6_7_8&date_range=2024-05-25_2025-05-25&hitl_classes=2_3_4_5_6_7_8_9&hitl_review=0_1&min_confidence=0.7&source_limit=3&source_score=0_Infinity&sources=1_2_3",
+    "description": "This AI-powered tool uses AI to detect ocean oil pollution and link it to their most likely source. It can  find oil slicks in satellite imagery using machine learning models and identify nearby vessels and offshore oil platforms that may be responsible for those slicks.",
+    "pricing": "FREE",
+    "domain": "AI & Ocean Conservation",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "GAIA Foundation Model",
+    "url": "https://huggingface.co/bcg-usra-nasa-gaia",
+    "description": "Continuous and reliable Earth observation is critical for real-world systems like hurricane forecasting and wildfire detection. GAIA demonstrates promising capabilities, both in filling large gaps in satellite records and converting satellite imagery into precipitation estimates. GAIA represents a new class of geospatial AI models with the potential to create significant impact across sectors—from more accurate weather forecasting to applications in insurance, power utilities, aviation, and agriculture.",
+    "pricing": "FREE",
+    "domain": "AI & Climate & Extreme Weather",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Nonprofit AI Resources",
+    "url": "https://nonprofitaibook.com/resources/",
+    "description": "Part of the Nonprofit AI book that is available, these resources are perfect for any non-profit stakeholder that is trying to learn more about and use AI in their workflows.",
+    "pricing": "Freemium",
+    "domain": "AI & Workforce Development",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Data Center Legislation in 2025",
+    "url": "https://www.pecva.org/work/energy-work/four-pillars-of-data-center-reform/",
+    "description": "Explore the four pillars of data center reform + several pieces of legislation have been introduced for the 2025 General Assembly session that advocate for a smarter development approach and embrace parts of our four main pillars of reform through the Piedmont Environment Council.",
+    "pricing": "FREE",
+    "domain": "AI & Policy",
+    "newsletter": ""
+  },
+  {
+    "title": "Jeo",
+    "url": "https://github.com/google-deepmind/jeo",
+    "description": "Jeo (Jax for Earth Observation): Geospatial model training for Earth Observation with Jax / Flax from Google Deepmind",
+    "pricing": "FREE",
+    "domain": "AI & Geospatial Analysis",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "GeeFlow",
+    "url": "https://github.com/google-deepmind/geeflow",
+    "description": "GeeFlow: Large-scale geospatial datasets generation and processing with Google Earth Engine (GEE).",
+    "pricing": "FREE",
+    "domain": "AI & Geospatial Analysis",
+    "newsletter": ""
+  },
+  {
+    "title": "ForesTypology",
+    "url": "https://github.com/google-deepmind/forest_typology",
+    "description": "Datasets to protect Earth's forests and biodiversity. Includes global forest layers (created with partners) and benchmark datasets to motivate AI research in forest types mapping.",
+    "pricing": "FREE",
+    "domain": "AI & Biodiversity/Ecology",
+    "newsletter": ""
+  },
+  {
+    "title": "Cloud Carbon Footprint",
+    "url": "https://www.cloudcarbonfootprint.org/?utm_source=GreenIO&utm_medium=email&utm_campaign=green-io-newsletter-may-2025-green-io-ny-special",
+    "description": "Cloud Carbon Emissions Measurement and Analysis Tool: Understand how your cloud usage impacts our environment and what you can do about it",
+    "pricing": "FREE",
+    "domain": "AI & Sustainability",
+    "newsletter": ""
+  },
+  {
+    "title": "Boavizta Tools",
+    "url": "https://boavizta.org/en/tools?utm_source=GreenIO&utm_medium=email&utm_campaign=green-io-newsletter-may-2025-green-io-ny-special",
+    "description": "Members of Boavizta association have developed these 5 tools under open licenses, providing reliable, up-to-date, and accessible resources for measuring and reducing the environmental impact of digital technology including BoaviztAPI, BoAgent, CloudScanner, Datavizta, and Energizta.",
+    "pricing": "FREE",
+    "domain": "AI & Sustainability",
+    "newsletter": ""
+  },
+  {
+    "title": "AIWattch",
+    "url": "https://github.com/AIWattch/browser-extension?utm_source=GreenIO&utm_medium=email&utm_campaign=green-io-newsletter-may-2025-green-io-ny-special",
+    "description": "Chrome browser extension to estimate and report ChatGPT carbon emissions during conversations.",
+    "pricing": "FREE",
+    "domain": "AI & Sustainability",
+    "newsletter": ""
+  },
+  {
+    "title": "Ecograder",
+    "url": "https://ecograder.com/?utm_source=GreenIO&utm_medium=email&utm_campaign=green-io-newsletter-may-2025-green-io-ny-special",
+    "description": "Reduce emissions, improve performance, meet your website goals faster.",
+    "pricing": "FREE",
+    "domain": "AI & Sustainability",
+    "newsletter": ""
+  },
+  {
+    "title": "BeehAIve®",
+    "url": "https://ethicai.net/ethical-ai-assurance-platform",
+    "description": "BeehAIve® (‘𝑏𝑒𝑒ℎ𝑖𝑣𝑒’) the world's first hashtag#ethicalAI assurance platform  championing safety, standards and sustainability from Ethical AI.",
+    "pricing": "Freemium",
+    "domain": "AI & Policy",
+    "newsletter": ""
+  },
+  {
+    "title": "eco2AI",
+    "url": "https://github.com/sb-ai-lab/Eco2AI",
+    "description": "eco2AI is a python library which accumulates statistics about power consumption and CO2 emission during running code.",
+    "pricing": "FREE",
+    "domain": "AI & Sustainability",
+    "newsletter": ""
+  },
+  {
+    "title": "Green Software Foundation Directory",
+    "url": "https://github.com/Green-Software-Foundation/awesome-green-software",
+    "description": "The one-stop platform for discovering and contributing to green software solutions. This project aims to build a trusted ecosystem of tools, libraries, and resources that promote sustainable software development practices and is a part of the Green Software Foundation (GSF)",
+    "pricing": "FREE",
+    "domain": "AI & Sustainability",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "CarbonRunner",
+    "url": "https://carbonrunner.io/",
+    "description": "A multi-cloud CI/CD runner that shifts your workflows to the lowest CO2 regions.",
+    "pricing": "Freemium",
+    "domain": "AI & Sustainability",
+    "newsletter": ""
+  },
+  {
+    "title": "Kube-Green",
+    "url": "https://docs.mia-platform.eu/docs/infrastructure/paas/tools/kube-green",
+    "description": "Kube-green is a Kubernetes operator that allows to shut down environments or specific resources in order to optimize resource utilization, limiting energy waste. kube-green comes preinstalled in the Mia-Platform PaaS, and it is immediately available for configuration.",
+    "pricing": "FREE",
+    "domain": "AI & Sustainability",
+    "newsletter": ""
+  },
+  {
+    "title": "openLCA",
+    "url": "https://www.openlca.org/",
+    "description": "openLCA is a free, professional Life Cycle Assessment (LCA) and footprint software with a broad range of features and many available databases, developed by GreenDelta since 2006.",
+    "pricing": "FREE",
+    "domain": "AI & Sustainability",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "CO2.js",
+    "url": "https://www.thegreenwebfoundation.org/co2-js/",
+    "description": "CO2.js is an open-source JavaScript library that enables developers to estimate the emissions related to use of their apps, websites, and software.",
+    "pricing": "FREE",
+    "domain": "AI & Sustainability",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Green Metrics Tool",
+    "url": "https://www.green-coding.io/products/green-metrics-tool/",
+    "description": "The Green Metrics Tool is a free open-source (FOSS) tool we designed to enable developers best to measure the energy / CO2 consumption of software architectures.",
+    "pricing": "FREE",
+    "domain": "AI & Sustainability",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Weather Lab",
+    "url": "https://deepmind.google.com/science/weatherlab",
+    "description": "An interactive platform sharing our AI weather models, including our new experimental cyclone prediction model. Weather Lab shows real-time cyclone predictions for traditional and AI weather models.",
+    "pricing": "FREE",
+    "domain": "AI & Climate & Extreme Weather",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "GLAD Landsat ARD",
+    "url": "https://registry.opendata.aws/glad-landsat-ard/",
+    "description": "The Landsat Analysis Ready Data (ARD) created by the Global Land Analysis and Discovery Lab (GLAD) at the University of Maryland serves as a spatially and temporally consistent input for land cover mapping and change detection at global to local scales. The GLAD ARD represents a 16-day time series of globally consistent, tiled Landsat normalized surface reflectance from 1997 to the present operationally updated every 16 days. Only data from 2020 to present available on the AWS, older data is available through the UMD API.",
+    "pricing": "FREE",
+    "domain": "AI & Geospatial Analysis",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Environmental Transparency Explorer Tool",
+    "url": "https://huggingface.co/spaces/sasha/environmental-transparency",
+    "description": "Explore the data from the paper  'Misinformation by Omission: The Need for More Environmental Transparency in AI' published by the all-star team at Hugging Face",
+    "pricing": "FREE",
+    "domain": "AI & Sustainability",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Energy and AI Observatory",
+    "url": "https://www.iea.org/data-and-statistics/data-tools/energy-and-ai-observatory",
+    "description": "The IEA’s Energy and AI Observatory provides up-to-date data and analysis on the growing links between the energy sector and artificial intelligence (AI). The new and fast-moving field of AI requires a new approach to gathering data and information, and the Observatory aims to provide regularly updated data and a comprehensive view of the implications of AI on energy demand (energy for AI) and of AI applications for efficiency, innovation, resilience and competitiveness in the energy sector (AI for energy).",
+    "pricing": "FREE",
+    "domain": "AI & Energy",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Beijing-PM2.5 Air Quality Prediction",
+    "url": "https://github.com/denizyennerr/Beijing-PM2.5-Air-Quality-Prediction",
+    "description": "This machine learning project explores air quality in Beijing from 2010 to 2014, focusing on predicting fine particulate matter (PM2.5) and how it evolves over time in relation to meteorological and seasonal factors. The dataset is a time series, with hourly readings of PM2.5 and weather conditions such as temperature, wind speed, and pressure.",
+    "pricing": "FREE",
+    "domain": "AI & Pollution Response",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "FutureGuessr",
+    "url": "https://futureguessr.fr/",
+    "description": "An immersive game to visualize the impacts of climate change on our planet.",
+    "pricing": "FREE",
+    "domain": "AI & Climate & Extreme Weather",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Detectree",
+    "url": "https://github.com/martibosch/detectree",
+    "description": "DetecTree is a Pythonic library to perform semantic segmentation of aerial imagery into tree/non-tree pixels, following the methods of Yang et al. A pre-trained model is available at Hugging Face hub.",
+    "pricing": "FREE",
+    "domain": "AI & Biodiversity/Ecology",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "EarthMap",
+    "url": "https://earthmap.org/login",
+    "description": "Earth Map is an innovative, free and open-source tool developed by the Food and Agriculture Organization of the United Nations (FAO) in the framework of the FAO - Google partnership. It was created to support countries, research institutes, farmers and members of the general public with internet access to monitor their land in an easy, integrated and multi-temporal manner. It allows everyone to visualize, process and analyze satellite imagery and global datasets on climate, vegetation, fires, biodiversity, geo-social and other topics. Users need no prior knowledge of remote sensing or Geographical Information Systems (GIS).",
+    "pricing": "FREE",
+    "domain": "AI & Geospatial Analysis",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Remap",
+    "url": "https://remap-app.org/",
+    "description": "Remap is an online mapping platform for people with little technical background in remote sensing. We developed remap to enable you to quickly map and report the status of ecosystems, contributing to a global effort to assess all ecosystems on Earth under the IUCN Red List of Ecosystems.",
+    "pricing": "FREE",
+    "domain": "AI & Geospatial Analysis",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "OpenLandMap",
+    "url": "https://github.com/openlandmap/soildb",
+    "description": "Production of soil data predictions using scikit-map through a Github repo.",
+    "pricing": "FREE",
+    "domain": "AI & Geospatial Analysis",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Adaptix Earth",
+    "url": "https://www.adaptix.earth/",
+    "description": "Adaptix Earth provides cutting-edge geospatial analytics and biodiversity risk assessment to help organizations make informed environmental decisions.",
+    "pricing": "FREE",
+    "domain": "AI & Geospatial Analysis",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "AddaxAI Open-Source Model",
+    "url": "https://addaxdatascience.com/addaxai/",
+    "description": "Simplifying camera trap data analysis with AI and best part is that its open-source.",
+    "pricing": "FREE",
+    "domain": "AI & Biodiversity/Ecology",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "FABRIC: When Servers Meet Species",
+    "url": "https://github.com/TianyaoShi/FABRIC",
+    "description": "FABRIC (Fab-to-grave Analysis of Biodiversity-Related Impact of Computing) is a comprehensive framework for assessing the environmental impacts of computing hardware throughout their entire lifecycle, with a particular focus on biodiversity-related impact categories with the code.",
+    "pricing": "FREE",
+    "domain": "AI & Biodiversity/Ecology",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "SCARF: Stress-Corrected Assessment of Water Resource Footprint",
+    "url": "https://github.com/jojacola/SCARF",
+    "description": "SCARF is implemented by python. It is designed to evaluate the environmental impact of water consumption by integrating spatial and temporal variations of water stress.",
+    "pricing": "FREE",
+    "domain": "AI & Water Resources",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Global Food Twin Map",
+    "url": "https://foodtwin.theplotline.org/",
+    "description": "A model of the Earth's entire food system.",
+    "pricing": "FREE",
+    "domain": "AI & Agriculture",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Environmental Monitoring System",
+    "url": "https://github.com/melisasvr/Environmental-Monitoring-System",
+    "description": "Arduino and sensor-based system for monitoring temperature, humidity, and air quality at local scale.",
+    "pricing": "FREE",
+    "domain": "AI & Biodiversity/Ecology",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "AQUA-7B",
+    "url": "https://huggingface.co/KurmaAI/AQUA-7B",
+    "description": "AQUA-7B is Kurma AI’s flagship 7-billion parameter large language model built exclusively for the global aquaculture industry. And it is the first large language model for the aquaculture. It is fine-tuned to deliver actionable insights for aquaculture species-specific farming, hatchery operations, water quality control, and disease management.",
+    "pricing": "FREE",
+    "domain": "AI & Ocean Conservation",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Carbonara",
+    "url": "https://climateandtech.com/en/research-projects/open-source-carbon-tracker-for-software-development-code-editor-plugin?utm_source=Green+Software+Foundation&utm_campaign=89ed6196ab-GSF+Newsletter+%28JUNE+20%29+%28%23142%29&utm_medium=email&utm_term=0_c5376a805c-89ed6196ab-619782063",
+    "description": "A carbon tracking data tool for sustainable software engineering.",
+    "pricing": "Freemium",
+    "domain": "AI & Infrastructure",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "EnergyKit",
+    "url": "https://developer.apple.com/energykit/?utm_source=Green+Software+Foundation&utm_campaign=45f78c0243-GSF+Newsletter+%28JUNE+13%29+%28%23141%29&utm_medium=email&utm_term=0_c5376a805c-45f78c0243-619782063",
+    "description": "EnergyKit provides a grid forecast for your app to help people choose when to use electricity by identifying times when there‘s relatively cleaner electricity on the grid.",
+    "pricing": "PAID",
+    "domain": "AI & Energy",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Data Collection Bank of Big Tech Emissions and Energy",
+    "url": "https://ketanjoshi.co/2025/05/23/data-collection-big-tech-emissions-energy/",
+    "description": "Explore a curated dataset maintained by Ketan Joshi about Big Tech's emissions and energy data.",
+    "pricing": "FREE",
+    "domain": "AI & Infrastructure",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Tanager Core Imagery",
+    "url": "https://www.planet.com/data/stac/browser/tanager-core-imagery/catalog.json?.language=en",
+    "description": "Explore the datasets using the Tanager Core Imagery with Planet AI.",
+    "pricing": "FREE",
+    "domain": "AI & Geospatial Analysis",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Monarcha",
+    "url": "https://monarcha.ai/",
+    "description": "Map, analyze and act. Turn messy spatial data into decisions in minutes using a combination of AI and agentic AI workflows.",
+    "pricing": "Freemium",
+    "domain": "AI & Geospatial Analysis",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Opal",
+    "url": "https://opal.withgoogle.com/landing/",
+    "description": "Try out Google's new vibe-coding app and see what you can create in the AI for Good space.",
+    "pricing": "Freemium",
+    "domain": "AI & Workforce Development",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Gen AI Sustainability Estimator",
+    "url": "https://genai-cost.solusinteractive.net/",
+    "description": "This is a branch by Karol See to extend JV and Debbie's initial cost estimator by including sustainability metrics in Gen AI use cases and is inspired by Mistral AI's LCA analysis.",
+    "pricing": "FREE",
+    "domain": "AI & Sustainability",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Visualize AlphaEarth Satellite Embeddings in 3D Exercise",
+    "url": "https://leafmap.org/maplibre/AlphaEarth/",
+    "description": "Google DeepMind has released a new satellite embedding dataset called AlphaEarth. This dataset contains annual satellite embeddings from 2017 to 2024, with each pixel representing a 10x10 meter area. The dataset is available on Google Earth Engine, and can be used to train machine learning models to classify satellite imagery. Try out this exercise to learn more about how to use AlphaEarth!",
+    "pricing": "FREE",
+    "domain": "AI & Geospatial Analysis",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "The Open Direct Air Capture 2025 (ODAC25) Dataset and Models",
+    "url": "https://huggingface.co/facebook/ODAC25",
+    "description": "Developed by Meta FAIR, Georgia Institute of Technology, and CuspAI, this release enables rapid, accurate screening of carbon capture materials and can help accelerate climate solutions using AI. Check out the dataset and tools on Hugging Face.",
+    "pricing": "FREE",
+    "domain": "AI & Sustainability",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "AlphaEarth Foundations",
+    "url": "https://deepmind.google/discover/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/",
+    "description": "This new AI model integrates petabytes of Earth observation data to generate a unified data representation that revolutionizes global mapping and monitoring from Google.",
+    "pricing": "Freemium",
+    "domain": "AI & Geospatial Analysis",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "DINOv3",
+    "url": "https://huggingface.co/collections/facebook/dinov3-68924841bd6b561778e31009",
+    "description": "DINOv3: foundation models producing excellent dense features, outperforming SotA w/o fine-tuning. Explore on Hugging Face.",
+    "pricing": "FREE",
+    "domain": "AI & Geospatial Analysis",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "USAI Government Website",
+    "url": "https://www.usai.gov/",
+    "description": "Explore the new website dedicated to AI tools being used in the US federal government.",
+    "pricing": "Freemium",
+    "domain": "AI & Workforce Development",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "The AI & Global Health Hub",
+    "url": "https://nate-miller.beehiiv.com/",
+    "description": "Essential insights and in-depth guides on AI for global health professionals, written & curated by Nate Miller.",
+    "pricing": "Freemium",
+    "domain": "AI & Public Health",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "NVIDIA's Nemotron Nano Model",
+    "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-9B-v2",
+    "description": "NVIDIA-Nemotron-Nano-9B-v2 is a large language model (LLM) trained from scratch by NVIDIA, and designed as a unified model for both reasoning and non-reasoning tasks. It responds to user queries and tasks by first generating a reasoning trace and then concluding with a final response.",
+    "pricing": "FREE",
+    "domain": "AI & Infrastructure",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "TerraMesh",
+    "url": "https://huggingface.co/datasets/ibm-esa-geospatial/TerraMesh",
+    "description": "A planetary‑scale, multimodal analysis‑ready dataset for Earth‑Observation foundation models: TerraMesh merges data from Sentinel‑1 SAR, Sentinel‑2 optical, Copernicus DEM, NDVI, and land‑cover sources into more than 9 million co‑registered patches ready for large‑scale representation learning.",
+    "pricing": "FREE",
+    "domain": "AI & Geospatial Analysis",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Surya Heliophysics Foundational Model",
+    "url": "https://huggingface.co/nasa-ibm-ai4science",
+    "description": "NASA and IBM joined forces to create the Surya Heliophysics Foundational Model, a powerful AI model trained on 14 years of observations from NASA’s Solar Dynamics Observatory (SDO). By embracing the principles of open AI and open science, IBM and NASA are actively contributing to the global mission of promoting knowledge sharing and accelerating innovations. We hope that the AI community find our efforts useful and that our models help fuel progress in addressing critical science challenges.",
+    "pricing": "FREE",
+    "domain": "AI & Geospatial Analysis",
+    "newsletter": "Yes"
+  }
+]
