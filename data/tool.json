@@ -1358,5 +1358,29 @@
     "pricing": "FREE",
     "domain": "AI & Geospatial Analysis",
     "newsletter": "Yes"
+  },
+  {
+    "title": "Graphify",
+    "url": "https://github.com/safishamsi/graphify",
+    "description": "An AI coding assistant skill that transforms folders of code, documentation, papers, and images into queryable knowledge graphs. Performs deterministic AST extraction across 20 programming languages without requiring an LLM, uses Claude subagents to analyze documents and images in parallel, and builds NetworkX graphs clustered with Leiden community detection. Demonstrates 71.5x token reduction on mixed corpora vs. reading raw files—reducing unnecessary API calls and supporting more sustainable AI development.",
+    "pricing": "FREE",
+    "domain": "AI & Workforce Development",
+    "newsletter": "No"
+  },
+  {
+    "title": "Data Center Impact Dashboard",
+    "url": "https://datacenterimpactdashboard.com/",
+    "description": "An interactive dashboard by Rooted Futures Lab tracking the environmental impact of data centers across water, energy, and emissions metrics.",
+    "pricing": "FREE",
+    "domain": "AI & Infrastructure",
+    "newsletter": "No"
+  },
+  {
+    "title": "US Data Center Moratorium Tracker — 2026",
+    "url": "https://www.interconnectedcapital.com/research/data-center-moratoriums",
+    "description": "An interactive tracker by Interconnected Capital monitoring municipal, county, and state-level construction bans and moratoriums on data center development across the United States in 2026.",
+    "pricing": "FREE",
+    "domain": "AI & Policy",
+    "newsletter": "No"
   }
 ]

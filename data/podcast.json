@@ -1204,5 +1204,32 @@
     "domain": "AI & Energy",
     "sub_domain": "The Future of Clean Energy and AI",
     "newsletter": "Yes"
+  },
+  {
+    "title": "From Power to Water: Startups Taking on Data Center Bottlenecks",
+    "url": "https://www.youtube.com/watch?v=vfUD8FKB93g",
+    "description": "Hosted by Romain Truncheon, Chair of the Innovation Committee, this session features two startups from the iMasons Incubator program—each tackling critical challenges facing data centers as the industry scales rapidly to meet AI-driven demand. First, Dr. Hector Lancaster, cofounder and CEO of SuperSix, shares how next-generation supercapacitors could transform short-duration energy storage, improve power quality, reduce fire risk, and unlock new efficiencies across compute, grid interface, and backup power systems. Next, Priyanka from Water From Air presents a radical rethinking of industrial cooling and water generation: a low-energy atmospheric water extraction system powered by data center waste heat that produces ultra-pure water for adiabatic cooling, reducing peak power demand and offering new ways to manage water scarcity in hot and arid regions.",
+    "date": "April 7, 2026",
+    "domain": "AI & Data Centers/Hardware",
+    "sub_domain": "Environmental Bottlenecks for Data Center Hardware",
+    "newsletter": "No"
+  },
+  {
+    "title": "On Early-Stage Risk, System Innovation & Investing Beyond the Data Centre",
+    "url": "https://podfollow.com/conversations-in-cleantech/episode/446717251c74bbc53f8556a3445237d01953ac36/view",
+    "description": "This season, we're deconstructing digital infrastructure - one of the fastest-growing and most influential parts of the energy transition. From hyperscalers and AI demand to talent, capital, software and sustainability, we'll explore how data infrastructure gets built, powered, financed, staffed and scaled. In this episode, hosts Jenny Gladman and Isabella Rova are joined by Sofie Käll, CIO, and Anna Søndergaard, Co-Founder, Partner & CEO at The Footprint Firm - two investors approaching digital infrastructure not from the centre of the asset, but from the edges of the system.",
+    "date": "March 31, 2026",
+    "domain": "AI & Energy",
+    "sub_domain": "Cleantech Investment & Financing",
+    "newsletter": "No"
+  },
+  {
+    "title": "Will Power-Hungry Data Centers Overwhelm the Grid?",
+    "url": "https://www.youtube.com/watch?v=IaBuo0tPruU",
+    "description": "Let's Talk Energy takes a deep dive into data centers. Data centers have been around since the advent of the internet, but their buildout—and associated energy needs—have exploded in recent years, driven by the race to develop ever-greater AI capabilities. Governments are pushing AI progress and data sovereignty as a new front in global industrial competition, and hyperscalers are pouring hundreds of billions of dollars into data center development, particularly in the US. However, fears of astronomical power demand swamping legacy grids and pushing up consumer prices, plus general uncertainty over the pace and scope of the AI revolution, are complicating the outlook for the data center build-out.",
+    "date": "April 1, 2026",
+    "domain": "AI & Energy",
+    "sub_domain": "Overwhelming the Grid with Data Centers",
+    "newsletter": "No"
   }
 ]

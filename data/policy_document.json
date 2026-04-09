@@ -1766,5 +1766,29 @@
     "domain": "AI & Multiple Resources",
     "authoring_body": "The Economist Impact",
     "newsletter": "Yes"
+  },
+  {
+    "title": "Short-Term Energy Outlook — Electricity, Coal, Renewables",
+    "url": "https://www.eia.gov/outlooks/steo/report/elec_coal_renew.php",
+    "date": "April 7, 2026",
+    "domain": "AI & Energy",
+    "authoring_body": "U.S. Energy Information Administration (EIA)",
+    "newsletter": "No"
+  },
+  {
+    "title": "Data Centres: The Leading Questions",
+    "url": "https://www.knightfrank.co.uk/content-assets/da4ab2872fa34026ba60b05d6a66e213/datacentrescq2026.pdf",
+    "date": "April 2026",
+    "domain": "AI & Infrastructure",
+    "authoring_body": "Knight Frank Research",
+    "newsletter": "No"
+  },
+  {
+    "title": "Not a Drop to Drink: How Britain's Data Centre Surge Threatens Water Security",
+    "url": "https://www.globalactionplan.org.uk/files/not_a_drop_to_drink_-_april_2026.pdf",
+    "date": "April 2026",
+    "domain": "AI & Water Resources",
+    "authoring_body": "Global Action Plan",
+    "newsletter": "No"
   }
 ]

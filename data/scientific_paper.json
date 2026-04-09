@@ -4134,5 +4134,38 @@
     "domain": "AI & Data Centers/Hardware/Models",
     "sub_domain": "Empirical Metrics of AI Inference Footprint",
     "newsletter": "Yes"
+  },
+  {
+    "title": "The Energy Footprint of LLM-Based Environmental Analysis: LLMs and Domain Products",
+    "url": "https://arxiv.org/abs/2604.00053",
+    "description": "Examines how LLMs are increasingly used in domain-specific environmental and climate applications, and how the energy consumption of domain-specific retrieval-augmented (RAG) workflows compares with direct generic LLM usage. The authors assess inference-time energy consumption of two LLM-based climate analysis chatbots (ChatNetZero and ChatNDC) versus the generic GPT-4o-mini, decomposing each workflow into retrieval, generation, and hallucination-checking components.",
+    "date": "March 31, 2026",
+    "authors": "Bao et al.",
+    "journal": "arXiv",
+    "domain": "AI & Energy",
+    "sub_domain": "LLM Energy Footprint",
+    "newsletter": "No"
+  },
+  {
+    "title": "EcoAssist: Embedding Sustainability into AI-Assisted Frontend Development",
+    "url": "https://arxiv.org/html/2604.04332v1",
+    "description": "Proposes EcoAssist, an approach for embedding sustainability considerations directly into AI-assisted frontend development workflows so that code suggestions surface their environmental implications to developers.",
+    "date": "April 1, 2026",
+    "authors": "Barrocas et al.",
+    "journal": "arXiv",
+    "domain": "AI & Policy/ESG",
+    "sub_domain": "Sustainable Software Development",
+    "newsletter": "No"
+  },
+  {
+    "title": "AI, Climate, and Regulation: From Data Centers to the AI Act",
+    "url": "https://arxiv.org/html/2410.06681v2",
+    "description": "Provides guidance on climate-related regulation for data centers and AI specifically, discussing how to operationalize these requirements and highlighting challenges, room for improvement, and policy proposals. The authors propose a specific interpretation of the EU AI Act to bring reporting on previously unaddressed energy consumption from AI inference back into scope.",
+    "date": "October 2024",
+    "authors": "Ebert et al.",
+    "journal": "arXiv",
+    "domain": "AI & Policy/ESG",
+    "sub_domain": "AI Act / Data Center Regulation",
+    "newsletter": "No"
   }
 ]

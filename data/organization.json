@@ -4350,5 +4350,29 @@
     "linkedin_bio": "NetHope is a collaborative consortium of the world’s largest humanitarian organizations and the technology sector.",
     "domain": "AI & Environment",
     "newsletter": ""
+  },
+  {
+    "title": "re:cinq",
+    "url": "https://www.linkedin.com/company/re-cinq/",
+    "location": "Europe",
+    "linkedin_bio": "Bridging the gap between cloud native and AI native with scalable platforms and organizational excellence.",
+    "domain": "AI & Environment",
+    "newsletter": "No"
+  },
+  {
+    "title": "GridWise Alliance",
+    "url": "https://www.linkedin.com/company/gridwise-alliance/",
+    "location": "United States",
+    "linkedin_bio": "The electric grid and its supporting infrastructure is the foundational component of an advanced digital economy.",
+    "domain": "AI & Energy",
+    "newsletter": "No"
+  },
+  {
+    "title": "Giga Energy",
+    "url": "https://www.linkedin.com/company/gigaenergy/",
+    "location": "United States",
+    "linkedin_bio": "Giga Energy manufactures and operates energy infrastructure—electrical equipment, modular data centers, and power generation assets—using redirected flared natural gas from oil drilling operations to power Bitcoin mining and compute, reducing methane emissions while monetizing stranded gas. Headquartered in Houston with international operations.",
+    "domain": "AI & Energy",
+    "newsletter": "No"
   }
 ]

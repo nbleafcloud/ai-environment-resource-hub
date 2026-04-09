@@ -1158,5 +1158,29 @@
     "date": "2025-08-17",
     "domain": "AI & Environmental Impact",
     "newsletter": "Yes"
+  },
+  {
+    "title": "The Limits of AI Scaling Laws – NVIDIA CEO Explains",
+    "url": "https://www.youtube.com/watch?v=WoNSsBWFyEk",
+    "description": "Jensen Huang, co-founder and CEO of NVIDIA—the world's most valuable company and the engine powering the AI computing revolution—explains the limits of AI scaling laws.",
+    "date": "March 26, 2026",
+    "domain": "AI & Multiple Applications",
+    "newsletter": "No"
+  },
+  {
+    "title": "Inside the Town Where OpenAI Is Building Its Biggest Data Center",
+    "url": "https://www.youtube.com/watch?v=2XZaHsqzBPc",
+    "description": "Abilene, Texas is home to 'the big one' as its mayor describes it. Here, OpenAI and Oracle have built out 8 massive data center buildings as part of the $500B Project Stargate endeavor signed off on by President Trump. Soon's Dagsen Love travels to Abilene to meet with small business owners, a radio DJ, the mayor, and more to find out how this town of 130,000 people is adjusting to an AI mega-structure being built in its community.",
+    "date": "April 7, 2026",
+    "domain": "AI & Environmental Impact",
+    "newsletter": "No"
+  },
+  {
+    "title": "Goliath Has Fallen – The Audacious NIMBY: The Story of the Digital Gateway Project",
+    "url": "https://www.youtube.com/watch?v=q6JwMryxK3k",
+    "description": "What happens when ordinary people take on one of the most powerful industries in the world… and win? This is the untold story of the Digital Gateway in Prince William County—a project that would have become the largest data center complex on the planet. Backed by massive money, powerful interests, and behind-the-scenes deals, it seemed unstoppable, until the community fought back.",
+    "date": "April 3, 2026",
+    "domain": "AI & Climate Policy",
+    "newsletter": "No"
   }
 ]
