@@ -1231,5 +1231,32 @@
     "domain": "AI & Energy",
     "sub_domain": "Overwhelming the Grid with Data Centers",
     "newsletter": "No"
+  },
+  {
+    "title": "The Whole World Is Fighting About Energy",
+    "url": "https://www.theringer.com/podcasts/plain-english-with-derek-thompson/2026/04/14/the-whole-world-is-fighting-about-energy",
+    "description": "Derek Thompson and energy analyst Nat Bullard discuss how two major global crises — the Iran conflict and the AI boom — both center on energy competition, and how power (literally and figuratively) has become the central point of contention worldwide.",
+    "date": "April 14, 2026",
+    "domain": "AI & Energy",
+    "sub_domain": "Global Energy Competition and Conflicts",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Why Data Centers Could Crash America's Power Grid | Energy Gang",
+    "url": "https://www.youtube.com/watch?v=mLxmy5MrTZ0",
+    "description": "Ed Crooks is joined by Asim Haque of PJM, who explains how electricity markets are designed to ensure grid resilience, and why they are now under stress. He breaks down how capacity markets work, why price caps are controversial, and what happens when new demand arrives faster than new generation can be built. Amy Myers Jaffe from NYU brings a different perspective, questioning whether the industry is overcomplicating solutions.",
+    "date": "April 14, 2026",
+    "domain": "AI & Data Centers/Hardware",
+    "sub_domain": "Power Grid Demands and Data Centers",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "The Week in Green Software: Green AI Tradeoffs",
+    "url": "https://shows.acast.com/environment-variables/episodes/the-week-in-green-software-green-ai-tradeoffs",
+    "description": "Host Kate Goldenring and Chris Adams explore how the Software Carbon Intensity (SCI) standard can help companies meet new EU sustainability reporting requirements, research on 'green prompting' showing specific words significantly impact AI energy use, and how rising AI demand is disrupting the refurbished laptop market.",
+    "date": "April 16, 2026",
+    "domain": "AI & Energy",
+    "sub_domain": "Green Software Standards",
+    "newsletter": "Yes"
   }
 ]

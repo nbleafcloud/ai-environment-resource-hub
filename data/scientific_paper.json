@@ -4167,5 +4167,38 @@
     "domain": "AI & Policy/ESG",
     "sub_domain": "AI Act / Data Center Regulation",
     "newsletter": "No"
+  },
+  {
+    "title": "Orbital Data Centers as an Extreme Response to AI's Infrastructure Crunch",
+    "url": "https://odc.space/wp-content/uploads/2026/04/ODC.Space-Whitepaper.pdf",
+    "description": "Whitepaper introducing ODC.space, Atomic-6's on-demand marketplace for orbital data center capacity targeting AI developers, software providers, and government agencies. Positions orbital compute as a solution to rising terrestrial data center energy and siting constraints.",
+    "date": "April 10, 2026",
+    "authors": "Wong et al.",
+    "journal": "N/A",
+    "domain": "AI & Data Centers/Hardware/Model",
+    "sub_domain": "Orbital Data Centers and Compute",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Power Hungry: How AI Will Drive Energy Demand",
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S014098832600157X",
+    "description": "Investigates how expanding AI data centers will affect global electricity consumption, pricing, and emissions through 2030. Finds electricity costs for major AI firms nearly doubled 2019–2023, and U.S. electricity prices could rise 0.35%–8.6% by 2030 with corresponding emissions increases of 1.2%–5.5% globally.",
+    "date": "March 23, 2026",
+    "authors": "Bogmans et al.",
+    "journal": "Energy Economics",
+    "domain": "AI & Energy",
+    "sub_domain": "Electricity Demand Forecasting",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "The Impact of Artificial Intelligence on Corporate ESG Performance: The Moderating Role of Coercive and Normative Pressures",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1059056026003734",
+    "description": "Examines how AI implementation influences corporate ESG outcomes in Chinese listed companies. Identifies three mechanisms — green innovation, information transparency, and internal control — through which AI drives sustainability improvements, with regulatory and investor pressures strengthening these effects.",
+    "date": "April 17, 2026",
+    "authors": "Liu et al.",
+    "journal": "International Review of Economics & Finance",
+    "domain": "AI & Policy/ESG",
+    "sub_domain": "Corporate ESG Outcomes",
+    "newsletter": "Yes"
   }
 ]

@@ -1790,5 +1790,37 @@
     "domain": "AI & Water Resources",
     "authoring_body": "Global Action Plan",
     "newsletter": "No"
+  },
+  {
+    "title": "Notice of 2026 Annual Meeting of Shareholders & Proxy Statement",
+    "url": "https://d18rn0p25nwr6d.cloudfront.net/CIK-0001018724/b0920373-524c-460c-a3ab-16d00579dc84.pdf",
+    "date": "April 2026",
+    "domain": "AI & ESG",
+    "authoring_body": "Amazon",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Utility Spending is Rising: A Review of Utility Capital Expenditure Plans",
+    "url": "https://powerlines.org/wp-content/uploads/2026/04/0413_PowerLines-CapEx-Report-1.pdf",
+    "date": "April 13, 2026",
+    "domain": "Climate & Energy Policy",
+    "authoring_body": "PowerLines",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Data Center Standards — IDCA Infinity Paradigm AE360 2.0",
+    "url": "https://www.idc-a.org/data-center-standards",
+    "date": "April 2026",
+    "domain": "AI & Environmental Standards",
+    "authoring_body": "International Data Center Authority (IDCA)",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "The 2026 AI Index Report",
+    "url": "https://hai.stanford.edu/ai-index/2026-ai-index-report",
+    "date": "April 16, 2026",
+    "domain": "AI Policy & Governance",
+    "authoring_body": "Stanford Institute for Human-Centered Artificial Intelligence (Stanford HAI)",
+    "newsletter": "Yes"
   }
 ]

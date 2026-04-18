@@ -4374,5 +4374,29 @@
     "linkedin_bio": "Giga Energy manufactures and operates energy infrastructure—electrical equipment, modular data centers, and power generation assets—using redirected flared natural gas from oil drilling operations to power Bitcoin mining and compute, reducing methane emissions while monetizing stranded gas. Headquartered in Houston with international operations.",
     "domain": "AI & Energy",
     "newsletter": "No"
+  },
+  {
+    "title": "CLōD",
+    "url": "https://www.linkedin.com/company/clodio/",
+    "location": "North America",
+    "linkedin_bio": "CLōD is the Unified Interface For Accessible LLMs — we route requests to datacenters with the lowest real-time energy cost.",
+    "domain": "AI & Energy",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "ATOMIC-6",
+    "url": "https://www.linkedin.com/company/atomic-6/",
+    "location": "North America",
+    "linkedin_bio": "Atomic-6 is revolutionizing mobility by rapidly designing and manufacturing the world's finest composite solutions. Our team of materials scientists and engineers leverages a proprietary manufacturing process to build composite solutions for the most ambitious mobility companies operating in the most extreme environments.",
+    "domain": "AI & Circular Economy",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Open Government Partnership",
+    "url": "https://www.linkedin.com/company/open-government-partnership/",
+    "location": "North America",
+    "linkedin_bio": "The Open Government Partnership (OGP) is a multi-stakeholder initiative focused on improving government transparency, accountability and people's participation. OGP brings together government and civil society reformers who work to make governments more effective and responsive to people's needs.",
+    "domain": "AI & Social/Economics",
+    "newsletter": "Yes"
   }
 ]

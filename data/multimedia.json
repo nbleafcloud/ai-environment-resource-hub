@@ -1182,5 +1182,29 @@
     "date": "April 3, 2026",
     "domain": "AI & Climate Policy",
     "newsletter": "No"
+  },
+  {
+    "title": "Prof. Joseph Stiglitz Discusses the Impact of AI and Digital Platforms on the Information Ecosystem",
+    "url": "https://www.youtube.com/watch?v=D6yIdCvLMBU",
+    "description": "Nobel Economist Prof. Joseph Stiglitz (Columbia) discusses his paper 'The impact of AI and digital platforms on the information ecosystem,' co-authored with Maxim Ventura-Bolet. Virtual keynote at the Cambridge Disinformation Summit, April 9, 2026.",
+    "date": "April 11, 2026",
+    "domain": "AI & Ethics & Misinformation",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Code, Carbon, and Control: Governing the AI-Climate Nexus through Justice and Participation",
+    "url": "https://www.youtube.com/watch?v=eNNJ5qP-vYk",
+    "description": "A presentation from the Participatory AI Research and Practice Symposium (PAIRS) in New Delhi, Feb 18th 2026.",
+    "date": "March 19, 2026",
+    "domain": "AI & Multiple Applications",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "50% Of AI Data Centers Have Quietly Been Cancelled Or 'Delayed'",
+    "url": "https://www.youtube.com/watch?v=w-DVTHH1ux8",
+    "description": "In 2025 the world's largest companies reportedly spent around $400B on capital expenditures to support AI development — adjusted for inflation, that's ~9 Manhattan Projects or 2 Apollo Programs, and more than was spent on building single-family residential homes over the same time.",
+    "date": "April 16, 2025",
+    "domain": "AI & Multiple Applications",
+    "newsletter": "Yes"
   }
 ]

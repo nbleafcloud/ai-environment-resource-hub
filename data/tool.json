@@ -1382,5 +1382,29 @@
     "pricing": "FREE",
     "domain": "AI & Policy",
     "newsletter": "No"
+  },
+  {
+    "title": "Gaia3D",
+    "url": "https://www.iwfgara.com/",
+    "description": "3D Earth visualization platform focused on creating interactive 3D visualizations of planetary systems and environmental/geospatial data.",
+    "pricing": "FREE",
+    "domain": "AI & Geospatial Analysis",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "naKnow",
+    "url": "https://naknow.eco/",
+    "description": "Open scientific knowledge base documenting manufacturing processes, value chains, and environmental assumptions for key digital components like processors, circuit boards, and displays. Supports life cycle assessment (LCA) and sustainable design decisions across the digital value chain.",
+    "pricing": "FREE",
+    "domain": "AI & Sustainability",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "LGND AI",
+    "url": "https://lgnd.ai/resources/lgnd-ga-launch",
+    "description": "Natural language search for satellite and aerial imagery via geo-embeddings — 'search satellite and aerial imagery the way you'd search the web.' Includes a developer API and Discover, a free web app for exploring geospatial data. Applications: biomass measurement, damage mapping, wind/solar farm tracking, oil rig and vessel detection.",
+    "pricing": "Freemium",
+    "domain": "AI & Geospatial Analysis",
+    "newsletter": "Yes"
   }
 ]
