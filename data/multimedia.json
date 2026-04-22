@@ -1206,5 +1206,29 @@
     "date": "April 16, 2025",
     "domain": "AI & Multiple Applications",
     "newsletter": "Yes"
+  },
+  {
+    "title": "Who Deserves Rights in the Age of AI?",
+    "url": "https://www.youtube.com/watch?v=NCvt2GeTcFQ",
+    "description": "What if the next great rights revolution isn't about humans at all? Political scientist and AI ethics expert Josh Gellers argues that threats to animals and ecosystems along with advances in artificial intelligence challenge the assumption that rights belong exclusively to humans. Drawing on evidence from science, law, and non-Western cultures, he suggests that a more-than-human rights revolution is already underway — and may be essential for meeting today's ethical challenges.",
+    "date": "April 13, 2026",
+    "domain": "AI & Multiple Applications",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Can AI Help Save The Environment?",
+    "url": "https://www.dw.com/en/shift-can-ai-help-save-the-environment/video-76816011",
+    "description": "Scientists are using AI in many environmental projects to help analyze data and accelerate processes. But at the same time, complex AI systems require significant resources. AI and sustainability: Is it a good fit?",
+    "date": "April 16, 2026",
+    "domain": "AI & Environment",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Could AI Accidentally Solve Climate Change? With Amy Harder",
+    "url": "https://www.youtube.com/watch?v=mftOL3KokK4",
+    "description": "Carlo is joined by Axios national energy correspondent Amy Harder to unpack how the AI boom is rapidly reshaping America's energy system and sidelining climate politics. They dig into the explosive rise of AI data centers, why the power grid isn't built to handle the demand, and the growing push to take data centers off grid. Harder explains why natural gas is winning for now, why nuclear, carbon capture, and even fusion are getting a second look, and how Trump's energy agenda is accelerating a major shift.",
+    "date": "April 20, 2026",
+    "domain": "AI & Energy",
+    "newsletter": "Yes"
   }
 ]

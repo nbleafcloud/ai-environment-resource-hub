@@ -4398,5 +4398,29 @@
     "linkedin_bio": "The Open Government Partnership (OGP) is a multi-stakeholder initiative focused on improving government transparency, accountability and people's participation. OGP brings together government and civil society reformers who work to make governments more effective and responsive to people's needs.",
     "domain": "AI & Social/Economics",
     "newsletter": "Yes"
+  },
+  {
+    "title": "Accelsius",
+    "url": "https://www.linkedin.com/company/accelsius/",
+    "location": "United States",
+    "linkedin_bio": "Accelsius delivers two-phase, direct-to-chip liquid cooling solutions for the AI and HPC era. Our NeuCool technology offers serviceable, scalable, and resilient cooling for mission critical applications. With 4500W per socket cooled and up to 50% energy savings compared to air, our solutions allow for lower operational costs and more power allocated where it's needed most.",
+    "domain": "AI & Data Centers/Hardware",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Vertiv",
+    "url": "https://www.linkedin.com/company/vertiv/",
+    "location": "United States",
+    "linkedin_bio": "Vertiv (NYSE: VRT) designs, builds and services mission-critical technologies, bringing together hardware, software, analytics and ongoing services to enable customers' vital applications to run continuously, perform optimally and grow. Vertiv solves the most important challenges facing today's data centers, communication networks and commercial and industrial facilities with a portfolio of power, cooling and IT infrastructure solutions and services that extends from the cloud to the edge of the network. Headquartered in Westerville, Ohio, Vertiv does business in more than 130 countries.",
+    "domain": "AI & Data Centers/Hardware",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Supermicro",
+    "url": "https://www.linkedin.com/company/supermicro/",
+    "location": "United States",
+    "linkedin_bio": "Supermicro (NASDAQ: SMCI), with 30+ years of leadership in Enterprise, cloud, AI, and 5G Telco/Edge Infrastructure solutions, pioneers the industry with Building Block Solutions and Green Computing servers. Specializing in servers, storage, GPU systems, rack solutions, AI, edge, and liquid cooling, Supermicro is headquartered in San Jose, California with a global footprint across the Americas, Europe, and Asia.",
+    "domain": "AI & Data Centers/Hardware",
+    "newsletter": "Yes"
   }
 ]

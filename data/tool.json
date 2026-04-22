@@ -1406,5 +1406,29 @@
     "pricing": "Freemium",
     "domain": "AI & Geospatial Analysis",
     "newsletter": "Yes"
+  },
+  {
+    "title": "Track Policy",
+    "url": "https://trackpolicy.org/",
+    "description": "A monitoring platform that maps AI and data center legislation across North America, Europe, and Asia-Pacific. Aggregates bill statuses, facility locations, energy consumption data, and political voting records — tracking 734 bills, 283 data center facilities, and 561 politicians — to visualize the regulatory landscape around AI governance and computational infrastructure.",
+    "pricing": "FREE",
+    "domain": "AI & Policy",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Data Center Drought Map",
+    "url": "https://euphonious-gnome-5cb0ae.netlify.app/",
+    "description": "An interactive map that lets users examine drought conditions at specific data center locations. Displays data from the U.S. Drought Monitor (weekly drought classifications published by the National Drought Mitigation Center), with five severity categories ranging from D0 (Abnormally Dry) through D4 (Exceptional) based on precipitation, soil moisture, and other indices.",
+    "pricing": "FREE",
+    "domain": "AI & Water Resources",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Pathways AI Data Centers",
+    "url": "https://pathwaysai.co/resources/data-centers",
+    "description": "Explore 345+ data center locations across 15 companies and see which buyers are driving carbon requirements.",
+    "pricing": "FREE",
+    "domain": "AI & Infrastructure",
+    "newsletter": "Yes"
   }
 ]

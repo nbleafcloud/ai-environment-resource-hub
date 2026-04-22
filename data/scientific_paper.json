@@ -4200,5 +4200,38 @@
     "domain": "AI & Policy/ESG",
     "sub_domain": "Corporate ESG Outcomes",
     "newsletter": "Yes"
+  },
+  {
+    "title": "Marketcraft for AI: Designing a Better Market for Memory, Compute, and Intelligence",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6545398",
+    "description": "An economist's view of the environmental impacts of AI, treating artificial intelligence as a physical industry embedded in markets for land, water, electricity, and capital. Argues that the dominant framing of AI's environmental costs — focused on the carbon intensity of individual training runs — dramatically understates the scope and complexity of the problem.",
+    "date": "April 8, 2026",
+    "authors": "Golden and Varshney",
+    "journal": "SSRN",
+    "domain": "AI & Policy/ESG",
+    "sub_domain": "Economics for Market Dynamics and AI",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Nuclear Clouds: The Infrastructural Convergence of AI and Energy Systems",
+    "url": "https://www.tandfonline.com/doi/full/10.1080/17530350.2026.2654538",
+    "description": "This short commentary maps the convergence of industrial AI infrastructures and national energy systems, with a focus on nuclear power. Drawing on examples from the US and UK, the authors trace the political economy behind the shift from the 'Carbon Cloud' (mutual dependency between the AI industry and fossil fuels) to what they term the 'Nuclear Cloud' — the growing convergence of the AI and nuclear sectors.",
+    "date": "April 20, 2026",
+    "authors": "Catanzariti et al.",
+    "journal": "Journal of Cultural Economy",
+    "domain": "AI & Energy",
+    "sub_domain": "Nuclear Policy, Energy, and International Relations",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "BoreaRL: A Multi-Objective Reinforcement Learning Environment for Climate-Adaptive Boreal Forest Management",
+    "url": "https://arxiv.org/abs/2509.19846",
+    "description": "Introduces BoreaRL, a multi-objective reinforcement learning environment for climate-adaptive boreal forest management. Boreal forests store 30-40% of terrestrial carbon, much in climate-vulnerable permafrost soils. The authors show carbon sequestration goals are easier to optimize than permafrost preservation, and that effective policies must balance species composition and density to protect permafrost while maintaining carbon gains.",
+    "date": "September 24, 2025",
+    "authors": "Dsouza et al.",
+    "journal": "arXiv",
+    "domain": "AI & Biodiversity/Ecology",
+    "sub_domain": "Reinforcement Learning for Forest Management",
+    "newsletter": "Yes"
   }
 ]

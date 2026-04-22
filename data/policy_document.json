@@ -1822,5 +1822,29 @@
     "domain": "AI Policy & Governance",
     "authoring_body": "Stanford Institute for Human-Centered Artificial Intelligence (Stanford HAI)",
     "newsletter": "Yes"
+  },
+  {
+    "title": "Global Energy Review 2026",
+    "url": "https://iea.blob.core.windows.net/assets/ade8ff08-3401-4e0b-9b3b-e8f3988d238e/GlobalEnergyReview2026.pdf",
+    "date": "April 20, 2026",
+    "domain": "AI & Energy",
+    "authoring_body": "International Energy Agency (IEA)",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Data Centres: Turning Grid Constraints into a Lever for Europe's Energy Transition",
+    "url": "https://www.deloitte.com/content/dam/assets-zone2/fr/no-index/docs/services/consulting/2026/deloitte_etude-data-centres-2026.pdf",
+    "date": "2026",
+    "domain": "AI & Infrastructure",
+    "authoring_body": "Deloitte",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Water Reuse Action Plan 2.0: Multiplying Water Benefits, Maximizing American Industry, AI, and Energy Dominance",
+    "url": "https://www.epa.gov/system/files/documents/2026-04/wrap-2.0-booklet.pdf",
+    "date": "April 16, 2026",
+    "domain": "AI & Water Resources",
+    "authoring_body": "U.S. Environmental Protection Agency (EPA)",
+    "newsletter": "Yes"
   }
 ]

@@ -1258,5 +1258,32 @@
     "domain": "AI & Energy",
     "sub_domain": "Green Software Standards",
     "newsletter": "Yes"
+  },
+  {
+    "title": "Big Tech's AI Illusion: Everything is Changing",
+    "url": "https://open.spotify.com/episode/6XWJljq3oJz1BCBo9t5TfD",
+    "description": "What if AI isn't as green as we think? This episode explores how Big Tech is greenwashing AI's climate impact, from rising emissions to misleading narratives, based on Ketan Joshi's report, and why it matters now.",
+    "date": "April 21, 2026",
+    "domain": "AI & Environment",
+    "sub_domain": "Big Tech's Fallacies with Climate Commitments",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Can We Use Our Way to a More Sustainable World?",
+    "url": "https://www.youtube.com/watch?v=pwB5ArIj-vw",
+    "description": "Doug Burger, sustainability expert Amy Luers, and optimization researcher Ishai Menache examine the global emissions implications of datacenter operations, efficiency gains, and AI's potential across electrification, materials, and food systems.",
+    "date": "April 20, 2026",
+    "domain": "AI & Social/Economic Impacts",
+    "sub_domain": "AIing Our Way to a Sustainable World",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Data Centers and Energy: Is Sustainability the New Investment Engine?",
+    "url": "https://www.youtube.com/watch?v=2-35uwCdFRc",
+    "description": "This episode is about AI, data centres, and sustainability — but above all, about how digital growth and sustainability can be combined in practice. Elina Ussa is joined by Adam Elman, Director of Sustainability for EMEA at Google, and Asta Sihvonen-Punkka, CEO of Fingrid.",
+    "date": "April 17, 2026",
+    "domain": "AI & Environment",
+    "sub_domain": "Investment Engines and Data Centers and Energy",
+    "newsletter": "Yes"
   }
 ]
