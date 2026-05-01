@@ -1285,5 +1285,32 @@
     "domain": "AI & Environment",
     "sub_domain": "Investment Engines and Data Centers and Energy",
     "newsletter": "Yes"
+  },
+  {
+    "title": "The Data Center Capital: Growth, Land, and Local Consequences",
+    "url": "https://open.spotify.com/episode/6OQDRUgyEhVDS1gNwGIl2Q",
+    "description": "Julie Bolthouse, Director of Land Use at the Piedmont Environmental Council, joins In Our Backyard Podcast to discuss Virginia's rapid expansion of data centers and how these facilities are reshaping landscapes, straining resources, and raising tough questions about energy consumption, water usage, and air quality.",
+    "date": "April 17, 2026",
+    "domain": "AI & Environment",
+    "sub_domain": "Data Centers and Local Land Use",
+    "newsletter": "No"
+  },
+  {
+    "title": "IEA's New Energy and AI Report: Thomas Spencer and Siddharth Singh",
+    "url": "https://podcasts.apple.com/us/podcast/ieas-new-energy-and-ai-report-thomas-spencer/id1798264288?i=1000764146473",
+    "description": "David Sandalow speaks with Thomas Spencer and Siddharth Singh, lead authors of the IEA's updated Energy and AI report. They cover the growth in power demand for AI, the roles of natural gas, nuclear, and batteries in data centers, the impact of AI clusters on electric grids, and emerging physical AI applications like robots and autonomous vehicles.",
+    "date": "April 28, 2026",
+    "domain": "AI & Energy",
+    "sub_domain": "AI Energy Demand and Grid Integration",
+    "newsletter": "No"
+  },
+  {
+    "title": "Big Tech's Climate Blind Spot: How AI Supercharging Fossil Fuel Production w/ Holly Alpine",
+    "url": "https://www.youtube.com/watch?v=gFfxg0sejgE",
+    "description": "In this episode of Tangelic Talks, co-hosts Victoria Cornelio and Andres Tamez sit down with Holly Alpine — co-founder of the Enabled Emissions campaign and former Microsoft sustainability leader — who spent over a decade inside one of the world's most powerful tech companies before walking away to expose one of climate action's most dangerous blind spots: advanced AI being deployed to find, extract, and produce more fossil fuels — faster, cheaper, and at a scale that dwarfs everything the sustainability side is doing.",
+    "date": "April 27, 2026",
+    "domain": "AI & Environment",
+    "sub_domain": "Fossil Fuels and AI Optimization",
+    "newsletter": "No"
   }
 ]

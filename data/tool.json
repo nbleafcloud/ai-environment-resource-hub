@@ -1430,5 +1430,29 @@
     "pricing": "FREE",
     "domain": "AI & Infrastructure",
     "newsletter": "Yes"
+  },
+  {
+    "title": "MyCapitol",
+    "url": "https://mycapitol.ai/",
+    "description": "A nonprofit AI-powered platform providing free access to U.S. congressional policy intelligence — bill tracking, representative information, and lobbying disclosures. Includes plain-language summaries, semantic search, and an AI chatbot (\"Ask Billie\") for legislative queries.",
+    "pricing": "FREE",
+    "domain": "AI & Policy",
+    "newsletter": "No"
+  },
+  {
+    "title": "CompassionBench",
+    "url": "https://compassionbench.com/compendium",
+    "description": "A public AI compassion leaderboard that benchmarks how well frontier large language models reason about animal welfare. Built by Compassion in Machine Learning to help advocates choose better tools and to push AI companies toward considering animal compassion in model development.",
+    "pricing": "FREE",
+    "domain": "AI & Biodiversity/Ecology",
+    "newsletter": "No"
+  },
+  {
+    "title": "Earth Index",
+    "url": "https://www.earthgenome.org/earth-index",
+    "description": "An AI-powered satellite imagery search platform built by Earth Genome that lets environmental defenders apply labels to train models that detect features anywhere on the planet — illegal mining, large-scale livestock facilities, clandestine airstrips, deforestation, waste sites, and other ecosystem disturbances — in minutes rather than months.",
+    "pricing": "Freemium",
+    "domain": "AI & Geospatial Analysis",
+    "newsletter": "No"
   }
 ]

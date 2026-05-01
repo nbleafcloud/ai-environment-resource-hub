@@ -1230,5 +1230,29 @@
     "date": "April 20, 2026",
     "domain": "AI & Energy",
     "newsletter": "Yes"
+  },
+  {
+    "title": "Cutting Waste with AI: Forecasting, Planning and the Cost of Inefficiency",
+    "url": "https://www.youtube.com/watch?v=f6f2DNZJYkM",
+    "description": "Waste is costing retailers and manufacturers far more than they realize, and most businesses are only measuring half of it. In this episode of Decision Loop, Christine Babington sits down with Svante Göthe, Head of Sustainability at RELEX Solutions, to get into the mechanics of waste reduction: what it actually covers, why it keeps sliding down the priority list, and what it takes to fix it at scale.",
+    "date": "April 29, 2026",
+    "domain": "AI & Multiple Applications",
+    "newsletter": "No"
+  },
+  {
+    "title": "Building a French Data Center Company",
+    "url": "https://www.youtube.com/watch?v=QlSua44hs5w",
+    "description": "In this talk DCD's Seb Moss speaks with Arnaud de Bermingham of OpCore about geopolitical shifts driving European data sovereignty demand and AI reshaping data center power density requirements.",
+    "date": "April 28, 2026",
+    "domain": "AI & Digital & Cloud Sustainability",
+    "newsletter": "No"
+  },
+  {
+    "title": "Build Flexible and Secure Power Infrastructure for a Sustainable Future at Scale",
+    "url": "https://www.nvidia.com/en-us/on-demand/session/gtc26-s81685/?ncid=so-link-571897-vt21&linkId=100000419180762&es_id=03ea24aea1",
+    "description": "To meet the growing demand for power of AI, we have to enable the entire ecosystem, from chip to grid. This lightning talk brings together how NVIDIA is working with its partners from power generation and transmission to distribution to build flexible and reliable infrastructure. The session focuses on AI for meeting energy demand, using digital technologies inside data centers to manage peak loads, and applying accelerated computing to simulate the grid and build physical infrastructure.",
+    "date": "March 2026",
+    "domain": "AI & Energy",
+    "newsletter": "No"
   }
 ]

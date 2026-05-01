@@ -4422,5 +4422,29 @@
     "linkedin_bio": "Supermicro (NASDAQ: SMCI), with 30+ years of leadership in Enterprise, cloud, AI, and 5G Telco/Edge Infrastructure solutions, pioneers the industry with Building Block Solutions and Green Computing servers. Specializing in servers, storage, GPU systems, rack solutions, AI, edge, and liquid cooling, Supermicro is headquartered in San Jose, California with a global footprint across the Americas, Europe, and Asia.",
     "domain": "AI & Data Centers/Hardware",
     "newsletter": "Yes"
+  },
+  {
+    "title": "EARTH AI",
+    "url": "https://www.linkedin.com/company/earth-ai/posts/?feedView=all",
+    "location": "North America",
+    "linkedin_bio": "EARTH AI is a high-performance explorer for clean energy metals.",
+    "domain": "AI & Environment",
+    "newsletter": "No"
+  },
+  {
+    "title": "NextEra Energy, Inc.",
+    "url": "https://www.linkedin.com/company/nextera-energy-inc/",
+    "location": "North America",
+    "linkedin_bio": "NextEra Energy, Inc. (NYSE: NEE) is one of the largest electric power and energy infrastructure companies in North America and is a leading provider of electricity to American homes and businesses.",
+    "domain": "AI & Energy",
+    "newsletter": "No"
+  },
+  {
+    "title": "Back Market",
+    "url": "https://www.linkedin.com/company/back-market/",
+    "location": "Europe",
+    "linkedin_bio": "Founded in 2014 by Thibaud Hug de Larauze, Quentin Le Brouster, and Vianney Vaute, Back Market is a global marketplace for premium refurbished electronics. We're here to help make refurbished tech trustworthy, reliable, and affordable.",
+    "domain": "AI & Circular Economy",
+    "newsletter": "No"
   }
 ]

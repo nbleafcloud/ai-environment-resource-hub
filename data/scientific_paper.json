@@ -4233,5 +4233,38 @@
     "domain": "AI & Biodiversity/Ecology",
     "sub_domain": "Reinforcement Learning for Forest Management",
     "newsletter": "Yes"
+  },
+  {
+    "title": "Strategic Polysemy in AI Discourse: A Philosophical Analysis of Language, Hype, and Power",
+    "url": "https://arxiv.org/pdf/2604.21043",
+    "description": "This paper examines the strategic use of language in contemporary artificial intelligence (AI) discourse, focusing on the widespread adoption of metaphorical or colloquial terms like \"hallucination\", \"chain-of-thought\", \"introspection\", \"language model\", \"alignment\", and \"agent\".",
+    "date": "April 22, 2026",
+    "authors": "Lacroix et al.",
+    "journal": "arXiv",
+    "domain": "AI & Policy/ESG",
+    "sub_domain": "The Stochastic Metaphors of AI",
+    "newsletter": "No"
+  },
+  {
+    "title": "Counting Own Goals: High-Level Assessment of the Economic Relationship Between the ICT and the Oil and Gas Sectors and Its Environmental Implications",
+    "url": "https://arxiv.org/pdf/2604.26539",
+    "description": "This paper assesses how the ICT sector financially supports fossil fuel activities. Using economic data from 2000–2022, the authors find that approximately 2% of annual ICT financial flows were directed toward Oil & Gas, with more than $4 going to O&G for every $1 the ICT sector sent to renewable and nuclear energy in 2022. The paper classifies digital activities in petroleum operations and explores how GPU technology's success ties historically to the oil sector.",
+    "date": "April 29, 2026",
+    "authors": "Roussilhe et al.",
+    "journal": "arXiv",
+    "domain": "AI & Environment",
+    "sub_domain": "ICT and the Oil/Gas Sectors and Environmental Impacts",
+    "newsletter": "No"
+  },
+  {
+    "title": "Global Data–Water Symbiosis Reduces AI Infrastructure's Carbon and Water Footprint",
+    "url": "https://www.sciencedirect.com/science/article/pii/S2666498426000475",
+    "description": "Wastewater treatment plants (WWTPs) discharge large volumes of treated effluent with substantial cooling potential; however, their integration with data centre infrastructure has not been evaluated. Here we construct a global geodatabase of over 4,775 data centres and 57,547 municipal WWTPs across 98 countries, integrating spatial analysis, engineering systems modelling, optimization, and life-cycle assessment to quantify the benefits of combining treated water reuse with bidirectional thermal recovery.",
+    "date": "April 26, 2026",
+    "authors": "Wang et al.",
+    "journal": "Environmental Science and Ecotechnology",
+    "domain": "AI & Water Resources",
+    "sub_domain": "Wastewater Treatment Processes and Water AI Footprint",
+    "newsletter": "No"
   }
 ]

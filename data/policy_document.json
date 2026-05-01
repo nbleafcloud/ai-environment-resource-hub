@@ -1846,5 +1846,29 @@
     "domain": "AI & Water Resources",
     "authoring_body": "U.S. Environmental Protection Agency (EPA)",
     "newsletter": "Yes"
+  },
+  {
+    "title": "Nuclear Energy Fuels AI Boom in SEA Data Centers: Strategic Market Report & Industry Playbook",
+    "url": "https://www.earth.vc/nuclear-ai-sea-2026",
+    "date": "2026",
+    "domain": "AI & Energy",
+    "authoring_body": "Earth Venture Capital",
+    "newsletter": "No"
+  },
+  {
+    "title": "The Future of Climate Tech 2026",
+    "url": "https://www.svb.com/globalassets/trendsandinsights/reports/future-of-climate/future-of-climate-tech-2026.pdf",
+    "date": "April 2026",
+    "domain": "AI & Sustainability",
+    "authoring_body": "Silicon Valley Bank",
+    "newsletter": "No"
+  },
+  {
+    "title": "State of the Fossil-Free Internet 2026: The Dirty Data Centre Edition",
+    "url": "https://fossilfree.greenweb.org/2026/",
+    "date": "April 2026",
+    "domain": "AI & Sustainability",
+    "authoring_body": "Green Web Foundation",
+    "newsletter": "No"
   }
 ]
