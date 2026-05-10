@@ -4446,5 +4446,29 @@
     "linkedin_bio": "Founded in 2014 by Thibaud Hug de Larauze, Quentin Le Brouster, and Vianney Vaute, Back Market is a global marketplace for premium refurbished electronics. We're here to help make refurbished tech trustworthy, reliable, and affordable.",
     "domain": "AI & Circular Economy",
     "newsletter": "No"
+  },
+  {
+    "title": "GHGSAT",
+    "url": "https://www.linkedin.com/company/ghgsat/posts/?feedView=all",
+    "location": "North America",
+    "linkedin_bio": "Tracing emissions to their source at an unmatched speed, and delivering the data and insights required to take action.",
+    "domain": "AI & Geospatial Analysis",
+    "newsletter": "No"
+  },
+  {
+    "title": "Blueland",
+    "url": "https://www.linkedin.com/company/liveblueland/posts/?feedView=all",
+    "location": "North America",
+    "linkedin_bio": "Reimagining everyday products to save you money and space, without any plastic waste.",
+    "domain": "AI & Circular Economy",
+    "newsletter": "No"
+  },
+  {
+    "title": "Veolia",
+    "url": "https://www.linkedin.com/company/veolia-environnement/posts/?feedView=all",
+    "location": "Europe",
+    "linkedin_bio": "Veolia, a global leader in environmental services, works every day to build environmental security for the benefit of public health and the competitiveness of industries and regions.",
+    "domain": "AI & Environment",
+    "newsletter": "No"
   }
 ]

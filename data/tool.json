@@ -1454,5 +1454,29 @@
     "pricing": "Freemium",
     "domain": "AI & Geospatial Analysis",
     "newsletter": "No"
+  },
+  {
+    "title": "Global Energy Innovation Index",
+    "url": "https://www.cfr.org/articles/global-energy-innovation-index",
+    "description": "CFR's Global Energy Innovation Index measures the contributions of thirty-nine countries to the global process of improving energy technologies. It draws on sixteen indicators that are compiled into knowledge, markets, and policy subindexes, which feed into the main index.",
+    "pricing": "FREE",
+    "domain": "AI & Energy",
+    "newsletter": "No"
+  },
+  {
+    "title": "Mapping the U.S. AI Policy Landscape",
+    "url": "https://www.mapping-ai.org/",
+    "description": "A comprehensive map of the individuals and groups with the potential to shape AI policy in the United States. The goal is to produce a structured, shareable, and dynamic resource that identifies who is working on what, where the gaps are, and which partnerships might form across ideological and organizational lines.",
+    "pricing": "FREE",
+    "domain": "AI & Policy",
+    "newsletter": "No"
+  },
+  {
+    "title": "The Cloud Kettle Index",
+    "url": "https://prismatic-labs.github.io/cloud-kettle-index/",
+    "description": "The Cloud Kettle Index estimates how much electricity Great Britain's data centres use, then translates that load into kettle-boils per second. The point is simple: make a hard-to-picture part of the grid easier to see.",
+    "pricing": "FREE",
+    "domain": "AI & Energy",
+    "newsletter": "No"
   }
 ]

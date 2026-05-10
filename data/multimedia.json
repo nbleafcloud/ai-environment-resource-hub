@@ -1254,5 +1254,29 @@
     "date": "March 2026",
     "domain": "AI & Energy",
     "newsletter": "No"
+  },
+  {
+    "title": "Protecting Our Water Resources, Air Quality, and Public Health from the Data Center Buildout",
+    "url": "https://www.youtube.com/watch?v=lTa3sWGL7AY",
+    "description": "This session breaks down the strongest possible policy interventions to protect water, air, and public health from the data center buildout, and creative ways to use these protections to stop or slow data center development when bans aren't an option. The discussion covers water ordinances and moratoriums, diesel generators, and noise protections, with on-the-ground campaign and legal strategies from Ypsilanti, Memphis, and North Carolina.",
+    "date": "May 8, 2026",
+    "domain": "AI & Environmental Impact",
+    "newsletter": "No"
+  },
+  {
+    "title": "John Deere's CTO on Bringing AI to Every Acre of Farmland | Pioneers of AI",
+    "url": "https://www.youtube.com/watch?v=vfWgB_kr48k&t=1310s",
+    "description": "John Deere is combining sensors, data, and machine learning in highly advanced vehicles and software to reinvent how the world grows food. CTO Jahmy Hindman breaks down how AI is making farms faster, smarter, and more sustainable, and shares his vision for a fully autonomous farm.",
+    "date": "May 6, 2026",
+    "domain": "AI & Agriculture & Food Systems",
+    "newsletter": "No"
+  },
+  {
+    "title": "The New Industrialists | AI Transformation: Empowering the Energy Workforce",
+    "url": "https://www.youtube.com/watch?v=iJvwrV44mhM",
+    "description": "Williams is redefining energy operations by making AI central to its workforce, transforming field productivity and collaboration. With AI as a birthright for every employee, Williams achieves rapid efficiency gains and industry-leading adoption, powered by its partnership with Microsoft to lead the new power revolution.",
+    "date": "May 6, 2026",
+    "domain": "AI & Energy",
+    "newsletter": "No"
   }
 ]

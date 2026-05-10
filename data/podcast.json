@@ -1312,5 +1312,32 @@
     "domain": "AI & Environment",
     "sub_domain": "Fossil Fuels and AI Optimization",
     "newsletter": "No"
+  },
+  {
+    "title": "The Relationship Between Energy and AI is Evolving Rapidly",
+    "url": "https://open.spotify.com/episode/7kXdctR4MmaNajimD1khAi",
+    "description": "This IEA Everything Energy podcast features lead authors Siddharth Singh and Thomas Spencer unpacking the IEA's new report on energy and AI. They discuss why expectations for AI hinge on meeting fast-growing electricity demand from data centres, how AI is already transforming the energy sector, and the implications for energy security and global emissions.",
+    "date": "May 7, 2026",
+    "domain": "AI & Energy",
+    "sub_domain": "Energy and AI Outlook",
+    "newsletter": "No"
+  },
+  {
+    "title": "How AI Is Pushing the Semiconductor Supply Chain to the Limit | Bloomberg Primer",
+    "url": "https://www.youtube.com/watch?v=VdcD6qX8Xrc",
+    "description": "The global semiconductor industry powers everything from artificial intelligence to everyday electronics, and is on track to become a $1 trillion market. But its supply chain is under growing strain, as geopolitical tensions and rising demand force companies and governments to rethink how chips are made and where they come from.",
+    "date": "May 6, 2026",
+    "domain": "AI & Data Centers/Hardware",
+    "sub_domain": "Supply Chain Dynamics and AI with Semiconductors",
+    "newsletter": "No"
+  },
+  {
+    "title": "AI is Running Out of Power. Here is the Fix!",
+    "url": "https://www.youtube.com/watch?v=4bIYZZPmooc",
+    "description": "Akhil Betheja, director of technology strategy at Bloom Energy, explains why fuel cells are emerging as a clean technology solution for hyperscale computing. He outlines how millisecond load following, modular deployment, and fuel flexibility could reshape energy innovation, grid resilience, and sustainable infrastructure planning for the AI era.",
+    "date": "January 27, 2026",
+    "domain": "AI & Energy",
+    "sub_domain": "Solutions to the Energy Drain with AI",
+    "newsletter": "No"
   }
 ]

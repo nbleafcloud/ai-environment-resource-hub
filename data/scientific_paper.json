@@ -4266,5 +4266,38 @@
     "domain": "AI & Water Resources",
     "sub_domain": "Wastewater Treatment Processes and Water AI Footprint",
     "newsletter": "No"
+  },
+  {
+    "title": "Watts This Smell: A Comprehensive Taxonomy of Software Energy Smells",
+    "url": "https://tusharma.in/preprints/ICSME2026_EnergySmell.pdf",
+    "description": "This paper presents a comprehensive, language-agnostic taxonomy of software energy smells, developed through a systematic literature review of 60 papers that codes 320 inefficiency patterns into 12 primary energy smells with 65 root causes. The authors validate the taxonomy by profiling over 21,000 functionally equivalent Python code pairs for energy, time, and memory.",
+    "date": "May 2026",
+    "authors": "Mehditabar et al.",
+    "journal": "ICSME 2026",
+    "domain": "AI & Energy Efficiency",
+    "sub_domain": "Software Energy Smells",
+    "newsletter": "No"
+  },
+  {
+    "title": "Firm-Level Climate Change Adaptation",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6710044",
+    "description": "Tobias develops a method that identifies climate change adaptation actions and solutions of firms. Using a Large Language Model-based classification system, he measures firm's climate adaptation actions in the subcategories physical protection, adaptive operations, risk transfer, financial reserves, and risk assessment. The dataset spans over 13,500 public US firms from 2003 to 2025.",
+    "date": "April 2026",
+    "authors": "Tobias Schimanski",
+    "journal": "SSRN",
+    "domain": "AI & Climate Science",
+    "sub_domain": "Climate Change Adaptation Actions and Solutions",
+    "newsletter": "No"
+  },
+  {
+    "title": "From Computation to Environmental Cost: The Resource Burden of Artificial Intelligence",
+    "url": "https://www.nature.com/articles/s43247-026-03537-5",
+    "description": "This study quantifies the material footprint of AI training by linking computational workloads to the physical hardware they require. The authors find that AI training demands thousands of graphics processors and several tons of hazardous elements, with incremental performance gains coming at disproportionately high material costs.",
+    "date": "May 7, 2026",
+    "authors": "Falk et al.",
+    "journal": "Communications Earth & Environment",
+    "domain": "AI & Environment",
+    "sub_domain": "Material Footprint of AI",
+    "newsletter": "No"
   }
 ]

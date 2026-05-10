@@ -1870,5 +1870,29 @@
     "domain": "AI & Sustainability",
     "authoring_body": "Green Web Foundation",
     "newsletter": "No"
+  },
+  {
+    "title": "U.S. Data Center Moratoria: A Tracker of State and Local Legislative Action",
+    "url": "https://contenthub.linklaters.com/api/public/content/3d51bfe21aef48028cb6b0a803e2cf04?v=bb012116",
+    "date": "May 2026",
+    "domain": "AI Policy & Governance",
+    "authoring_body": "Linklaters",
+    "newsletter": "No"
+  },
+  {
+    "title": "Data Centers and the Power System",
+    "url": "https://eepublicdownloads.blob.core.windows.net/public-cdn-container/clean-documents/Reports/2026/FINAL_ENTSO-E_Data_Centres_260430.pdf",
+    "date": "April 30, 2026",
+    "domain": "AI & Infrastructure",
+    "authoring_body": "ENTSO-E",
+    "newsletter": "No"
+  },
+  {
+    "title": "24/7 Renewables: The Economics of Firm Solar and Wind",
+    "url": "https://www.irena.org/Publications/2026/May/24-7-renewables-The-economics-of-firm-solar-and-wind",
+    "date": "May 2026",
+    "domain": "AI & Energy",
+    "authoring_body": "IRENA",
+    "newsletter": "No"
   }
 ]
