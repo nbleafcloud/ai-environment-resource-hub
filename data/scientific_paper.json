@@ -4299,5 +4299,38 @@
     "domain": "AI & Environment",
     "sub_domain": "Material Footprint of AI",
     "newsletter": "No"
+  },
+  {
+    "title": "Mini-JEPA Foundation Model Fleet Enables Agentic Hydrologic Intelligence",
+    "url": "https://arxiv.org/abs/2605.14120",
+    "description": "Introduces Mini-JEPAs, a fleet of five compact 22M-parameter foundation models, each trained on different sensor data (optical, SAR, thermal, phenology, and topography-soil), consulted by a routing agent for specialized environmental questions. The approach achieves high reconstruction accuracy (R^2 up to 0.97) and outperforms generalist models in physics-matched evaluations while running on modest computational resources.",
+    "date": "May 13, 2026",
+    "authors": "Mashrekur Rahman",
+    "journal": "arXiv",
+    "domain": "AI & Water Resources",
+    "sub_domain": "Hydrologic Foundation Models",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Empowering Students to Engage with Climate Change Action: A Project-Based Module for Artificial Intelligence Literacy and Sustainability Thinking",
+    "url": "https://www.tandfonline.com/doi/full/10.1080/00330124.2026.2664201",
+    "description": "There is a growing need to prepare students to address complex environmental challenges, particularly climate change and the expanding role of artificial intelligence (AI). This article examines the adaptation of the Artificial Intelligence for Social Good (AI4SG) Ideation module, a pitch- and project-based teaching framework designed to integrate AI literacy and sustainability education.",
+    "date": "May 11, 2026",
+    "authors": "Granco et al.",
+    "journal": "Taylor & Francis Online",
+    "domain": "AI & Climate Science",
+    "sub_domain": "Climate Education and AI",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "AIMIP Phase 1: Systematic Evaluations of AI Weather and Climate Models",
+    "url": "https://arxiv.org/abs/2605.06944",
+    "description": "Presents an intercomparison initiative for AI-based weather and climate models, specifying a common experiment, output data format, and training constraints. Models simulate historical atmospheric conditions from 1979-2024 with prescribed sea surface temperatures and are assessed across biases, trends, El Nino responses, temporal variability, and generalization. AI models match conventional physics-based approaches on historical climate, though some underestimate warming trends and show divergent generalization behavior.",
+    "date": "May 7, 2026",
+    "authors": "Henn et al.",
+    "journal": "arXiv",
+    "domain": "AI & Climate Science",
+    "sub_domain": "AI Weather and Climate Model Intercomparison",
+    "newsletter": "Yes"
   }
 ]

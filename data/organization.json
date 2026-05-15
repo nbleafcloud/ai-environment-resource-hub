@@ -4470,5 +4470,29 @@
     "linkedin_bio": "Veolia, a global leader in environmental services, works every day to build environmental security for the benefit of public health and the competitiveness of industries and regions.",
     "domain": "AI & Environment",
     "newsletter": "No"
+  },
+  {
+    "title": "GridAstra",
+    "url": "https://www.linkedin.com/company/gridastra/",
+    "location": "United States",
+    "linkedin_bio": "GridAstra is pioneering a new category of innovative Grid Software solutions. Our software platform accelerates the interconnection and sustained operation of new large loads (i.e. AI Data Centers), generation, and storage by de-congesting the power grid in an intelligent manner, reliably and cost-effectively.",
+    "domain": "AI & Energy",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "PADO AI",
+    "url": "https://www.linkedin.com/company/padoai/",
+    "location": "United States",
+    "linkedin_bio": "PADO AI Orchestration is a groundbreaking venture born out of LG Electronics and backed by LG NOVA. We are revolutionizing the modern data center by redefining energy management for the AI era.",
+    "domain": "AI & Energy",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "NOX Energy",
+    "url": "https://www.linkedin.com/company/energy-nox/",
+    "location": "Europe",
+    "linkedin_bio": "Our platform connects electricity markets with manufacturers of energy-efficient assets, balancing the grid and unlocking new revenue streams.",
+    "domain": "AI & Energy",
+    "newsletter": "Yes"
   }
 ]

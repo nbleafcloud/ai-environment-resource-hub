@@ -1478,5 +1478,29 @@
     "pricing": "FREE",
     "domain": "AI & Energy",
     "newsletter": "No"
+  },
+  {
+    "title": "DataCenter Footprint: A Digital Common",
+    "url": "https://dcfootprint.org/",
+    "description": "An open-source tool that estimates the environmental footprint of data centers and their services using models aligned with ADEME's Datacenters and Cloud Services methodology. Evaluates lifecycle impacts (manufacturing, transport, use, end-of-life) across carbon emissions, resource depletion, and particulate matter for facilities and specific hosting services.",
+    "pricing": "FREE",
+    "domain": "AI & Sustainability",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "What Uses More?",
+    "url": "https://what-uses-more.com/",
+    "description": "Compare the environmental footprint of digital tasks with this handy tool.",
+    "pricing": "FREE",
+    "domain": "AI & Sustainability",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "AI Model Sustainability Directory",
+    "url": "https://carbontxt.org/ai-model-cards",
+    "description": "Using the carbon.txt syntax and validator, this directory has extracted sustainability data from over 2500 AI model cards from Hugging Face that are listed with co2_eq_emissions metadata.",
+    "pricing": "FREE",
+    "domain": "AI & Sustainability",
+    "newsletter": "Yes"
   }
 ]

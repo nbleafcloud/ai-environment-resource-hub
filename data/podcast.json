@@ -1339,5 +1339,32 @@
     "domain": "AI & Energy",
     "sub_domain": "Solutions to the Energy Drain with AI",
     "newsletter": "No"
+  },
+  {
+    "title": "Data, Power, and Dollars: Financing from the AI Energy Boom",
+    "url": "https://open.spotify.com/episode/235LyKOVh9nD7N4LCdtR33",
+    "description": "The numbers are staggering. The 'magnificent seven' Big Tech companies are expected to have combined capital spending of about $800 billion this year. Data centers' electricity demand is soaring, and hundreds of billions of dollars more are being mobilised to invest in power infrastructure to meet that demand. In this special episode, recorded at the ACORE Finance Forum in New York, host Ed Crooks speaks with five guests at the heart of the revolution in energy finance: bankers, a deal lawyer, a data centre operator and a head of policy.",
+    "date": "May 13, 2026",
+    "domain": "AI & Energy",
+    "sub_domain": "Financing Deals and AI's Energy Demand",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "EP143: Demystifying Data Centers with Dan Crosby: Energy, AI, and the Future Workforce",
+    "url": "https://open.spotify.com/episode/1YiTSvJqL89sahSocW6DbY",
+    "description": "Welcome to another episode of Data Center Revolution! Today, host Kirk Offel sits down with Dan Crosby, founder and CEO of Legend Energy Advisors, to tackle some of the biggest misconceptions surrounding energy use in the data center and AI industries. Drawing parallels between the growth of data centers and historic infrastructure revolutions like the railway, electrification, and the rise of the automobile, Kirk and Dan explore how concerns around energy, environmental impact, and labor are nothing new but are more critical than ever as AI transforms the landscape.",
+    "date": "January 16, 2026",
+    "domain": "AI & Workforce Development",
+    "sub_domain": "Workforce Developments, Energy, and Data Centers",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Ep 8: Anne & Jon Berger - When Will AI Write All The (Mission Critical) Software",
+    "url": "https://www.youtube.com/watch?v=0vjb97jUu7M",
+    "description": "Will AI-driven software eliminate the need for traditional coding teams altogether? Is all the system software going to get re-written in Rust? What about maintenance and operations?",
+    "date": "May 14, 2026",
+    "domain": "AI & Workforce Development",
+    "sub_domain": "Coding Agents versus Software Engineers",
+    "newsletter": "Yes"
   }
 ]

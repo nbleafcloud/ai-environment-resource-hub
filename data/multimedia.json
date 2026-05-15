@@ -1278,5 +1278,29 @@
     "date": "May 6, 2026",
     "domain": "AI & Energy",
     "newsletter": "No"
+  },
+  {
+    "title": "Green AI: Making Machine Learning Environmentally Sustainable | Green Software",
+    "url": "https://www.youtube.com/watch?v=bg1Bv9Y3PaY",
+    "description": "If you build digital products that incorporate AI and have concerns about the energy use and environmental impacts of the technology, then this talk is for you. Charles Humble explores the carbon footprint of AI and shares practical tips on how to minimize this through the different phases of AI development.",
+    "date": "March 18, 2026",
+    "domain": "AI & Digital & Cloud Sustainability",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Should I Feel Guilty Using AI?",
+    "url": "https://www.youtube.com/watch?v=5sFBySzNIX0",
+    "description": "AI tools undeniably have a large impact on the environment. The question is: are they worth it? And should you feel guilty about using them?",
+    "date": "April 2, 2025",
+    "domain": "AI & Multiple Applications",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Strait of Hormuz Fallout: Energy Chaos Is Here to Stay (with Axios' Amy Harder) | Rapid Response",
+    "url": "https://www.youtube.com/watch?v=pN50FB2dgJI",
+    "description": "The Strait of Hormuz crisis is reshaping energy markets in real time. Amy Harder, National Energy Correspondent for Axios, returns to Rapid Response to map the true scale of the oil disruption, why demand destruction may be closer for American consumers than most realize, and why the strait may never fully reopen the way it was. Plus, how the AI data center boom is rewriting electricity demand, what it means for nuclear and renewables, and why the collision of energy, geopolitics, and technology is forcing leaders and everyday people to pay attention.",
+    "date": "May 8, 2026",
+    "domain": "AI & Energy",
+    "newsletter": "Yes"
   }
 ]

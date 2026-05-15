@@ -1894,5 +1894,29 @@
     "domain": "AI & Energy",
     "authoring_body": "IRENA",
     "newsletter": "No"
+  },
+  {
+    "title": "Lessons on Energy Security after the Hormuz Crisis: How Accelerating the Clean Energy Transition Builds Resilience Against Future Price Shocks",
+    "url": "https://www.energy-transitions.org/publications/lessons-on-energy-security-after-hormuz-crisis/",
+    "date": "May 2026",
+    "domain": "AI & Energy",
+    "authoring_body": "Energy Transitions Commission",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "No Bailouts for Big Tech Billionaires: Policies for When the AI Bubble Bursts",
+    "url": "https://static1.squarespace.com/static/5e449c8c3ef68d752f3e70dc/t/6a05e715ad56d562caa96777/1778771733303/No+Bailouts+for+Big+Tech+Billionaires.pdf",
+    "date": "May 2026",
+    "domain": "AI & Economic Transformation",
+    "authoring_body": "Open Markets Institute",
+    "newsletter": "Yes"
+  },
+  {
+    "title": "Economic Contributions of U.S. Data Centers 2023-2024",
+    "url": "https://www.centerofyourdigitalworld.org/2026-impact-study",
+    "date": "May 2026",
+    "domain": "AI & Economic Transformation",
+    "authoring_body": "About Data Centers",
+    "newsletter": "Yes"
   }
 ]
